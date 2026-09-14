@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 584 open roles (351 listed below) · 584 new this week
+### 586 open roles (352 listed below) · 586 new this week
 
-4,550 employers tracked · data as of Sep 14, 2026 at 21:02 UTC
+4,550 employers tracked · data as of Sep 14, 2026 at 21:35 UTC
 
-_351 have a cycle the employer stated · 233 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_352 have a cycle the employer stated · 234 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -85,10 +85,11 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (187 employer-stated)
+## Summer 2027  (188 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Johnson & Johnson | Mechanical Engineering Intern - Robotics R&D 🛂 🆕 | Robotics & Controls | Santa Clara +2 more | Machining, Additive Manufacturing, Injection Molding | Sep 14, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1) |
 | RESPEC | Student Engineering Intern (Structural) 🆕 | Structures & Materials | Brookings, SD, United States | AutoCAD, Revit | Sep 14, 2026 | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000149430049) |
 | RESPEC | Student Engineering Intern (Structural) 🆕 | Structures & Materials | Sioux Falls, SD, United States | AutoCAD, Revit | Sep 14, 2026 | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000149422860) |
 | RESPEC | Student Engineering Intern (Structural) 🆕 | Structures & Materials | Rapid City, SD, United States | AutoCAD, Revit | Sep 14, 2026 | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000149427190) |
@@ -306,6 +307,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Texas Instruments ✓ | Manufacturing Technician Intern 🛂 🆕 | Manufacturing & Process | Lehi, UT, United States | No skills listed | Sep 14, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017932) |
 | Oshkosh | Manufacturing Engineering Intern 🆕 _(2 openings)_ | Manufacturing & Process | Bedford, Pennsylvania, United States | Machining, Welding, Lean | Sep 14, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bedford-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49700) [#2](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bedford-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49696) |
 | Oshkosh | Manufacturing Engineering Intern 🆕 | Manufacturing & Process | Houston, Texas, United States | Excel, Lean | Sep 14, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Houston-Texas-United-States/Manufacturing-Engineering-Intern_R49702) |
 | Oshkosh | Manufacturing Safety Intern 🆕 | Manufacturing & Process | Bedford, Pennsylvania, United States | No skills listed | Sep 14, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bedford-Pennsylvania-United-States/Manufacturing-Safety-Intern_R49622) |
@@ -370,7 +372,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Syska Hennessy Group | Mechanical Engineering Summer Intern 🆕 | Design & CAD | San Diego, CA | AutoCAD, Revit | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8177222) |
 | Syska Hennessy Group | Mechanical Engineer Summer Intern 🆕 | Design & CAD | San Francisco, CA | AutoCAD, Revit | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8177276) |
 | Texas Instruments ✓ | Utah: Manufacturing Engineering Intern 🛂 🆕 | Manufacturing & Process | Dallas, TX, United States | No skills listed | Sep 08, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017627) |
-| Texas Instruments ✓ | North Texas: Manufacturing Engineering Intern 🛂 🆕 | Manufacturing & Process | Dallas, TX, United States | No skills listed | Sep 08, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017628) |
 | Bosch ✓ | Design Engineer Intern 🆕 _(2 openings)_ | Design & CAD | Vernon Hills, IL, United States | Creo, CFD | Sep 08, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148250710) [#2](https://jobs.smartrecruiters.com/BoschGroup/744000148252267) |
 | Bosch ✓ | Test Engineer Intern 🆕 | Test & Quality | Vernon Hills, IL, United States | PLC, Hydraulics, Metrology | Sep 08, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148253129) |
 | Astemo | Quality Engineer Intern 🆕 | Test & Quality | Rock Spring +2 more | Excel, Machining, Casting | Sep 08, 2026 | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Rock-Spring-Georgia-United-States-of-America/Quality-Engineer-Intern_J0051817) |
@@ -461,7 +462,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Bracco | Sep 02 | dropped Sep 02 · closed | 🗓️ dropped |
 | 🎯 Eversource Energy | Sep 14 | dropped Sep 14 · closed | 🗓️ dropped |
 
-_95 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **95** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_96 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **96** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 3 roles that left the list in the last 14 days</summary>
@@ -491,7 +492,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,277 of 4,803 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 862.6s · 493 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,280 of 4,803 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 865.2s · 494 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
