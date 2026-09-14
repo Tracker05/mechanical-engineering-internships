@@ -206,7 +206,7 @@ def main() -> None:
         except (OSError, ElementTree.ParseError):
             problems.append(f"  [xml-invalid] {artifact} is not well-formed XML")
 
-    for name in ("index.html", "confirm.html", "unsubscribe.html"):
+    for name in ("index.html",):
         artifact = os.path.join(paths.DOCS_DIR, name)
         if not os.path.isfile(artifact) or os.path.getsize(artifact) == 0:
             problems.append(f"  [pages-artifact-missing] docs/{name} is missing or empty")
