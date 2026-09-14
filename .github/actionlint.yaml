@@ -1,0 +1,7 @@
+# actionlint 1.7.12 predates GitHub's 2026 concurrency.queue property.
+# Keep every other workflow/schema check active and suppress only that known
+# false positive in the three serialized writer workflows.
+paths:
+  .github/workflows/{audit,discover,update}.yml:
+    ignore:
+      - 'unexpected key "queue" for "concurrency" section'

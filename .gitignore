@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local database files
+*.db
+*.sqlite3
+
+# Secrets (API keys, etc.) — never commit these
+.env
+
+# Local artifacts from the email test tool
+tools/digest_preview.html
+
+# Personal / local-only files (planning, learning notes, experiments) —
+# kept on your machine, never pushed to the public repo.
+PLAN.md
+phase1_greenhouse.py
+LEARN.md
+docs/LEARN.md
+scratchpad/
+LAUNCH.md
+
+# Local scratch directories (research spikes, generated audits, node_modules).
+# Never part of the engine — kept out so `git add -A` can't sweep them in.
+output/
+outputs/
+tmp/
+work/

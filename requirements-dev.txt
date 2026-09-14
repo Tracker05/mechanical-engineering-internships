@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest==9.1.1
+ruff==0.15.20
+actionlint-py==1.7.12.24
+reportlab==4.2.5

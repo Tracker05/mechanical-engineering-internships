@@ -1,0 +1,52 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+    # Only run on code changes, not on the bot's data refreshes.
+    paths:
+      - "src/**"
+      - "tests/**"
+      - "run.py"
+      - "tools/**"
+      - "requirements*.txt"
+      - "db/**"
+      - "data/config.json"
+      - "data/blocklist.json"
+      - "data/candidates.json"
+      - "data/known_windows.json"
+      # The lint config lives in pyproject.toml; watching a ruff.toml that
+      # doesn't exist meant config changes never triggered CI.
+      - "pyproject.toml"
+      # Every workflow, not just this one: retry.yml shipped a gate that
+      # never fired and CI had no opinion because it wasn't watching.
+      - ".github/**"
+  pull_request:
+  workflow_dispatch:      # so a webhook-dropped commit can be checked by hand
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements-dev.txt
+      - name: Lint (ruff)
+        run: ruff check src tests tools run.py
+      - name: Validate GitHub Actions workflows
+        run: actionlint
+      - name: Tests (pytest)
+        run: python -m pytest -q
+      - name: Verify committed artifacts match the store
+        env:
+          # CI validates artifact identity/arithmetic without making a code PR
+          # expire merely because its last real fetch is more than 12h old.
+          ALLOW_STALE_STATS: "1"
+        run: python tools/verify_accuracy.py

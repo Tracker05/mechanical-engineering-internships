@@ -1,0 +1,55 @@
+{
+ "jobs": [
+  {
+   "name": "audit",
+   "conclusion": "failure",
+   "runner_name": "GitHub Actions 1000001679",
+   "steps": [
+    {
+     "name": "Set up job",
+     "conclusion": "success"
+    },
+    {
+     "name": "Checkout",
+     "conclusion": "success"
+    },
+    {
+     "name": "Set up Python",
+     "conclusion": "success"
+    },
+    {
+     "name": "Install dependencies",
+     "conclusion": "success"
+    },
+    {
+     "name": "Re-audit inferred cycles against posting text",
+     "conclusion": "failure"
+    },
+    {
+     "name": "Rebuild published artifacts",
+     "conclusion": "skipped"
+    },
+    {
+     "name": "Verify accuracy before publishing",
+     "conclusion": "skipped"
+    },
+    {
+     "name": "Commit & push if changed",
+     "conclusion": "skipped"
+    },
+    {
+     "name": "Post Set up Python",
+     "conclusion": "skipped"
+    },
+    {
+     "name": "Post Checkout",
+     "conclusion": "success"
+    },
+    {
+     "name": "Complete job",
+     "conclusion": "success"
+    }
+   ]
+  }
+ ]
+}

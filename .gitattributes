@@ -1,0 +1,4 @@
+*.csv text eol=lf
+# RFC 5545 calendar content uses CRLF; normalize it in Git while checking it
+# out with the required wire-format line ending on every platform.
+*.ics text eol=crlf

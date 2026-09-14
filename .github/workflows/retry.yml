@@ -1,0 +1,70 @@
+name: Retry a run that never got a runner
+
+# Why this exists: on 2026-08-06, during a GitHub Actions incident, three
+# "Update internships" runs in a row were killed after exactly 15 minutes
+# having executed ZERO steps, with an empty runner_name and the annotation
+#
+#   "The job was not acquired by a Runner of type hosted even after multiple
+#    attempts"
+#
+# GitHub's hosted pool failed to hand out a machine. Nothing in this repository
+# can prevent that. But the consequence was avoidable: the run died, the
+# published data went stale until the next schedule (~2h later), and a failure
+# email went out that nobody could act on.
+#
+# NOTE on the gate below. GitHub reports the RUN as `failure` while the starved
+# JOB inside it reports `cancelled`. The first version of this workflow gated on
+# workflow_run.conclusion == 'cancelled' and therefore never fired once during
+# the very incident it was written for. Gate on `failure`; the job-level
+# evidence is checked by tools/classify_failure.py, which is unit-tested
+# against the real payloads from those three runs.
+
+on:
+  workflow_run:
+    workflows: ["Update internships", "Discover companies", "Audit inferred cycles", "CI", "pages build and deployment"]
+    types: [completed]
+    branches: [main]
+
+permissions:
+  actions: write        # to re-run the failed workflow
+  contents: read        # checkout the tested classifier from this repository
+
+jobs:
+  retry:
+    # run_attempt == 1 caps this at a single retry, so an outage can never turn
+    # into a re-dispatch loop.
+    if: >-
+      github.event.workflow_run.conclusion == 'failure' &&
+      github.event.workflow_run.run_attempt == 1
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: "3.11"
+
+      - name: Re-run only if the run never executed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          RUN_ID: ${{ github.event.workflow_run.id }}
+          RUN_NAME: ${{ github.event.workflow_run.name }}
+          HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+        run: |
+          set -euo pipefail
+          gh api "repos/$REPO/actions/runs/$RUN_ID/jobs" > jobs.json
+          if python tools/classify_failure.py jobs.json; then
+            CURRENT_SHA="$(gh api "repos/$REPO/commits/main" --jq .sha)"
+            if [ "$HEAD_SHA" != "$CURRENT_SHA" ]; then
+              echo "::warning::'$RUN_NAME' run $RUN_ID is stale ($HEAD_SHA); not rerunning over current main ($CURRENT_SHA)."
+              exit 0
+            fi
+            echo "::notice::'$RUN_NAME' run $RUN_ID never acquired a runner; rerunning once."
+            gh api --method POST "repos/$REPO/actions/runs/$RUN_ID/rerun"
+          else
+            echo "::notice::'$RUN_NAME' run $RUN_ID executed — real failure, not retrying."
+          fi

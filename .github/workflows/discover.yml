@@ -1,0 +1,63 @@
+name: Discover companies
+
+# Daily: mine public internship datasets for new company/ATS tokens and probe
+# the curated candidates, growing data/companies.json on its own. The regular
+# update run then starts polling whatever this finds.
+on:
+  schedule:
+    - cron: "47 8 * * *"    # daily 08:47 UTC — clear of the update slots so it never
+                            # contends with the hourly update run's push
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: intern-engine-writer
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          ref: main
+
+      - name: Refresh queued checkout
+        run: |
+          git fetch --no-tags origin main
+          git checkout --detach origin/main
+          echo "BASE_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Discover + harvest
+        run: |
+          python run.py discover
+          python run.py harvest
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/companies.json
+          if git diff --staged --quiet; then
+            echo "No new companies."
+            exit 0
+          fi
+          git commit -m "chore: discover new companies ($(date -u +'%Y-%m-%d'))"
+          git fetch --no-tags origin main
+          if [ "$(git rev-parse origin/main)" != "$BASE_SHA" ]; then
+            echo "::error::main changed after discovery; refusing a stale rebase"
+            exit 1
+          fi
+          git push origin HEAD:main

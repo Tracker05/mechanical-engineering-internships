@@ -1,0 +1,62 @@
+name: "🔧 Something on the list is wrong"
+description: A role has the wrong country, cycle, sponsorship flag, or is closed/duplicated.
+title: "[wrong] "
+labels: ["data-correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks — this is the most useful kind of issue. Every field on the list
+        is produced by a rule, so a wrong value usually means a rule needs
+        fixing, which fixes it for every other role too.
+
+        Not sure what a field is supposed to mean? See
+        [METHODOLOGY.md](../blob/main/METHODOLOGY.md).
+
+  - type: input
+    id: url
+    attributes:
+      label: The role's Apply link
+      description: Paste it straight from the list — that's the role's identity.
+      placeholder: https://boards.greenhouse.io/…
+    validations:
+      required: true
+
+  - type: dropdown
+    id: field
+    attributes:
+      label: Which field is wrong?
+      options:
+        - Country / location (it's not in the US)
+        - Cycle (wrong season or year)
+        - Sponsorship flag (🇺🇸 / 🛂 / missing)
+        - The role is closed but still listed
+        - It's a duplicate of another row
+        - It isn't a mechanical engineering internship
+        - Company name is wrong or malformed
+        - Posted date
+        - Salary
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should it say?
+      placeholder: "Location is Lausanne, Switzerland — not US."
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Where can I see that?
+      description: >
+        A quote from the posting, or a screenshot. This is what makes the fix
+        checkable instead of a judgement call — and it's how the rule gets a
+        regression test.
+      placeholder: >
+        From the posting: "This internship runs June–August 2027 in our Zurich office."
+    validations:
+      required: true

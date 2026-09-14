@@ -1,0 +1,40 @@
+name: "➕ Add a company"
+description: A company that posts internships isn't being tracked.
+title: "[company] "
+labels: ["new-company"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The engine reads company job boards directly, so all it needs is which
+        platform they use and their identifier on it. If you'd rather do it
+        yourself it's a one-line change — see
+        [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md).
+
+  - type: input
+    id: company
+    attributes:
+      label: Company name
+      placeholder: Ramp
+    validations:
+      required: true
+
+  - type: input
+    id: board
+    attributes:
+      label: Link to their job board
+      description: >
+        The careers page where their openings are listed. If the URL contains
+        greenhouse.io / lever.co / ashbyhq.com / myworkdayjobs.com, that's
+        exactly what I need.
+      placeholder: https://boards.greenhouse.io/ramp
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Quick scope check
+      options:
+        - label: They post software / data / ML / security internships (or co-ops)
+        - label: They hire in the United States

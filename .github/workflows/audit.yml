@@ -1,0 +1,80 @@
+name: Audit inferred cycles
+
+# Weekly: re-check every date-inferred (~) role against its posting's own text.
+# Companies edit postings after they go up (start dates appear later), and the
+# engine's inline check runs only once at first enrichment — this pass keeps
+# the backlog honest: confirmed cycles get un-marked, moved ones re-bucketed,
+# off-cycle ones closed with the verdict recorded so they never re-enter.
+on:
+  schedule:
+    - cron: "17 9 * * 4"    # Thursdays 09:17 UTC — clear of the update slots
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Same group as the 2-hourly update: the two must never race on data/jobs.json.
+concurrency:
+  group: intern-engine-writer
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          ref: main
+
+      - name: Refresh queued checkout
+        run: |
+          git fetch --no-tags origin main
+          git checkout --detach origin/main
+          echo "BASE_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Re-audit inferred cycles against posting text
+        run: python tools/audit_seasons.py --apply
+
+      # The audit rewrites cycles in the store, so README/CSV/API/dashboard are
+      # now stale. Committing only jobs.json left the public pages disagreeing
+      # with the data until the next hourly run happened to overwrite them.
+      - name: Rebuild published artifacts
+        run: python run.py render
+
+      - name: Verify accuracy before publishing
+        env:
+          MIN_OPEN_ROLES: "60"
+          MAX_STATS_AGE_HOURS: "2"
+        run: python tools/verify_accuracy.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md data/jobs.json data/internships.csv data/stats.json \
+                  data/observed.json \
+                  docs/index.html docs/feed.xml docs/unsubscribe.html \
+                  docs/confirm.html docs/internships.csv \
+                  docs/radar.ics docs/trends-light.svg docs/trends-dark.svg \
+                  docs/api/jobs.json docs/api/stats.json docs/api/radar.json
+          if git diff --staged --quiet; then
+            echo "Backlog already in line."
+            exit 0
+          fi
+          git commit -m "chore: re-audit inferred cycles ($(date -u +'%Y-%m-%d'))"
+          git fetch --no-tags origin main
+          if [ "$(git rev-parse origin/main)" != "$BASE_SHA" ]; then
+            echo "::error::main changed after audit; refusing to rebase stale artifacts"
+            exit 1
+          fi
+          git push origin HEAD:main
