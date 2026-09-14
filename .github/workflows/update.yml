@@ -78,8 +78,7 @@ jobs:
           git add README.md data/jobs.json data/internships.csv data/stats.json \
                   data/health.json data/history.jsonl data/mail_state.json \
                   data/observed.json data/known_windows.json data/outbox.json \
-                  docs/index.html docs/feed.xml docs/unsubscribe.html \
-                  docs/confirm.html \
+                  docs/index.html docs/feed.xml \
                   docs/internships.csv \
                   docs/radar.ics docs/trends-light.svg docs/trends-dark.svg \
                   docs/api/jobs.json docs/api/stats.json docs/api/radar.json
