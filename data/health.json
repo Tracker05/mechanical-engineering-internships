@@ -1094,6 +1094,11 @@
     "last_attempt_at": "2026-09-12T05:17:17Z",
     "last_error": "malformed-response"
   },
+  "workday:acciona:acciona_employment_channel": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:activision:blizzard_external_careers": {
     "consecutive_failures": 18,
     "last_attempt_at": "2026-09-14T00:25:43Z",
@@ -1119,30 +1124,20 @@
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://aegion.wd501.myworkdayjobs.com/wday/cxs/aegion/Aegion_Careers/jobs'\nFor more information check: https://developer.mozilla.org/"
   },
-  "workday:agilent:agilent_careers": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
   "workday:agoc:external": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T18:41:58Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://agoc.wd5.myworkdayjobs.com/wday/cxs/agoc/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workday:alliance:nissanjobs": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
-  "workday:allisontransmission:ati-external": {
+  "workday:amarillo:amarillo_external_career_site": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
-  "workday:allstate:allstate_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://amarillo.wd5.myworkdayjobs.com/wday/cxs/amarillo/amarillo_external_career_site/jobs'\nFor more information check: https://develope"
   },
   "workday:amat:external": {
     "consecutive_failures": 3,
@@ -1152,16 +1147,6 @@
   "workday:americanredcross:american_red_cross_careers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T15:49:34Z",
-    "last_error": "malformed-response"
-  },
-  "workday:ameriprise:ameriprise": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ameriprise.wd5.myworkdayjobs.com/wday/cxs/ameriprise/Ameriprise/jobs'\nFor more information check: https://developer.mozilla.org/e"
-  },
-  "workday:amfam:careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
     "last_error": "malformed-response"
   },
   "workday:amgen:careers": {
@@ -1194,30 +1179,15 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
-  "workday:arienscompany:external": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://arienscompany.wd5.myworkdayjobs.com/wday/cxs/arienscompany/external/jobs'\nFor more information check: https://developer.mozilla.o"
-  },
   "workday:armaninollp:armanino": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-09-14T17:08:33Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://armaninollp.wd1.myworkdayjobs.com/wday/cxs/armaninollp/Armanino/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
-  "workday:arraytechinc:array_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://arraytechinc.wd5.myworkdayjobs.com/wday/cxs/arraytechinc/Array_Careers/jobs'\nFor more information check: https://developer.mozill"
-  },
   "workday:arrow:ac": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-09-14T15:11:13Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://arrow.wd1.myworkdayjobs.com/wday/cxs/arrow/ac/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
-  },
-  "workday:arrowstreetcapital:campus_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://arrowstreetcapital.wd5.myworkdayjobs.com/wday/cxs/arrowstreetcapital/Campus_Careers/jobs'\nFor more information check: https://dev"
   },
   "workday:ascensushr:ascensuscareers": {
     "consecutive_failures": 3,
@@ -1279,6 +1249,11 @@
     "last_attempt_at": "2026-09-14T16:09:26Z",
     "last_error": "malformed-response"
   },
+  "workday:athenahealth:external": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:atriumhospitality:atriumhospitality": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:08:33Z",
@@ -1333,11 +1308,6 @@
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:39:20Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://axiomspace.wd5.myworkdayjobs.com/wday/cxs/axiomspace/External_Career_Site/jobs'\nFor more information check: https://developer.moz"
-  },
-  "workday:axiscapital:axiscareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://axiscapital.wd1.myworkdayjobs.com/wday/cxs/axiscapital/axiscareers/jobs'\nFor more information check: https://developer.mozilla.or"
   },
   "workday:axos:axos": {
     "consecutive_failures": 3,
@@ -1419,6 +1389,11 @@
     "last_attempt_at": "2026-09-14T18:03:29Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://bbh.wd5.myworkdayjobs.com/wday/cxs/bbh/BBH/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
+  "workday:bbinsurance:careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:bcbsks:external": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:39:20Z",
@@ -1465,8 +1440,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://belk.wd1.myworkdayjobs.com/wday/cxs/belk/careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
   "workday:belron:safelite_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:benefis:bhs": {
@@ -1559,39 +1534,24 @@
     "last_attempt_at": "2026-09-14T16:09:26Z",
     "last_error": "malformed-response"
   },
-  "workday:bristolmyerssquibb:bms": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
-  "workday:broadcom:external_career": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/external_career/jobs'\nFor more information check: https://developer.mozilla.org/"
-  },
   "workday:broadridge:careers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/careers/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
-  },
-  "workday:brookfield:bpandc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/bpandc/jobs'\nFor more information check: https://developer.mozilla.org/en-US"
-  },
-  "workday:brooksauto:brooks_external_site": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://brooksauto.wd1.myworkdayjobs.com/wday/cxs/brooksauto/Brooks_External_Site/jobs'\nFor more information check: https://developer.moz"
   },
   "workday:brunswick:search": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-09-14T15:11:13Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://brunswick.wd1.myworkdayjobs.com/wday/cxs/brunswick/search/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
-  "workday:caci:external": {
+  "workday:cadence:external_careers": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs'\nFor more information check: https://developer.mozilla.org/e"
+  },
+  "workday:cadence:univ_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:calibercollision:caliber": {
@@ -1604,25 +1564,45 @@
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://cambiahealth.wd1.myworkdayjobs.com/wday/cxs/cambiahealth/External/jobs'\nFor more information check: https://developer.mozilla."
   },
+  "workday:capgroup:capitalgroupcareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs'\nFor more information check: https://developer.mozilla."
+  },
+  "workday:capitalhealth:capitalhealthcareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://capitalhealth.wd1.myworkdayjobs.com/wday/cxs/capitalhealth/CapitalHealthCareers/jobs'\nFor more information check: https://develop"
+  },
   "workday:cardinalhealth:ext": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-09-14T17:08:33Z",
     "last_error": "malformed-response"
+  },
+  "workday:carmax:external": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://carmax.wd1.myworkdayjobs.com/wday/cxs/carmax/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
   "workday:carters:carterscareers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
-  "workday:cat:caterpillarcareers": {
+  "workday:cboe:external_career_cboe": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cboe.wd1.myworkdayjobs.com/wday/cxs/cboe/External_Career_CBOE/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "workday:cbrlgroup:crackerbarrelexternal": {
     "consecutive_failures": 18,
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://cbrlgroup.wd5.myworkdayjobs.com/wday/cxs/cbrlgroup/CrackerBarrelExternal/jobs'\nFor more information check: https://developer.m"
+  },
+  "workday:cccis:broadbean_external": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cccis.wd1.myworkdayjobs.com/wday/cxs/cccis/broadbean_external/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "workday:ccf:clevelandcliniccareers": {
     "consecutive_failures": 3,
@@ -1634,6 +1614,11 @@
     "last_attempt_at": "2026-09-14T16:09:26Z",
     "last_error": "malformed-response"
   },
+  "workday:centific:centific_global": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://centific.wd1.myworkdayjobs.com/wday/cxs/centific/Centific_Global/jobs'\nFor more information check: https://developer.mozilla.org/"
+  },
   "workday:cff:explore-career-opportunities": {
     "consecutive_failures": 18,
     "last_attempt_at": "2026-09-14T00:25:43Z",
@@ -1644,10 +1629,10 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
-  "workday:championx:championx_external": {
+  "workday:chenmed:chenmed": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://championx.wd1.myworkdayjobs.com/wday/cxs/championx/championx_external/jobs'\nFor more information check: https://developer.mozilla"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://chenmed.wd1.myworkdayjobs.com/wday/cxs/chenmed/chenmed/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "workday:chop:chopexternalcareers": {
     "consecutive_failures": 18,
@@ -1659,14 +1644,14 @@
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://chop.wd5.myworkdayjobs.com/wday/cxs/chop/choppreboardonly/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
   },
-  "workday:chrobinson:chrobinson": {
+  "workday:chordenergy:external": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://chordenergy.wd1.myworkdayjobs.com/wday/cxs/chordenergy/external/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
-  "workday:cibc:search": {
+  "workday:chrobinson:chrobinson": {
     "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:cigna:cignacareers": {
@@ -1674,9 +1659,14 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
-  "workday:circlek:circlekstorejobs": {
+  "workday:circle:circle": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://circle.wd1.myworkdayjobs.com/wday/cxs/circle/Circle/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
+  },
+  "workday:circlek:circlekstorejobs": {
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:citi:2": {
@@ -1684,10 +1674,10 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
-  "workday:claytonhomes:claytoncareers": {
+  "workday:clarioclinical:clarioclinical_careers": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://clarioclinical.wd1.myworkdayjobs.com/wday/cxs/clarioclinical/clarioclinical_careers/jobs'\nFor more information check: https://dev"
   },
   "workday:clearwateranalytics:clearwater_analytics_careers": {
     "consecutive_failures": 3,
@@ -1719,6 +1709,11 @@
     "last_attempt_at": "2026-09-13T17:14:22Z",
     "last_error": "HTTPStatusError: Client error '410 Gone' for url 'https://comcast.wd5.myworkdayjobs.com/wday/cxs/comcast/Comcast_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
+  "workday:commercebank:commercejobs": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://commercebank.wd1.myworkdayjobs.com/wday/cxs/commercebank/CommerceJobs/jobs'\nFor more information check: https://developer.mozilla"
+  },
   "workday:conagrabrands:careers_us": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-09-14T15:11:13Z",
@@ -1729,15 +1724,10 @@
     "last_attempt_at": "2026-09-13T17:14:22Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://condenast.wd5.myworkdayjobs.com/wday/cxs/condenast/CondeCareers/jobs'\nFor more information check: https://developer.mozilla.or"
   },
-  "workday:convatec:convatec": {
+  "workday:copeland:copeland_external_careers_page": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
-  },
-  "workday:cooperstandard:cooperstandard": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cooperstandard.wd1.myworkdayjobs.com/wday/cxs/cooperstandard/CooperStandard/jobs'\nFor more information check: https://developer.m"
   },
   "workday:coreandmain:coreandmain": {
     "consecutive_failures": 6,
@@ -1764,6 +1754,11 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://crosscountrymortgage.wd1.myworkdayjobs.com/wday/cxs/crosscountrymortgage/CCMCareers/jobs'\nFor more information check: https://dev"
   },
+  "workday:csiweb:csi_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://csiweb.wd1.myworkdayjobs.com/wday/cxs/csiweb/CSI_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
+  },
   "workday:cspire-telapex:external-careers": {
     "consecutive_failures": 10,
     "last_attempt_at": "2026-09-12T05:17:17Z",
@@ -1773,11 +1768,6 @@
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:39:20Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cubic.wd1.myworkdayjobs.com/wday/cxs/cubic/cubic_USA_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
-  },
-  "workday:curtisswright:cw_external_career_site": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://curtisswright.wd1.myworkdayjobs.com/wday/cxs/curtisswright/cw_external_career_site/jobs'\nFor more information check: https://deve"
   },
   "workday:cvshealth:cvs_health_careers": {
     "consecutive_failures": 3,
@@ -1794,10 +1784,15 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
-  "workday:cyrusone:cyrusonecareerportal": {
+  "workday:daikinapplied:daikin-careers": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://daikinapplied.wd1.myworkdayjobs.com/wday/cxs/daikinapplied/Daikin-Careers/jobs'\nFor more information check: https://developer.moz"
+  },
+  "workday:dairynet:dpccareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dairynet.wd1.myworkdayjobs.com/wday/cxs/dairynet/DPCcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US"
   },
   "workday:danaher:danaherjobs": {
     "consecutive_failures": 6,
@@ -1824,20 +1819,15 @@
     "last_attempt_at": "2026-09-14T15:11:13Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://denverhealth.wd1.myworkdayjobs.com/wday/cxs/denverhealth/DHHA-Main/jobs'\nFor more information check: https://developer.mozilla.or"
   },
-  "workday:desjardins:desjardins": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
   "workday:dexcom:dexcom": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
   "workday:dickssportinggoods:dsg": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dickssportinggoods.wd1.myworkdayjobs.com/wday/cxs/dickssportinggoods/DSG/jobs'\nFor more information check: https://developer.mozi"
   },
   "workday:dlapiper:dlapiper": {
     "consecutive_failures": 3,
@@ -1854,45 +1844,65 @@
     "last_attempt_at": "2026-09-14T16:39:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dow.wd1.myworkdayjobs.com/wday/cxs/dow/ExternalCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
+  "workday:dowjones:dow_jones_career": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dowjones.wd1.myworkdayjobs.com/wday/cxs/dowjones/Dow_Jones_Career/jobs'\nFor more information check: https://developer.mozilla.org"
+  },
   "workday:drivenbrands:drivenbrandscareersite": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T16:39:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://drivenbrands.wd1.myworkdayjobs.com/wday/cxs/drivenbrands/drivenbrandscareersite/jobs'\nFor more information check: https://develop"
   },
   "workday:drivetime:drivetime": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://drivetime.wd1.myworkdayjobs.com/wday/cxs/drivetime/drivetime/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
   },
-  "workday:dukeenergy:search": {
+  "workday:dutchbros:dbshops": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dukeenergy.wd1.myworkdayjobs.com/wday/cxs/dukeenergy/search/jobs'\nFor more information check: https://developer.mozilla.org/en-US"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dutchbros.wd1.myworkdayjobs.com/wday/cxs/dutchbros/DBShops/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
+  },
+  "workday:dxctechnology:dxcjobs": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/dxcjobs/jobs'\nFor more information check: https://developer.mozilla.or"
   },
   "workday:earlywarning:earlywarningcareers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:39:20Z",
     "last_error": "malformed-response"
   },
-  "workday:echo:echo_logistics": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://echo.wd1.myworkdayjobs.com/wday/cxs/echo/Echo_Logistics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
   "workday:ecolab:ecolab_external": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:39:20Z",
     "last_error": "malformed-response"
   },
-  "workday:eisneramper:eisneramperearlycareers": {
+  "workday:elanco:external_career": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://eisneramper.wd1.myworkdayjobs.com/wday/cxs/eisneramper/EisnerAmperEarlyCareers/jobs'\nFor more information check: https://develope"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:elevancehealth:ant": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://elevancehealth.wd1.myworkdayjobs.com/wday/cxs/elevancehealth/ANT/jobs'\nFor more information check: https://developer.mozilla.org/"
   },
   "workday:embryriddle:external": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://embryriddle.wd1.myworkdayjobs.com/wday/cxs/embryriddle/External/jobs'\nFor more information check: https://developer.mozilla.org/e"
+  },
+  "workday:emcins:emc_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:entegris:entegriscareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://entegris.wd1.myworkdayjobs.com/wday/cxs/entegris/entegriscareers/jobs'\nFor more information check: https://developer.mozilla.org/"
   },
   "workday:envista:envistacareers": {
     "consecutive_failures": 3,
@@ -1904,9 +1914,14 @@
     "last_attempt_at": "2026-09-14T16:09:26Z",
     "last_error": "malformed-response"
   },
+  "workday:essentiahealth:essentia_health": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://essentiahealth.wd1.myworkdayjobs.com/wday/cxs/essentiahealth/Essentia_Health/jobs'\nFor more information check: https://developer."
+  },
   "workday:eversource:externalsite": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://eversource.wd1.myworkdayjobs.com/wday/cxs/eversource/ExternalSite/jobs'\nFor more information check: https://developer.mozilla.org"
   },
   "workday:evrazna:evraz": {
@@ -1914,24 +1929,34 @@
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://evrazna.wd5.myworkdayjobs.com/wday/cxs/evrazna/EVRAZ/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
-  "workday:exactsciences:exact_sciences": {
+  "workday:exelixis:exel": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://exactsciences.wd1.myworkdayjobs.com/wday/cxs/exactsciences/Exact_Sciences/jobs'\nFor more information check: https://developer.moz"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://exelixis.wd1.myworkdayjobs.com/wday/cxs/exelixis/exel/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
-  "workday:fairstone:fairstonecareers": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
+  "workday:fanniemae:fanniemaecareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs'\nFor more information check: https://developer.mozilla.o"
+  },
+  "workday:fau:fau": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://fau.wd1.myworkdayjobs.com/wday/cxs/fau/FAU/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
+  "workday:fenwick:fenwick_external_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://fenwick.wd1.myworkdayjobs.com/wday/cxs/fenwick/Fenwick_External_Careers/jobs'\nFor more information check: https://developer.mozil"
   },
   "workday:fifththird:53careers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:39:20Z",
     "last_error": "malformed-response"
   },
-  "workday:firstquality:firstquality": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+  "workday:fivebelow:fivebelowcareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:flextronics:careers": {
@@ -1939,14 +1964,19 @@
     "last_attempt_at": "2026-09-12T21:42:41Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://flextronics.wd1.myworkdayjobs.com/wday/cxs/flextronics/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en"
   },
+  "workday:floridatech:floridatechcareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://floridatech.wd5.myworkdayjobs.com/wday/cxs/floridatech/FloridaTechCareers/jobs'\nFor more information check: https://developer.mozilla.org/en"
+  },
   "workday:flowserve:applied": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://flowserve.wd1.myworkdayjobs.com/wday/cxs/flowserve/applied/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "workday:flsmidth:fls_global": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:fortrea:fortrea": {
@@ -1964,10 +1994,10 @@
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://fragomen.wd1.myworkdayjobs.com/wday/cxs/fragomen/FragomenCareers/jobs'\nFor more information check: https://developer.mozilla.o"
   },
-  "workday:freese:freese_nichols_external": {
+  "workday:freseniusmedicalcare:fme": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://freese.wd1.myworkdayjobs.com/wday/cxs/freese/Freese_Nichols_External/jobs'\nFor more information check: https://developer.mozilla."
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
   },
   "workday:fugro:broadbean_external": {
     "consecutive_failures": 29,
@@ -1980,19 +2010,19 @@
     "last_error": "malformed-response"
   },
   "workday:gdit:external_career_site": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://gdit.wd5.myworkdayjobs.com/wday/cxs/gdit/external_career_site/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "workday:generalmotors:careers_gm": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
-  "workday:genpt:careers": {
+  "workday:genesys:genesys": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://genpt.wd1.myworkdayjobs.com/wday/cxs/genpt/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://genesys.wd1.myworkdayjobs.com/wday/cxs/genesys/Genesys/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "workday:georgetown:georgetown_admin_careers": {
     "consecutive_failures": 3,
@@ -2000,8 +2030,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://georgetown.wd1.myworkdayjobs.com/wday/cxs/georgetown/Georgetown_Admin_Careers/jobs'\nFor more information check: https://developer"
   },
   "workday:gflenv:careers": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:ghr:lateral-emea": {
@@ -2013,6 +2043,16 @@
     "consecutive_failures": 11,
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/us-emplsv/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
+  },
+  "workday:gi:global_infrastructure": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://gi.wd1.myworkdayjobs.com/wday/cxs/gi/Global_Infrastructure/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
+  },
+  "workday:globalfoundries:external": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
   },
   "workday:globusmedical:gmed_careers": {
     "consecutive_failures": 3,
@@ -2034,19 +2074,34 @@
     "last_attempt_at": "2026-09-11T22:00:22Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://gtsgbu.wd3.myworkdayjobs.com/wday/cxs/gtsgbu/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
-  "workday:hcmportal:search": {
+  "workday:guardianlife:guardian-life-careers": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
-  "workday:hcsc:hcsc_external": {
+  "workday:guidehouse:external": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://hcsc.wd1.myworkdayjobs.com/wday/cxs/hcsc/HCSC_External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://guidehouse.wd1.myworkdayjobs.com/wday/cxs/guidehouse/external/jobs'\nFor more information check: https://developer.mozilla.org/en-"
+  },
+  "workday:gundersenhealth:gundersen": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:hancockwhitney:careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:hcmportal:search": {
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
   },
   "workday:hdsupply:external": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://hdsupply.wd1.myworkdayjobs.com/wday/cxs/hdsupply/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
   "workday:healthcare:search": {
@@ -2054,14 +2109,14 @@
     "last_attempt_at": "2026-09-14T17:08:33Z",
     "last_error": "malformed-response"
   },
+  "workday:heidelbergmaterials:global_hm_career_site": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:highmarkhealth:highmark": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:39:20Z",
-    "last_error": "malformed-response"
-  },
-  "workday:hitachi:hitachi": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
     "last_error": "malformed-response"
   },
   "workday:holmanautogroup:holmanenterprisescareers": {
@@ -2074,19 +2129,24 @@
     "last_attempt_at": "2026-09-14T16:09:26Z",
     "last_error": "malformed-response"
   },
-  "workday:horizonmedia:careeropportunities": {
+  "workday:hpe:acjobsite": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://horizonmedia.wd1.myworkdayjobs.com/wday/cxs/horizonmedia/CareerOpportunities/jobs'\nFor more information check: https://developer."
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
   },
-  "workday:humana:centerwell_external_career_site": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://humana.wd5.myworkdayjobs.com/wday/cxs/humana/centerwell_external_career_site/jobs'\nFor more information check: https://developer."
+  "workday:hpe:jobsathpe": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:hubinternational:hubinternational": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://hubinternational.wd1.myworkdayjobs.com/wday/cxs/hubinternational/hubinternational/jobs'\nFor more information check: https://devel"
   },
   "workday:huntington:hnbcareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:huntsman:huntsman": {
@@ -2099,24 +2159,34 @@
     "last_attempt_at": "2026-09-14T17:08:33Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
+  "workday:hyvee:hyveecareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:idexx:idexx": {
     "consecutive_failures": 17,
     "last_attempt_at": "2026-09-12T13:23:34Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://idexx.wd1.myworkdayjobs.com/wday/cxs/idexx/IDEXX/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
-  "workday:imerys:imerys_career2": {
+  "workday:illumina:illumina-careers": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumina/illumina-careers/jobs'\nFor more information check: https://developer.mozilla.org"
+  },
+  "workday:imerys:imerys_career2": {
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:imh:intermountaincareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:ing:icsgblcor": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
-  "workday:ingredion:ingredioncareers": {
     "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:insmed:external": {
@@ -2124,15 +2194,50 @@
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://insmed.wd5.myworkdayjobs.com/wday/cxs/insmed/EXTERNAL/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
+  "workday:integralife:careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://integralife.wd1.myworkdayjobs.com/wday/cxs/integralife/careers/jobs'\nFor more information check: https://developer.mozilla.org/en"
+  },
+  "workday:intel:external": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
+  },
+  "workday:intelcomgroup:intelcom": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:invenergyllc:invenergycareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://invenergyllc.wd1.myworkdayjobs.com/wday/cxs/invenergyllc/invenergycareers/jobs'\nFor more information check: https://developer.moz"
+  },
+  "workday:ivytech:ivy_tech_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ivytech.wd1.myworkdayjobs.com/wday/cxs/ivytech/ivy_tech_careers/jobs'\nFor more information check: https://developer.mozilla.org/e"
+  },
   "workday:jabil:jabil_careers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T18:41:58Z",
     "last_error": "malformed-response"
   },
-  "workday:jcrew:jcrewcareers": {
+  "workday:jackson:jackson_careers": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://jackson.wd1.myworkdayjobs.com/wday/cxs/jackson/Jackson_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en"
+  },
+  "workday:jcrew:jcrewcareers": {
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://jcrew.wd1.myworkdayjobs.com/wday/cxs/jcrew/jcrewcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+  },
+  "workday:jcrew:madewellcareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://jcrew.wd1.myworkdayjobs.com/wday/cxs/jcrew/MadewellCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "workday:jeffersonhealth:thomasjeffersonexternal": {
     "consecutive_failures": 3,
@@ -2159,24 +2264,24 @@
     "last_attempt_at": "2026-09-14T18:03:29Z",
     "last_error": "malformed-response"
   },
-  "workday:kemper:kemper_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
   "workday:kohls:kohlscareers": {
     "consecutive_failures": 18,
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://kohls.wd1.myworkdayjobs.com/wday/cxs/kohls/kohlscareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
-  "workday:levistraussandco:external": {
+  "workday:labcorp:external": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://labcorp.wd1.myworkdayjobs.com/wday/cxs/labcorp/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+  },
+  "workday:landolakes:landolakes": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
-  "workday:lifetime:lifetime": {
+  "workday:levistraussandco:external": {
     "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:lighting:jobs-and-careers": {
@@ -2200,8 +2305,8 @@
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://lithia.wd5.myworkdayjobs.com/wday/cxs/lithia/LithiaCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "workday:lonza:lonza_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:lowes:lws_external_cs": {
@@ -2210,9 +2315,14 @@
     "last_error": "malformed-response"
   },
   "workday:lthc:excellusbcbscareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://lthc.wd1.myworkdayjobs.com/wday/cxs/lthc/ExcellusBCBSCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
+  },
+  "workday:lthc:univerahealthcarecareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://lthc.wd1.myworkdayjobs.com/wday/cxs/lthc/univerahealthcarecareers/jobs'\nFor more information check: https://developer.mozilla.org"
   },
   "workday:maersk:maersk_careers": {
     "consecutive_failures": 3,
@@ -2225,13 +2335,13 @@
     "last_error": "malformed-response"
   },
   "workday:mainegeneral:mainegeneralcareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
-  "workday:massmutual:mmcareers": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+  "workday:manulife:mfcjh_jobs": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:mastercard:corporatecareers": {
@@ -2249,10 +2359,25 @@
     "last_attempt_at": "2026-09-14T18:03:29Z",
     "last_error": "malformed-response"
   },
+  "workday:medtronic:redeploymentmedtroniccareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/redeploymentmedtroniccareers/jobs'\nFor more information check: https://develop"
+  },
+  "workday:meredith:ext": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:mgmresorts:mgmcareers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T16:09:26Z",
     "last_error": "malformed-response"
+  },
+  "workday:mhs:careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://mhs.wd1.myworkdayjobs.com/wday/cxs/mhs/careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workday:milestone:milestone_external": {
     "consecutive_failures": 27,
@@ -2263,6 +2388,11 @@
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T18:03:29Z",
     "last_error": "malformed-response"
+  },
+  "workday:montage:montage_international": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://montage.wd1.myworkdayjobs.com/wday/cxs/montage/Montage_International/jobs'\nFor more information check: https://developer.mozilla."
   },
   "workday:montrose:meg": {
     "consecutive_failures": 18,
@@ -2284,19 +2414,24 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
-  "workday:mufgub:mufg-careers": {
+  "workday:mtb:wtexternal": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:mufgub:mufg-careers": {
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:multicare:multicare": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://multicare.wd1.myworkdayjobs.com/wday/cxs/multicare/multicare/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "workday:musc:musc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:myhrabc:global": {
@@ -2304,14 +2439,29 @@
     "last_attempt_at": "2026-09-14T17:39:20Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://myhrabc.wd5.myworkdayjobs.com/wday/cxs/myhrabc/Global/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
-  "workday:myview:paradox_careers": {
+  "workday:myhrhome:onemaincareers": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
+  },
+  "workday:myview:paradox_careers": {
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:nascar:nascar": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://nascar.wd1.myworkdayjobs.com/wday/cxs/nascar/NASCAR/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "workday:nasdaq:global_external_site": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:08:33Z",
+    "last_error": "malformed-response"
+  },
+  "workday:nbtbancorp:nbt-b": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:netflix:netflix": {
@@ -2319,15 +2469,15 @@
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://netflix.wd1.myworkdayjobs.com/wday/cxs/netflix/Netflix/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
+  "workday:newrez:nrz": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:ngc:northrop_grumman_restricted_site": {
     "consecutive_failures": 18,
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/northrop_grumman_restricted_site/jobs'\nFor more information check: https://developer.mozilla.org/e"
-  },
-  "workday:niagarawater:niagara": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
   },
   "workday:nio:nio_careers": {
     "consecutive_failures": 3,
@@ -2345,24 +2495,29 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://nrel.wd5.myworkdayjobs.com/wday/cxs/nrel/nrel/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "workday:nshs:ns-eeh": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://nshs.wd1.myworkdayjobs.com/wday/cxs/nshs/ns-eeh/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
-  "workday:okgov:okgovjobs": {
+  "workday:ntrs:northerntrust": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
-  "workday:omers:omers_external": {
+  "workday:nyp:nypcareers": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://nyp.wd1.myworkdayjobs.com/wday/cxs/nyp/nypcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workday:onedigital:onedigital": {
     "consecutive_failures": 19,
     "last_attempt_at": "2026-09-11T22:00:22Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://onedigital.wd5.myworkdayjobs.com/wday/cxs/onedigital/onedigital/jobs'\nFor more information check: https://developer.mozilla.or"
+  },
+  "workday:onelineage:external": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://onelineage.wd1.myworkdayjobs.com/wday/cxs/onelineage/external/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "workday:oreillyauto:oreilly": {
     "consecutive_failures": 3,
@@ -2372,6 +2527,11 @@
   "workday:orionadvisor:orion_careers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:39:20Z",
+    "last_error": "malformed-response"
+  },
+  "workday:oshkoshcorporation:oshkosh": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:osv-amerisure:amerisure": {
@@ -2439,14 +2599,9 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
-  "workday:paypal:jobs": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
   "workday:pentair:pentair_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:philips:jobs-and-careers": {
@@ -2455,8 +2610,8 @@
     "last_error": "malformed-response"
   },
   "workday:pillsburylaw:external": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:pimacounty:pimacareers": {
@@ -2479,9 +2634,9 @@
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://procasemanagement.wd1.myworkdayjobs.com/wday/cxs/procasemanagement/PCM/jobs'\nFor more information check: https://developer.moz"
   },
-  "workday:rakuten:kobo": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+  "workday:psu:psu_staff": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:raymondjames:raymondjamescareers": {
@@ -2489,10 +2644,25 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
+  "workday:rbc:externalprivatepostingstudents": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:rbc:rbcglobal1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:redfin:redfin_careers": {
     "consecutive_failures": 29,
     "last_attempt_at": "2026-09-12T23:36:07Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://redfin.wd1.myworkdayjobs.com/wday/cxs/redfin/redfin_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
+  },
+  "workday:regions:regions_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
   },
   "workday:relx:elsevierjobs": {
     "consecutive_failures": 3,
@@ -2504,14 +2674,14 @@
     "last_attempt_at": "2026-09-14T18:03:29Z",
     "last_error": "malformed-response"
   },
-  "workday:relx:risksolutions": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
   "workday:rockwellautomation:external_rockwell_automation": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T16:39:05Z",
+    "last_error": "malformed-response"
+  },
+  "workday:roswellpark:externalcareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:saintlukes:saintlukeshealthcareers": {
@@ -2524,24 +2694,24 @@
     "last_attempt_at": "2026-09-14T00:25:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://sallie-mae.wd5.myworkdayjobs.com/wday/cxs/sallie-mae/Careers/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
-  "workday:sandvik:sandvik-jobs": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
   "workday:sanofi:sanoficareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:santander:santandercareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:saputo:saputo_external_careers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T17:08:33Z",
+    "last_error": "malformed-response"
+  },
+  "workday:scgov:scgov": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:schreiberfoods:schreiber_careers": {
@@ -2560,8 +2730,8 @@
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://scripps.wd5.myworkdayjobs.com/wday/cxs/scripps/Scripps_Careers/jobs'\nFor more information check: https://developer.mozilla.org"
   },
   "workday:sensata:sensata-careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:shawinc:external": {
@@ -2574,6 +2744,11 @@
     "last_attempt_at": "2026-09-14T17:39:20Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://signetjewelers.wd1.myworkdayjobs.com/wday/cxs/signetjewelers/bluenile/jobs'\nFor more information check: https://developer.mozilla"
   },
+  "workday:silabs:siliconlabscareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:skechers:one-career-site": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T16:09:26Z",
@@ -2584,9 +2759,9 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
-  "workday:snhu:external_career_site": {
+  "workday:spectrumhealth:corewellhealthcareers": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:spgi:am_careers": {
@@ -2598,6 +2773,11 @@
     "consecutive_failures": 10,
     "last_attempt_at": "2026-09-12T05:17:17Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://ssmh.wd5.myworkdayjobs.com/wday/cxs/ssmh/ssmhealth/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
+  },
+  "workday:standoutforgood:standoutforgood": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
   },
   "workday:stanfordhealthcare:shc_external_career_site": {
     "consecutive_failures": 18,
@@ -2619,15 +2799,20 @@
     "last_attempt_at": "2026-09-14T16:39:05Z",
     "last_error": "malformed-response"
   },
-  "workday:sysco:syscocareers": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
   "workday:takeda:external": {
     "consecutive_failures": 20,
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://takeda.wd3.myworkdayjobs.com/wday/cxs/takeda/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
+  },
+  "workday:tamus:agrilife_research_external": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:tamus:system-wide_external": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
   },
   "workday:target:targetcareers": {
     "consecutive_failures": 3,
@@ -2644,30 +2829,30 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
+  "workday:theclaremontcolleges:cmc_staff": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://theclaremontcolleges.wd1.myworkdayjobs.com/wday/cxs/theclaremontcolleges/CMC_Staff/jobs'\nFor more information check: https://deve"
+  },
+  "workday:thehartford:careers_external": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:thinkbrg:brg_external_career_site": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-09-14T15:11:13Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://thinkbrg.wd5.myworkdayjobs.com/wday/cxs/thinkbrg/BRG_External_Career_Site/jobs'\nFor more information check: https://developer.moz"
   },
   "workday:tmobile:alumni": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:tmobile:external": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T18:03:29Z",
     "last_error": "malformed-response"
-  },
-  "workday:truist:careers": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
-  "workday:tsys:tsys": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://tsys.wd1.myworkdayjobs.com/wday/cxs/tsys/TSYS/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   },
   "workday:tysonfoods:tsn": {
     "consecutive_failures": 3,
@@ -2679,24 +2864,9 @@
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
   },
-  "workday:umchealthsystem:external": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "malformed-response"
-  },
   "workday:ummc:umccareers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T16:39:05Z",
-    "last_error": "malformed-response"
-  },
-  "workday:usbank:elavon_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/Elavon_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US"
-  },
-  "workday:utaustin:utstaff": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
     "last_error": "malformed-response"
   },
   "workday:vca:antechcareers": {
@@ -2705,14 +2875,19 @@
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://vca.wd1.myworkdayjobs.com/wday/cxs/vca/antechcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workday:vcuhealth:vcuhealth_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:veralto:hachjobs": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-14T15:49:34Z",
     "last_error": "malformed-response"
+  },
+  "workday:verawholehealth:mpg": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://verawholehealth.wd1.myworkdayjobs.com/wday/cxs/verawholehealth/MPG/jobs'\nFor more information check: https://developer.mozilla.or"
   },
   "workday:vfc:northface_careers": {
     "consecutive_failures": 3,
@@ -2759,6 +2934,16 @@
     "last_attempt_at": "2026-09-14T17:08:33Z",
     "last_error": "malformed-response"
   },
+  "workday:virtua:virtua_health_external_career_site": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
+  "workday:vrtx:vertex_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
+    "last_error": "malformed-response"
+  },
   "workday:walmart:non-workdayinternal": {
     "consecutive_failures": 18,
     "last_attempt_at": "2026-09-14T00:25:43Z",
@@ -2770,8 +2955,8 @@
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs'\nFor more information check: https://developer.mozilla.org"
   },
   "workday:warnerbros:global": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:wawa:careers": {
@@ -2780,8 +2965,8 @@
     "last_error": "malformed-response"
   },
   "workday:westlake:westlake": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   },
   "workday:wmeimg:endeavor": {
@@ -2795,8 +2980,8 @@
     "last_error": "malformed-response"
   },
   "workday:wvumedicine:wvuh": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-14T18:41:58Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-14T19:06:41Z",
     "last_error": "malformed-response"
   }
 }
