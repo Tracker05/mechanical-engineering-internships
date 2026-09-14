@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-14T22:04:06Z",
- "data_as_of": "2026-09-14T22:04:06Z",
- "rendered_at": "2026-09-14T22:04:06Z",
+ "generated_at": "2026-09-14T22:37:04Z",
+ "data_as_of": "2026-09-14T22:37:04Z",
+ "rendered_at": "2026-09-14T22:37:04Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -174,25 +174,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-14"
-   }
-  },
-  {
-   "company": "Caterpillar Inc.",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -28,
-   "status": "open",
-   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-17"
    }
   },
   {
@@ -1659,6 +1640,25 @@
    }
   },
   {
+   "company": "Merck",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Co-op_R412910",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "MKS Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -1752,6 +1752,25 @@
    }
   },
   {
+   "company": "Caterpillar Inc.",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -28,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
    "company": "Campbellsoup",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -1828,5 +1847,5 @@
    }
   }
  ],
- "count": 96
+ "count": 97
 }
