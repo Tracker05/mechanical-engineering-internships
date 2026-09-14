@@ -165,6 +165,27 @@
     }
    }
   },
+  "applied materials": {
+   "name": "Applied Materials",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:amat:/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
+      "workday:amat:/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242",
+      "workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710"
+     ],
+     "count": 3
+    },
+    "Fall 2026": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503"
+     ],
+     "count": 1
+    }
+   }
+  },
   "becton dickinson": {
    "name": "Becton Dickinson",
    "cycles": {
@@ -1443,5 +1464,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T15:30:29Z"
+ "updated_at": "2026-09-14T15:49:34Z"
 }
