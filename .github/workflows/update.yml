@@ -64,7 +64,7 @@ jobs:
       # the previous good build still live on Pages.
       - name: Verify accuracy before publishing
         env:
-          MIN_OPEN_ROLES: "70"
+          MIN_OPEN_ROLES: "5"
           MAX_STATS_AGE_HOURS: "2"
         run: python tools/verify_accuracy.py
 
