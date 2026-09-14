@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//intern-engine//Drop Radar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Internship Drop Radar (Summer 2027)
+X-WR-CALDESC:Expected opening dates for mechanical engineering internships.
+  Dates come from employers' own career APIs or hand-checked opening months
+ ; treat them as when to start watching.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+END:VCALENDAR
