@@ -68,6 +68,18 @@
     }
    }
   },
+  "airbus": {
+   "name": "Airbus",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:ag:/job/Kinston-NC/XMLNAME-2027-Summer-Internship---Manufacturing-Engineer_JR10441369"
+     ],
+     "count": 1
+    }
+   }
+  },
   "alcon": {
    "name": "Alcon",
    "cycles": {
@@ -1052,9 +1064,11 @@
       "smartrecruiters:RESPECInc:744000148597749",
       "smartrecruiters:RESPECInc:744000149418759",
       "smartrecruiters:RESPECInc:744000149419399",
-      "smartrecruiters:RESPECInc:744000149420667"
+      "smartrecruiters:RESPECInc:744000149420667",
+      "smartrecruiters:RESPECInc:744000149422860",
+      "smartrecruiters:RESPECInc:744000149427190"
      ],
-     "count": 5
+     "count": 7
     }
    }
   },
@@ -1496,5 +1510,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T20:01:07Z"
+ "updated_at": "2026-09-14T20:32:17Z"
 }
