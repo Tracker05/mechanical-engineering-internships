@@ -1027,6 +1027,20 @@
     }
    }
   },
+  "onsemi": {
+   "name": "onsemi",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "oracle:hctz.fa.us2.oraclecloud.com:2506613",
+      "oracle:hctz.fa.us2.oraclecloud.com:2506645",
+      "oracle:hctz.fa.us2.oraclecloud.com:2506646"
+     ],
+     "count": 3
+    }
+   }
+  },
   "oshkosh": {
    "name": "Oshkosh",
    "cycles": {
@@ -1575,5 +1589,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T16:05:10Z"
+ "updated_at": "2026-09-15T16:39:13Z"
 }
