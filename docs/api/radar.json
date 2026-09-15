@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-15T14:06:52Z",
- "data_as_of": "2026-09-15T14:06:52Z",
- "rendered_at": "2026-09-15T14:06:52Z",
+ "generated_at": "2026-09-15T14:36:28Z",
+ "data_as_of": "2026-09-15T14:36:28Z",
+ "rendered_at": "2026-09-15T14:36:29Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -1864,7 +1864,26 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-09-02"
    }
+  },
+  {
+   "company": "BorgWarner",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-15"
+   }
   }
  ],
- "count": 98
+ "count": 99
 }
