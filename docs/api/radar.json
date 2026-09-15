@@ -1,10 +1,29 @@
 {
- "generated_at": "2026-09-15T19:06:19Z",
- "data_as_of": "2026-09-15T19:06:19Z",
- "rendered_at": "2026-09-15T19:06:20Z",
+ "generated_at": "2026-09-15T19:37:01Z",
+ "data_as_of": "2026-09-15T19:37:01Z",
+ "rendered_at": "2026-09-15T19:37:01Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
+  {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-11",
+   "days_until": -96,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-11"
+   }
+  },
   {
    "company": "Kairos Power",
    "last_cycle_posted": "",
@@ -155,6 +174,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-14"
+   }
+  },
+  {
+   "company": "Caterpillar Inc.",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -29,
+   "status": "open",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
    }
   },
   {
@@ -321,25 +359,6 @@
    "days_until": -21,
    "status": "open",
    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155541",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-25"
-   }
-  },
-  {
-   "company": "Verdantas",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -21,
-   "status": "open",
-   "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Summer-2027-Hydraulic-Modeling-Intern_R-101125-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -929,6 +948,25 @@
    "days_until": -11,
    "status": "open",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-04"
+   }
+  },
+  {
+   "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -11,
+   "status": "open",
+   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Florence-SC/Vehicle-Maintenance-Technician-Internship---2027_R41190",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1828,44 +1866,6 @@
    }
   },
   {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-11",
-   "days_until": -96,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-06-11"
-   }
-  },
-  {
-   "company": "Caterpillar Inc.",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -29,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-17"
-   }
-  },
-  {
    "company": "Campbellsoup",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -1882,6 +1882,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-20"
+   }
+  },
+  {
+   "company": "Verdantas",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -21,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
    }
   },
   {
@@ -1920,25 +1939,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-02"
-   }
-  },
-  {
-   "company": "Duke Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -11,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-04"
    }
   },
   {
