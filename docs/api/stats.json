@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-15T04:06:26Z",
- "fetched_at": "2026-09-15T04:06:26Z",
- "duration_seconds": 936.1,
+ "generated_at": "2026-09-15T04:35:51Z",
+ "fetched_at": "2026-09-15T04:35:51Z",
+ "duration_seconds": 693.1,
  "companies_total": 4803,
  "companies_by_source": {
   "greenhouse": 1069,
@@ -17,24 +17,25 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 382,
- "fetched_ok": 4324,
- "fetch_errors": 97,
+ "quarantined": 388,
+ "fetched_ok": 4413,
+ "fetch_errors": 2,
  "errors_by_source": {
-  "workday": 97
+  "workday": 1,
+  "workable": 1
  },
- "fetch_success_rate": 0.978,
- "fetch_success_rate_registry": 0.9,
- "snapshots_complete": 3786,
- "snapshots_partial": 538,
+ "fetch_success_rate": 1.0,
+ "fetch_success_rate_registry": 0.919,
+ "snapshots_complete": 3845,
+ "snapshots_partial": 568,
  "partial_by_reason": {
-  "result-cap": 523,
-  "malformed-response": 15
+  "result-cap": 563,
+  "malformed-response": 5
  },
- "degraded_fetches": 15,
- "roles_matched": 542,
- "dropped_no_year_in_title": 137,
- "dropped_offcycle_by_text": 125,
+ "degraded_fetches": 5,
+ "roles_matched": 565,
+ "dropped_no_year_in_title": 148,
+ "dropped_offcycle_by_text": 130,
  "roles_cycle_inferred": 234,
  "roles_by_source": {
   "amazon": 4,
@@ -45,18 +46,18 @@
   "oracle": 84,
   "rippling": 4,
   "smartrecruiters": 41,
-  "workday": 336
+  "workday": 341
  },
  "roles_by_cycle": {
-  "Summer 2027": 335,
+  "Summer 2027": 340,
   "Fall 2026": 19,
   "Not stated": 234
  },
  "roles_by_region": {
-  "US": 588
+  "US": 593
  },
  "sponsorship_counts": {
-  "unknown": 424,
+  "unknown": 429,
   "no-sponsorship": 93,
   "citizens-only": 71
  },
@@ -65,7 +66,7 @@
  "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 588,
+ "open_total": 593,
  "detection_latency": {
   "median_minutes": 6735.7,
   "p95_minutes": 8608.1,
@@ -77,5 +78,5 @@
   "median_days": 6.5,
   "sample_size": 6
  },
- "rendered_at": "2026-09-15T04:06:26Z"
+ "rendered_at": "2026-09-15T04:35:51Z"
 }
