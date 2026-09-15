@@ -1,10 +1,29 @@
 {
- "generated_at": "2026-09-15T17:05:19Z",
- "data_as_of": "2026-09-15T17:05:19Z",
- "rendered_at": "2026-09-15T17:05:19Z",
+ "generated_at": "2026-09-15T17:35:13Z",
+ "data_as_of": "2026-09-15T17:35:13Z",
+ "rendered_at": "2026-09-15T17:35:13Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
+  {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-11",
+   "days_until": -96,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-11"
+   }
+  },
   {
    "company": "Kairos Power",
    "last_cycle_posted": "",
@@ -1602,6 +1621,25 @@
    }
   },
   {
+   "company": "Eversource Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Transmission-System-Planning-Intern_R-029918",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "Johnson & Johnson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -1697,6 +1735,25 @@
    }
   },
   {
+   "company": "Northrop Grumman",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-15"
+   }
+  },
+  {
    "company": "onsemi",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -1768,25 +1825,6 @@
    "provenance": {
     "type": "live-role",
     "url": "https://ats.rippling.com/collieraerospace/jobs/c1fcbdc3-fe19-4209-b080-15a5db8c75e1"
-   }
-  },
-  {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-11",
-   "days_until": -96,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-06-11"
    }
   },
   {
@@ -1866,25 +1904,6 @@
    }
   },
   {
-   "company": "Eversource Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -1,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-14"
-   }
-  },
-  {
    "company": "BorgWarner",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -1904,5 +1923,5 @@
    }
   }
  ],
- "count": 100
+ "count": 101
 }
