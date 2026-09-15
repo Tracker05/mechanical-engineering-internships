@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 624 open roles (374 listed below) · 624 new this week
+### 627 open roles (376 listed below) · 627 new this week
 
-4,561 employers tracked · data as of Sep 15, 2026 at 20:38 UTC
+4,561 employers tracked · data as of Sep 15, 2026 at 21:04 UTC
 
-_373 have a cycle the employer stated · 251 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_375 have a cycle the employer stated · 252 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -85,10 +85,12 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (202 employer-stated)
+## Summer 2027  (203 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| WSP | Structural Engineering Intern- Summer 2027 🆕 | Structures & Materials | Chicago, IL, United States | FEA | Sep 15, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95367) |
+| Everest | 2027 Everest Design Engineering Internship Program 🆕 | Design & CAD | Warren, NJ | Excel | Sep 15, 2026 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401) |
 | WSP | Overhead Transmission Line Design Engineering Intern - Summer 2027 🆕 | Automotive & Mobility | Birmingham, AL, United States | SolidWorks, AutoCAD | Sep 15, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88869) |
 | Ensign-Bickford Aerospace & Defense Company | Electronics Manufacturing Engineer Intern 🆕 | Manufacturing & Process | Simsbury, CT | SPC | Sep 15, 2026 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696-1) |
 | Granite Construction | Plant Engineer Intern - Summer 2027 🆕 | Manufacturing & Process | Pleasanton, California | No skills listed | Sep 15, 2026 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Pleasanton-California/Plant-Engineer-Intern---Summer-2027_R0000008111) |
@@ -134,7 +136,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Rocket Lab | Structural Analysis Intern Summer 2027 🇺🇸 🆕 | Structures & Materials | Long Beach, CA | Siemens NX, FEA | Sep 11, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986690003) |
 | Xcimer Energy | Summer 2027 Internship - Mechanical Engineering 🇺🇸 🆕 | Design & CAD | Denver, CO | FEA | Sep 11, 2026 | [Apply](https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3) |
 | WSP | Mechanical Engineering (Thermal Generation) Intern - Summer 2027 🆕 | Thermal & Fluids | Boise, ID, United States | No skills listed | Sep 11, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94815) |
-| WSP | Structural Engineering Intern- Summer 2027 🆕 | Structures & Materials | Philadelphia, PA, United States | No skills listed | Sep 11, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94841) |
 | Emerson Electric | Hardware Design Engineer Intern 🆕 | Design & CAD | Round Rock, TX, United States | SolidWorks, Creo, AutoCAD, MATLAB | Sep 11, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801) |
 | AES | Intern- Transmission Engineering Services - (Summer 2027) 🆕 | Automotive & Mobility | US, Dayton, OH | SolidWorks, Excel | Sep 11, 2026 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Intern--Transmission-Engineering-Services----Summer-2027-_R1064727) |
 | AES | Transmission Planning Engineer Intern (Summer 2027) 🆕 | Automotive & Mobility | US, Indianapolis, IN | No skills listed | Sep 11, 2026 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Transmission-Planning-Engineer-Intern--Summer-2027-_R1064788) |
@@ -316,12 +317,13 @@ If it helps you, a star means a lot and tells me to keep going.
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) 🆕 | Robotics & Controls | Westboro, Massachusetts, USA | No skills listed | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 | Amazon ✓ | Amazon Robotics - 2026 Supply Chain Intern/Co-op, Robotics Supply Chain 🆕 | Robotics & Controls | North Reading, Massachusetts, USA | Python, Excel | Sep 19, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3088741/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain) |
 
-## Recently posted — cycle not stated  (138 roles)
+## Recently posted — cycle not stated  (139 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Lightship RV | Manufacturing Engineering Intern/Co-Op 🆕 | Manufacturing & Process | Broomfield, CO | No skills listed | Sep 15, 2026 | [Apply](https://jobs.lever.co/lightship/27f49b68-6a5c-4a3a-a114-5487feb3add2) |
 | Ingredion | Process Engineering Co-Op 🆕 | Manufacturing & Process | Bedford Park, IL | Excel, Machining | Sep 15, 2026 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bedford-Park-IL/Process-Engineering-Co-Op_Req-40269-1) |
 | Oshkosh | Manufacturing Engineer Intern 🆕 | Manufacturing & Process | Shippensburg +2 more | Machining, Additive Manufacturing, Welding, Lean | Sep 15, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667) |
 | EQT Corporation | Midstream Facilities Engineer Intern 🆕 | Manufacturing & Process | Canonsburg, PA | AutoCAD, Excel | Sep 15, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5420621008) |
@@ -484,7 +486,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 TRUMPF | Sep 01 | dropped Sep 01 · closed | 🗓️ dropped |
 | 🎯 Bracco | Sep 02 | dropped Sep 02 · closed | 🗓️ dropped |
 
-_103 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **103** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_104 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **104** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 4 roles that left the list in the last 14 days</summary>
@@ -515,7 +517,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,338 of 4,815 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 1038.9s · 536 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,307 of 4,815 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 983.1s · 530 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
