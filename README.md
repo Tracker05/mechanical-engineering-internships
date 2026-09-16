@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 690 open roles (408 listed below) · 690 new this week
+### 692 open roles (409 listed below) · 692 new this week
 
-4,572 employers tracked · data as of Sep 16, 2026 at 22:35 UTC
+4,572 employers tracked · data as of Sep 16, 2026 at 23:03 UTC
 
-_415 have a cycle the employer stated · 275 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_417 have a cycle the employer stated · 275 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -85,10 +85,12 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (219 employer-stated)
+## Summer 2027  (220 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Michael Baker International ✓ | Structural Intern, Summer 2027 🆕 | Structures & Materials | Salt Lake City, UT, United States | Revit | Sep 16, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309900) |
+| Michael Baker International ✓ | Structural Intern, Summer 2027 🆕 | Structures & Materials | Jacksonville, FL, United States | Revit | Sep 16, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309902) |
 | Bass Pro Shops | Advanced Manufacturing Intern Summer 2027 🆕 | Manufacturing & Process | Springfield +1 more | Welding | Sep 16, 2026 | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Advanced-Manufacturing-Intern-Summer-2027_R267458) |
 | Rocket Lab | Manufacturing Engineering Intern Summer 2027 🇺🇸 🆕 | Manufacturing & Process | Middle River, MD | Additive Manufacturing, Composites | Sep 16, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
 | RTX | Manufacturing Electrical Engineering Intern (Summer 2027) 🇺🇸 🆕 | Manufacturing & Process | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | SolidWorks, AutoCAD, PLM/PDM | Sep 16, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Intern--Summer-2027-_01874865) |
@@ -131,7 +133,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | General Motors ✓ | 2027 Summer Intern – Motorsports Aerodynamics 🆕 | Automotive & Mobility | Concord +2 more | CFD | Sep 14, 2026 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aerodynamics_JR-202620069) |
 | General Motors ✓ | 2027 Summer Intern – Sportscar Motorsports Strategy 🆕 | Automotive & Mobility | Concord +2 more | Python | Sep 14, 2026 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859) |
 | General Motors ✓ | 2027 Summer Intern – Motorsports Aero-Thermal Engineering 🆕 | Automotive & Mobility | Milford +2 more | CFD | Sep 14, 2026 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861) |
-| Merck | 2027 Future Talent Program - Elkton Manufacturing Co-op 🛂 🆕 | Manufacturing & Process | USA - Virginia - Elkton | Six Sigma | Sep 14, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Co-op_R412910) |
+| Merck | 2027 Future Talent Program - Elkton Manufacturing Co-op 🛂 | Manufacturing & Process | USA - Virginia - Elkton | Six Sigma | Sep 14, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Co-op_R412910) |
 | RESPEC | Student Engineering Intern (Structural) | Structures & Materials | Sioux Falls, SD, United States | AutoCAD, Revit | Sep 14, 2026 | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000149447560) |
 | RESPEC | Student Engineering Intern (Structural) | Structures & Materials | Brookings, SD, United States | AutoCAD, Revit | Sep 14, 2026 | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000149430049) |
 | RESPEC | Student Engineering Intern (Structural) | Structures & Materials | Rapid City, SD, United States | AutoCAD, Revit | Sep 14, 2026 | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000149427190) |
@@ -244,7 +246,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | POET | Process Engineering Intern - Summer 2027 | Manufacturing & Process | Sioux Falls, SD | No skills listed | Sep 02, 2026 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Process-Engineering-Intern---Summer-2027_R101679) |
 | General Matter | Summer 2027 Internship - Mechanical Engineering (HVAC) | Thermal & Fluids | Los Angeles, CA | AutoCAD, Revit, Python, Hydraulics | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377104008) |
 | Texas Instruments ✓ | Plant Process Engineer Intern - Summer 2027 | Manufacturing & Process | Sioux Center, IA, United States | AutoCAD, Solid Edge, Excel | Sep 01, 2026 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253136) |
-| Michael Baker International ✓ | Bridge Structural Intern | Structures & Materials | Chicago, IL, United States | No skills listed | Sep 01, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309794) |
 | Texas Instruments ✓ | 2027 Manufacturing Technician Intern (Dallas/Richardson, TX) 🛂 | Manufacturing & Process | Richardson +5 more | No skills listed | Sep 01, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017474) |
 | Bosch ✓ | Chassis Control Intern - Kettering University Co-Op Section B (Jan-Mar '27) | Automotive & Mobility | Plymouth, MI, United States | No skills listed | Sep 01, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000146800238) |
 | Hitachi Energy | 2027 Summer Mechanical Engineering Intern - Raleigh | Design & CAD | Raleigh, North Carolina, United States | No skills listed | Sep 01, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Mechanical-Engineering-Intern---Raleigh_R0142887) |
@@ -550,7 +551,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,398 of 4,828 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 887.7s · 557 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,338 of 4,828 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1025.8s · 530 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
