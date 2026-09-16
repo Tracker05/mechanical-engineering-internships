@@ -421,6 +421,19 @@
     }
    }
   },
+  "duracell": {
+   "name": "Duracell",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1399",
+      "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1400"
+     ],
+     "count": 2
+    }
+   }
+  },
   "elanco": {
    "name": "Elanco",
    "cycles": {
@@ -1747,5 +1760,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T16:38:32Z"
+ "updated_at": "2026-09-16T17:00:45Z"
 }
