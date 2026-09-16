@@ -26,9 +26,10 @@
       "smartrecruiters:AECOM2:744000147333760",
       "smartrecruiters:AECOM2:744000148586189",
       "smartrecruiters:AECOM2:744000148614639",
-      "smartrecruiters:AECOM2:744000149483177"
+      "smartrecruiters:AECOM2:744000149483177",
+      "smartrecruiters:AECOM2:744000149913009"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -919,6 +920,19 @@
     }
    }
   },
+  "lonza": {
+   "name": "Lonza",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:lonza:/job/US---Portsmouth-NH/Summer-2026-Manufacturing--Science---Technology-Internship_R79570",
+      "workday:lonza:/job/US---Portsmouth-NH/Summer-2026-Plant-Engineer-Internship_R79569"
+     ],
+     "count": 2
+    }
+   }
+  },
   "marvell": {
    "name": "Marvell",
    "cycles": {
@@ -979,6 +993,18 @@
       "workday:michelinhr:/job/FOUNTAIN-INN-SC/Summer-2027-Internship--Process-Engineering-Intern--Fountain-Inn--SC-_R-2026030120"
      ],
      "count": 2
+    }
+   }
+  },
+  "mill": {
+   "name": "Mill",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-03-17",
+     "role_ids": [
+      "greenhouse:mill:4674154005"
+     ],
+     "count": 1
     }
    }
   },
@@ -1721,5 +1747,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T16:05:33Z"
+ "updated_at": "2026-09-16T16:38:32Z"
 }
