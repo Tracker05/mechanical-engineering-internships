@@ -8,7 +8,7 @@
 
 ### 697 open roles (411 listed below) · 697 new this week
 
-4,572 employers tracked · data as of Sep 17, 2026 at 07:09 UTC
+4,572 employers tracked · data as of Sep 17, 2026 at 07:42 UTC
 
 _422 have a cycle the employer stated · 275 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -444,9 +444,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | TRUMPF | Smart Factory Robotics & Operations Intern | Robotics & Controls | Chicago, IL | No skills listed | Sep 08, 2026 | [Apply](https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Chicago-IL/Smart-Factory-Robotics---Operations-Intern_R00042570) |
 | Solidigm ✓ | Memory Core Design Engineering Intern | Design & CAD | Rancho Cordova, CA, United States | No skills listed | Sep 07, 2026 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147954459) |
 | Harbinger Motors | Intern, Powertrain Manufacturing | Automotive & Mobility | Garden Grove, CA | SolidWorks, AutoCAD, Excel, Lean | Sep 05, 2026 | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5231838007) |
-| Axcelis Technologies, Inc. ✓ | Manufacturing Engineer Co-op Production Support 🆕 _(2 openings)_ | Manufacturing & Process | Beverly, MA | SolidWorks, Creo, AutoCAD, Hydraulics | Sep 04, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001) [#2](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12008) |
-| Axcelis Technologies, Inc. ✓ | Manufacturing Test Development Co-op 🆕 | Manufacturing & Process | Beverly, MA | SolidWorks, Creo, AutoCAD, Additive Manufacturing | Sep 04, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Co-op_12009) |
-| Axcelis Technologies, Inc. ✓ | Manufacturing Test Development Engineer Co-op 🆕 | Manufacturing & Process | Beverly, MA | SolidWorks, Creo, AutoCAD, Additive Manufacturing | Sep 04, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Engineer-Co-op_12010) |
+| Axcelis Technologies, Inc. ✓ | Manufacturing Engineer Co-op Production Support _(2 openings)_ | Manufacturing & Process | Beverly, MA | SolidWorks, Creo, AutoCAD, Hydraulics | Sep 04, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001) [#2](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12008) |
+| Axcelis Technologies, Inc. ✓ | Manufacturing Test Development Co-op | Manufacturing & Process | Beverly, MA | SolidWorks, Creo, AutoCAD, Additive Manufacturing | Sep 04, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Co-op_12009) |
+| Axcelis Technologies, Inc. ✓ | Manufacturing Test Development Engineer Co-op | Manufacturing & Process | Beverly, MA | SolidWorks, Creo, AutoCAD, Additive Manufacturing | Sep 04, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Engineer-Co-op_12010) |
 | GenScript | mRNA Manufacturing Intern (Full Time) | Manufacturing & Process | Redmond, Washington, United States | No skills listed | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/genscript/jobs/5231601007) |
 | AECOM | Structural Engineering Intern - Bridge & Transportation Structures 🇺🇸 | Structures & Materials | Mechanicsburg +2 more | AutoCAD | Sep 04, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147531571) |
 | AECOM | Structural Engineering Intern - Hiring Event with AECOM - Philadelphia 🇺🇸 | Structures & Materials | Philadelphia, PA, United States (Hybrid) | AutoCAD | Sep 04, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147581370) |
@@ -552,7 +552,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,394 of 4,828 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 970.9s · 571 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,381 of 4,828 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1097.8s · 569 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
