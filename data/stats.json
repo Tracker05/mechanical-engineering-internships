@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T11:05:33Z",
-  "fetched_at": "2026-09-17T11:05:33Z",
-  "duration_seconds": 984.7,
+  "generated_at": "2026-09-17T11:38:46Z",
+  "fetched_at": "2026-09-17T11:38:46Z",
+  "duration_seconds": 1015.6,
   "companies_total": 4837,
   "companies_by_source": {
     "greenhouse": 1078,
@@ -17,24 +17,24 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 370,
-  "fetched_ok": 4360,
-  "fetch_errors": 107,
+  "quarantined": 373,
+  "fetched_ok": 4385,
+  "fetch_errors": 79,
   "errors_by_source": {
-    "workday": 107
+    "workday": 79
   },
-  "fetch_success_rate": 0.976,
-  "fetch_success_rate_registry": 0.901,
-  "snapshots_complete": 3812,
-  "snapshots_partial": 548,
+  "fetch_success_rate": 0.982,
+  "fetch_success_rate_registry": 0.907,
+  "snapshots_complete": 3832,
+  "snapshots_partial": 553,
   "partial_by_reason": {
-    "result-cap": 526,
-    "malformed-response": 22
+    "result-cap": 534,
+    "malformed-response": 19
   },
-  "degraded_fetches": 22,
-  "roles_matched": 653,
-  "dropped_no_year_in_title": 141,
-  "dropped_offcycle_by_text": 148,
+  "degraded_fetches": 19,
+  "roles_matched": 657,
+  "dropped_no_year_in_title": 142,
+  "dropped_offcycle_by_text": 185,
   "roles_cycle_inferred": 275,
   "roles_by_source": {
     "amazon": 4,
@@ -45,19 +45,19 @@
     "oracle": 103,
     "rippling": 4,
     "smartrecruiters": 40,
-    "workday": 416
+    "workday": 415
   },
   "roles_by_cycle": {
-    "Summer 2027": 399,
+    "Summer 2027": 398,
     "Fall 2026": 22,
     "Not stated": 275
   },
   "roles_by_region": {
-    "US": 696
+    "US": 695
   },
   "sponsorship_counts": {
     "unknown": 505,
-    "no-sponsorship": 112,
+    "no-sponsorship": 111,
     "citizens-only": 78,
     "offers": 1
   },
@@ -66,7 +66,7 @@
   "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
   "new_this_run": 0,
-  "open_total": 696,
+  "open_total": 695,
   "detection_latency": {
     "median_minutes": 35.5,
     "p95_minutes": 5625.5,
@@ -78,5 +78,5 @@
     "median_days": 13,
     "sample_size": 9
   },
-  "rendered_at": "2026-09-17T11:05:33Z"
+  "rendered_at": "2026-09-17T11:38:47Z"
 }
