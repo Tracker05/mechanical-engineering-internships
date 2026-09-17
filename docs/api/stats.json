@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T12:44:34Z",
- "fetched_at": "2026-09-17T12:44:34Z",
- "duration_seconds": 1008.1,
+ "generated_at": "2026-09-17T13:08:28Z",
+ "fetched_at": "2026-09-17T13:08:28Z",
+ "duration_seconds": 977.6,
  "companies_total": 4837,
  "companies_by_source": {
   "greenhouse": 1078,
@@ -17,24 +17,24 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 392,
- "fetched_ok": 4387,
- "fetch_errors": 58,
+ "quarantined": 400,
+ "fetched_ok": 4378,
+ "fetch_errors": 59,
  "errors_by_source": {
-  "workday": 58
+  "workday": 59
  },
  "fetch_success_rate": 0.987,
- "fetch_success_rate_registry": 0.907,
- "snapshots_complete": 3826,
- "snapshots_partial": 561,
+ "fetch_success_rate_registry": 0.905,
+ "snapshots_complete": 3816,
+ "snapshots_partial": 562,
  "partial_by_reason": {
-  "result-cap": 523,
-  "malformed-response": 38
+  "result-cap": 510,
+  "malformed-response": 52
  },
- "degraded_fetches": 38,
- "roles_matched": 660,
- "dropped_no_year_in_title": 145,
- "dropped_offcycle_by_text": 189,
+ "degraded_fetches": 52,
+ "roles_matched": 637,
+ "dropped_no_year_in_title": 143,
+ "dropped_offcycle_by_text": 179,
  "roles_cycle_inferred": 275,
  "roles_by_source": {
   "amazon": 4,
@@ -45,19 +45,19 @@
   "oracle": 103,
   "rippling": 4,
   "smartrecruiters": 40,
-  "workday": 417
+  "workday": 415
  },
  "roles_by_cycle": {
-  "Summer 2027": 400,
+  "Summer 2027": 398,
   "Fall 2026": 22,
   "Not stated": 275
  },
  "roles_by_region": {
-  "US": 697
+  "US": 695
  },
  "sponsorship_counts": {
-  "unknown": 505,
-  "no-sponsorship": 113,
+  "unknown": 504,
+  "no-sponsorship": 112,
   "citizens-only": 78,
   "offers": 1
  },
@@ -66,7 +66,7 @@
  "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 697,
+ "open_total": 695,
  "detection_latency": {
   "median_minutes": 35.5,
   "p95_minutes": 5625.5,
@@ -78,5 +78,5 @@
   "median_days": 13,
   "sample_size": 9
  },
- "rendered_at": "2026-09-17T12:44:35Z"
+ "rendered_at": "2026-09-17T13:08:29Z"
 }
