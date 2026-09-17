@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T16:33:49Z",
- "data_as_of": "2026-09-17T16:33:49Z",
- "rendered_at": "2026-09-17T16:33:49Z",
+ "generated_at": "2026-09-17T17:03:02Z",
+ "data_as_of": "2026-09-17T17:03:02Z",
+ "rendered_at": "2026-09-17T17:03:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -174,25 +174,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-14"
-   }
-  },
-  {
-   "company": "Caterpillar Inc.",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -31,
-   "status": "open",
-   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-17"
    }
   },
   {
@@ -975,25 +956,6 @@
    }
   },
   {
-   "company": "Duke Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -13,
-   "status": "open",
-   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Florence-SC/Vehicle-Maintenance-Technician-Internship---2027_R41190",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-04"
-   }
-  },
-  {
    "company": "Saab",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -1735,7 +1697,7 @@
    }
   },
   {
-   "company": "Ensign-Bickford Aerospace & Defense Company",
+   "company": "Ensign-Bickford Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
    "precision": "day",
@@ -1745,7 +1707,7 @@
    "expected": "2026-09-15",
    "days_until": -2,
    "status": "open",
-   "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696-1",
+   "url": "https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1784,25 +1746,6 @@
    "days_until": -2,
    "status": "open",
    "url": "https://granite.wd1.myworkdayjobs.com/careers/job/Pleasanton-California/Plant-Engineer-Intern---Summer-2027_R0000008111",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-15"
-   }
-  },
-  {
-   "company": "Northrop Grumman",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2018,6 +1961,25 @@
    }
   },
   {
+   "company": "Caterpillar Inc.",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -31,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
    "company": "Campbellsoup",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -2094,6 +2056,25 @@
    }
   },
   {
+   "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -13,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-04"
+   }
+  },
+  {
    "company": "nVent",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -2151,7 +2132,26 @@
    }
   },
   {
-   "company": "Ensign-Bickford Industries",
+   "company": "Ensign-Bickford Aerospace & Defense Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-15"
+   }
+  },
+  {
+   "company": "Northrop Grumman",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
    "precision": "day",
