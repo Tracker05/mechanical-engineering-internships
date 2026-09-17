@@ -1369,10 +1369,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Intern--Summer-2027-_01874865",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1771,6 +1772,19 @@
     }
    }
   },
+  "x energy": {
+   "name": "X-energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:xenergy:/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1",
+      "workday:xenergy:/job/Rockville-MD/Nuclear-Engineering-Internship---Summer-2027_R101284-1"
+     ],
+     "count": 2
+    }
+   }
+  },
   "xcel energy": {
    "name": "Xcel Energy",
    "cycles": {
@@ -1816,5 +1830,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T14:06:04Z"
+ "updated_at": "2026-09-17T14:39:46Z"
 }
