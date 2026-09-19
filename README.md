@@ -8,7 +8,7 @@
 
 ### 742 open roles (443 listed below) · 742 new this week
 
-4,606 employers tracked · data as of Sep 19, 2026 at 18:40 UTC
+4,606 employers tracked · data as of Sep 19, 2026 at 19:05 UTC
 
 _443 have a cycle the employer stated · 299 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -103,7 +103,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Echo Global Logistics | Process Engineer Intern- Greenfield, IN 🆕 | Manufacturing & Process | Roadtex - Greenfield IN | No skills listed | Sep 17, 2026 | [Apply](https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Roadtex---Greenfield-IN/Process-Engineer-Intern--Greenfield--IN_R4650-1) |
 | WSP | Overhead Transmission Line Design Engineering Intern  - Spring/Summer 2027 🆕 | Automotive & Mobility | Phoenix, AZ, United States | SolidWorks, AutoCAD | Sep 17, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95693) |
 | Lowe's | Store Operations Industrial Engineering – Undergrad Internship – Summer 2027 🆕 | Manufacturing & Process | Mooresville, NC (SSC) 1999 | No skills listed | Sep 17, 2026 | [Apply](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1) |
-| Rocket Lab | Test Engineering Intern Summer 2027 🇺🇸 🆕 | Test & Quality | Stennis Space Center, MS | Siemens NX, GD&T, MATLAB, Python | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990350003) |
+| Rocket Lab | Test Engineering Intern Summer 2027 🇺🇸 | Test & Quality | Stennis Space Center, MS | Siemens NX, GD&T, MATLAB, Python | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990350003) |
 | X-energy | Test Engineering Internship - Summer 2027 | Test & Quality | Rockville, MD | Excel | Sep 17, 2026 | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Test-Engineering-Internship---Summer-2027_R101320-1) |
 | RTX | Industrial Engineering Co-Op (Summer/Fall 2027) 🇺🇸 | Manufacturing & Process | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | SolidWorks, AutoCAD, PLM/PDM | Sep 17, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637) |
 | X-energy | Mechanical Engineering Internship - Summer 2027 | Design & CAD | Rockville, MD | SolidWorks, Creo, ANSYS, Abaqus | Sep 17, 2026 | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1) |
@@ -376,8 +376,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | AECOM | Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh 🛂 🆕 | Thermal & Fluids | Raleigh, NC, United States (Hybrid) | Hydraulics | Sep 18, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150370962) |
 | Micron Technology ✓ | Intern – Process Engineer ID1 🆕 | Manufacturing & Process | Boise, ID - Main Site | MATLAB, Python, SPC, Design of Experiments | Sep 17, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Engineer-ID1_JR109507) |
 | Micron Technology ✓ | INTERN- ID1 Process Engineer 🆕 | Manufacturing & Process | Boise, ID - ID1 | MATLAB, Python, SPC, Design of Experiments | Sep 17, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/INTERN--ID1-Process-Engineer_JR111233) |
-| Crane Co. ✓ | Process Engineer Intern 🆕 | Manufacturing & Process | Marion, North Carolina | SolidWorks, AutoCAD, Machining, Six Sigma | Sep 17, 2026 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Marion-North-Carolina/Process-Engineer-Intern_JR102567) |
-| Crane Co. ✓ | Quality Engineer Intern 🆕 | Test & Quality | Marion, North Carolina | Excel, Machining, Welding, Six Sigma | Sep 17, 2026 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Marion-North-Carolina/Quality-Engineer-Intern_JR102564) |
+| Crane Co. ✓ | Process Engineer Intern | Manufacturing & Process | Marion, North Carolina | SolidWorks, AutoCAD, Machining, Six Sigma | Sep 17, 2026 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Marion-North-Carolina/Process-Engineer-Intern_JR102567) |
+| Crane Co. ✓ | Quality Engineer Intern | Test & Quality | Marion, North Carolina | Excel, Machining, Welding, Six Sigma | Sep 17, 2026 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Marion-North-Carolina/Quality-Engineer-Intern_JR102564) |
 | IDEX | Design Engineering Co-Op (Biopharma) | Design & CAD | Cedar Falls, Iowa | SolidWorks, Excel, Additive Manufacturing | Sep 17, 2026 | [Apply](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Cedar-Falls-Iowa/Design-Engineering-Co-Op--Biopharma-_R-09909) |
 | IDEX | Manufacturing Engineering Co-Op | Manufacturing & Process | Cedar Falls, Iowa | Excel, Casting | Sep 17, 2026 | [Apply](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910) |
 | SharkNinja | Mechanical Engineering Co-op Opportunities | Design & CAD | Needham, MA, United States | SolidWorks, Creo, Python, Additive Manufacturing | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713783006) |
@@ -592,7 +592,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,412 of 4,862 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1065.0s · 566 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,421 of 4,862 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1069.7s · 563 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
