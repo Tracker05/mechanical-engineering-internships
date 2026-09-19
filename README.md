@@ -8,7 +8,7 @@
 
 ### 743 open roles (444 listed below) · 743 new this week
 
-4,606 employers tracked · data as of Sep 19, 2026 at 13:59 UTC
+4,606 employers tracked · data as of Sep 19, 2026 at 14:36 UTC
 
 _444 have a cycle the employer stated · 299 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -384,9 +384,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | SharkNinja | Mechanical Engineering Co-op Opportunities 🆕 | Design & CAD | Needham, MA, United States | SolidWorks, Creo, Python, Additive Manufacturing | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713783006) |
 | SharkNinja | Product Design Engineering Co-op Opportunities 🆕 | Design & CAD | Needham, MA, United States | SolidWorks, Creo, Additive Manufacturing | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006) |
 | SharkNinja | Product Design Engineering Intern Opportunities 🆕 | Design & CAD | Needham, MA, United States | SolidWorks, Creo, Additive Manufacturing | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006) |
-| American Electric Power ✓ | Civil/Structural Designer Intern - New Albany, OH 🆕 | Structures & Materials | New Albany, OH | Inventor, AutoCAD | Sep 17, 2026 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Civil-Structural-Designer-Intern---New-Albany--OH_R19383) |
-| American Electric Power ✓ | Civil/Structural Designer Intern - Roanoke, VA 🆕 | Structures & Materials | Roanoke, VA | Inventor, AutoCAD | Sep 17, 2026 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Roanoke-VA/Civil-Structural-Designer-Intern---Roanoke--VA_R19382) |
-| American Electric Power ✓ | Civil/Structural Designer Intern - Tulsa, OK 🆕 | Structures & Materials | Tulsa, OK | Inventor, AutoCAD | Sep 17, 2026 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Civil-Structural-Designer-Intern---Tulsa--OK_R19381) |
+| American Electric Power ✓ | Civil/Structural Designer Intern - New Albany, OH | Structures & Materials | New Albany, OH | Inventor, AutoCAD | Sep 17, 2026 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Civil-Structural-Designer-Intern---New-Albany--OH_R19383) |
+| American Electric Power ✓ | Civil/Structural Designer Intern - Roanoke, VA | Structures & Materials | Roanoke, VA | Inventor, AutoCAD | Sep 17, 2026 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Roanoke-VA/Civil-Structural-Designer-Intern---Roanoke--VA_R19382) |
+| American Electric Power ✓ | Civil/Structural Designer Intern - Tulsa, OK | Structures & Materials | Tulsa, OK | Inventor, AutoCAD | Sep 17, 2026 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Civil-Structural-Designer-Intern---Tulsa--OK_R19381) |
 | Acron Aviation | Manufacturing Engineer Intern - Grand Rapids Site | Manufacturing & Process | Grand Rapids, MI | SolidWorks, AutoCAD, Excel, Lean | Sep 16, 2026 | [Apply](https://jobs.lever.co/acronaviation/2893b51b-c93c-4875-9912-1292ab0f4926) |
 | Terex | Design Engineer Intern | Design & CAD | US-SD Watertown | SolidWorks, Excel, Lean | Sep 16, 2026 | [Apply](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-SD-Watertown/Design-Engineer-Intern_REQ-14324) |
 | Terex | Manufacturing Engineer Intern | Manufacturing & Process | US-SD Watertown | SolidWorks, AutoCAD, Onshape, GD&T | Sep 16, 2026 | [Apply](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-SD-Watertown/Manufacturing-Engineer-Intern_REQ-14323) |
@@ -592,7 +592,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,428 of 4,862 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 850.9s · 568 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,392 of 4,862 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 976.6s · 560 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
