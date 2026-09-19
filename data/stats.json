@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T19:34:37Z",
-  "fetched_at": "2026-09-19T19:34:37Z",
-  "duration_seconds": 997.7,
+  "generated_at": "2026-09-19T20:02:12Z",
+  "fetched_at": "2026-09-19T20:02:12Z",
+  "duration_seconds": 1023.9,
   "companies_total": 4862,
   "companies_by_source": {
     "greenhouse": 1082,
@@ -17,26 +17,25 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 362,
-  "fetched_ok": 4360,
-  "fetch_errors": 140,
+  "quarantined": 376,
+  "fetched_ok": 4399,
+  "fetch_errors": 87,
   "errors_by_source": {
-    "workday": 138,
-    "lever": 1,
+    "workday": 86,
     "workable": 1
   },
-  "fetch_success_rate": 0.969,
-  "fetch_success_rate_registry": 0.897,
-  "snapshots_complete": 3803,
-  "snapshots_partial": 557,
+  "fetch_success_rate": 0.981,
+  "fetch_success_rate_registry": 0.905,
+  "snapshots_complete": 3836,
+  "snapshots_partial": 563,
   "partial_by_reason": {
-    "result-cap": 555,
-    "malformed-response": 2
+    "result-cap": 562,
+    "malformed-response": 1
   },
-  "degraded_fetches": 2,
-  "roles_matched": 680,
-  "dropped_no_year_in_title": 141,
-  "dropped_offcycle_by_text": 204,
+  "degraded_fetches": 1,
+  "roles_matched": 681,
+  "dropped_no_year_in_title": 144,
+  "dropped_offcycle_by_text": 202,
   "roles_cycle_inferred": 299,
   "roles_by_source": {
     "amazon": 4,
@@ -47,19 +46,19 @@
     "oracle": 103,
     "rippling": 5,
     "smartrecruiters": 41,
-    "workday": 454
+    "workday": 453
   },
   "roles_by_cycle": {
-    "Summer 2027": 424,
+    "Summer 2027": 423,
     "Fall 2026": 20,
     "Not stated": 299
   },
   "roles_by_region": {
-    "US": 743
+    "US": 742
   },
   "sponsorship_counts": {
     "unknown": 529,
-    "no-sponsorship": 122,
+    "no-sponsorship": 121,
     "citizens-only": 91,
     "offers": 1
   },
@@ -68,7 +67,7 @@
   "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
   "new_this_run": 0,
-  "open_total": 743,
+  "open_total": 742,
   "detection_latency": {
     "median_minutes": 22.6,
     "p95_minutes": 868.2,
@@ -80,5 +79,5 @@
     "median_days": 7.5,
     "sample_size": 14
   },
-  "rendered_at": "2026-09-19T19:34:37Z"
+  "rendered_at": "2026-09-19T20:02:12Z"
 }
