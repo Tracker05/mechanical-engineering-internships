@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 742 open roles (443 listed below) · 742 new this week
+### 738 open roles (439 listed below) · 738 new this week
 
-4,597 employers tracked · data as of Sep 19, 2026 at 03:04 UTC
+4,597 employers tracked · data as of Sep 19, 2026 at 03:36 UTC
 
-_443 have a cycle the employer stated · 299 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_439 have a cycle the employer stated · 299 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -85,16 +85,13 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (240 employer-stated)
+## Summer 2027  (237 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | United Parcel Service (UPS) | 2027 Americas Region Industrial Engineering Summer Intern 🇺🇸 🆕 | Manufacturing & Process | US - UPS CORPORATE OFFICES (GACOR) | No skills listed | Sep 18, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989) |
 | RTX | Digital Hardware Design Engineer Co-op (Summer/Fall 2027)(Onsite) 🇺🇸 🆕 | Design & CAD | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE… | No skills listed | Sep 18, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519) |
-| Northrop Grumman | 2027 Structural Engineer Intern 🇺🇸 🆕 | Structures & Materials | United States-Utah-Clearfield | No skills listed | Sep 18, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781) |
 | Charter Manufacturing | Mechanical Engineer Intern (Year-Round) 🆕 | Design & CAD | Charter Steel - Saukville, WI | AutoCAD, Excel, Lean | Sep 18, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102) |
-| Northrop Grumman | 2027 Manufacturing Engineer Intern 🇺🇸 🆕 | Manufacturing & Process | United States-Mississippi-Iuka | No skills listed | Sep 18, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1) |
-| Northrop Grumman | 2027 Intern Tooling Engineer 🇺🇸 🆕 _(2 openings)_ | Manufacturing & Process | United States-Utah-Clearfield | No skills listed | Sep 18, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2026-Intern-Tooling-Engineer_R10251724) [#2](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Tooling-Engineer_R10251728) |
 | Watts Water | Manufacturing Quality Intern, Summer 2027 🆕 | Manufacturing & Process | Fort Myers, FL | Six Sigma, Lean | Sep 18, 2026 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Manufacturing-Quality-Intern--Summer-2027_10017584) |
 | Merck | 2027 Future Talent Program - Manufacturing Intern 🛂 🆕 | Manufacturing & Process | USA - North Carolina - Durham (Old Oxfo… | No skills listed | Sep 18, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739) |
 | Merck | 2027 Future Talent Program – West Point Vaccine Manufacturing Intern 🛂 🆕 | Manufacturing & Process | USA - Pennsylvania - West Point | Six Sigma, Lean | Sep 18, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---West-Point-Vaccine-Manufacturing-Intern_R416751) |
@@ -556,12 +553,16 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _120 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **120** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 12 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 16 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Northrop Grumman | 2027 Manufacturing Engineer Intern | Summer 2027 | 2026-09-19 | out of scope |
+| Northrop Grumman | 2027 Intern Tooling Engineer | Summer 2027 | 2026-09-19 | out of scope |
+| Northrop Grumman | 2027 Intern Tooling Engineer | Summer 2027 | 2026-09-19 | out of scope |
+| Northrop Grumman | 2027 Structural Engineer Intern | Summer 2027 | 2026-09-19 | out of scope |
 | Ralliant | Operations & Manufacturing Cooperative Education Student (Fall 2026, Part Time) | Fall 2026 | 2026-09-18 | gone from feed |
 | Graco | Manufacturing Engineering Intern | Summer 2027 | 2026-09-18 | gone from feed |
 | Graco | Mechanical Engineer Intern | Summer 2027 | 2026-09-18 | gone from feed |
@@ -592,7 +593,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,346 of 4,853 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 1064.2s · 533 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,372 of 4,853 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 886.5s · 530 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
