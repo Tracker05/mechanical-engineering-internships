@@ -8,7 +8,7 @@
 
 ### 740 open roles (442 listed below) · 740 new this week
 
-4,607 employers tracked · data as of Sep 20, 2026 at 19:59 UTC
+4,607 employers tracked · data as of Sep 20, 2026 at 20:38 UTC
 
 _443 have a cycle the employer stated · 297 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -89,7 +89,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| United Parcel Service (UPS) | 2027 Americas Region Industrial Engineering Summer Intern 🇺🇸 🆕 | Manufacturing & Process | US - UPS CORPORATE OFFICES (GACOR) | No skills listed | Sep 18, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989) |
+| United Parcel Service (UPS) | 2027 Americas Region Industrial Engineering Summer Intern 🇺🇸 | Manufacturing & Process | US - UPS CORPORATE OFFICES (GACOR) | No skills listed | Sep 18, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989) |
 | RTX | Digital Hardware Design Engineer Co-op (Summer/Fall 2027)(Onsite) 🇺🇸 | Design & CAD | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE… | No skills listed | Sep 18, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519) |
 | Northrop Grumman | 2027 Structural Engineer Intern 🇺🇸 | Structures & Materials | United States-Utah-Clearfield | No skills listed | Sep 18, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781) |
 | Charter Manufacturing | Mechanical Engineer Intern (Year-Round) | Design & CAD | Charter Steel - Saukville, WI | AutoCAD, Excel, Lean | Sep 18, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102) |
@@ -362,12 +362,12 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Greenheck Group | Manufacturing Engineer Co-op 🆕 | Manufacturing & Process | Knoxville, TN | No skills listed | Sep 20, 2026 | [Apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Knoxville-TN/Manufacturing-Engineer-Co-op_JR104671) |
-| Graco | CNC Machine Mechanic Intern 🛂 🆕 | Manufacturing & Process | Dayton, Minnesota, USA | Hydraulics | Sep 18, 2026 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023683) |
-| 1X | Internship - CNC Machine Park 🆕 | Manufacturing & Process | Hayward, CA | CNC, GD&T, Machining | Sep 18, 2026 | [Apply](https://jobs.ashbyhq.com/1x/ebc45d87-58d7-40d8-9e3d-5f3c8aa5eb48) |
-| Acron Aviation | Test Engineer Intern - Grand Rapids Site 🆕 | Test & Quality | Grand Rapids, MI | Python, C++, LabVIEW, Excel | Sep 18, 2026 | [Apply](https://jobs.lever.co/acronaviation/efde3e9b-1ea5-45f7-ba1d-e26e084e28c7) |
-| Crane Co. ✓ | Manufacturing Engineer Intern 🆕 | Manufacturing & Process | Saddle Brook, New Jersey | Inventor, Machining, Six Sigma, Lean | Sep 18, 2026 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Saddle-Brook-New-Jersey/Manufacturing-Engineer-Intern_JR102570) |
-| Gordon Food Service ✓ | Industrial / Mechanical / Electrical Engineer Internship 🆕 | Design & CAD | Wyoming, Michigan | No skills listed | Sep 18, 2026 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Industrial---Mechanical---Electrical-Engineer-Internship_R-57373) |
-| Johnson & Johnson | Spring R&D Engineer Co-op, INTO 🛂 🆕 | General Engineering | Cincinnati +2 more | SolidWorks | Sep 18, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Spring-R-D-Engineer-Co-op--INTO_R-099005) |
+| Graco | CNC Machine Mechanic Intern 🛂 | Manufacturing & Process | Dayton, Minnesota, USA | Hydraulics | Sep 18, 2026 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023683) |
+| 1X | Internship - CNC Machine Park | Manufacturing & Process | Hayward, CA | CNC, GD&T, Machining | Sep 18, 2026 | [Apply](https://jobs.ashbyhq.com/1x/ebc45d87-58d7-40d8-9e3d-5f3c8aa5eb48) |
+| Acron Aviation | Test Engineer Intern - Grand Rapids Site | Test & Quality | Grand Rapids, MI | Python, C++, LabVIEW, Excel | Sep 18, 2026 | [Apply](https://jobs.lever.co/acronaviation/efde3e9b-1ea5-45f7-ba1d-e26e084e28c7) |
+| Crane Co. ✓ | Manufacturing Engineer Intern | Manufacturing & Process | Saddle Brook, New Jersey | Inventor, Machining, Six Sigma, Lean | Sep 18, 2026 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Saddle-Brook-New-Jersey/Manufacturing-Engineer-Intern_JR102570) |
+| Gordon Food Service ✓ | Industrial / Mechanical / Electrical Engineer Internship | Design & CAD | Wyoming, Michigan | No skills listed | Sep 18, 2026 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Industrial---Mechanical---Electrical-Engineer-Internship_R-57373) |
+| Johnson & Johnson | Spring R&D Engineer Co-op, INTO 🛂 | General Engineering | Cincinnati +2 more | SolidWorks | Sep 18, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Spring-R-D-Engineer-Co-op--INTO_R-099005) |
 | Jones Lang LaSalle (JLL) | HVAC Technician Intern 🛂 | Thermal & Fluids | Seattle, WA | No skills listed | Sep 18, 2026 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/HVAC-Technician-Intern_REQ528097) |
 | Niagara Bottling ✓ | Manufacturing Intern - Milesburg | Manufacturing & Process | Milesburg - Milesburg, PA | No skills listed | Sep 18, 2026 | [Apply](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Milesburg---Milesburg-PA/Manufacturing-Intern---Milesburg_R56065) |
 | Analytical Mechanics Associates | Mechanical Engineering Intern | Design & CAD | Hampton, VA | Creo, GD&T | Sep 18, 2026 | [Apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Mechanical-Engineering-Intern_R-100764) |
@@ -591,7 +591,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,480 of 4,865 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 819.9s · 587 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,444 of 4,865 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1066.8s · 573 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
