@@ -8,7 +8,7 @@
 
 ### 740 open roles (442 listed below) · 740 new this week
 
-4,607 employers tracked · data as of Sep 20, 2026 at 12:37 UTC
+4,607 employers tracked · data as of Sep 20, 2026 at 13:07 UTC
 
 _444 have a cycle the employer stated · 296 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -96,8 +96,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | Northrop Grumman | 2027 Manufacturing Engineer Intern 🇺🇸 🆕 | Manufacturing & Process | United States-Mississippi-Iuka | No skills listed | Sep 18, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1) |
 | Northrop Grumman | 2027 Intern Tooling Engineer 🇺🇸 🆕 _(2 openings)_ | Manufacturing & Process | United States-Utah-Clearfield | No skills listed | Sep 18, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2026-Intern-Tooling-Engineer_R10251724) [#2](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Tooling-Engineer_R10251728) |
 | Watts Water | Manufacturing Quality Intern, Summer 2027 🆕 | Manufacturing & Process | Fort Myers, FL | Six Sigma, Lean | Sep 18, 2026 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Manufacturing-Quality-Intern--Summer-2027_10017584) |
-| Merck | 2027 Future Talent Program - Manufacturing Intern 🛂 🆕 | Manufacturing & Process | USA - North Carolina - Durham (Old Oxfo… | No skills listed | Sep 18, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739) |
-| Merck | 2027 Future Talent Program – West Point Vaccine Manufacturing Intern 🛂 🆕 | Manufacturing & Process | USA - Pennsylvania - West Point | Six Sigma, Lean | Sep 18, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---West-Point-Vaccine-Manufacturing-Intern_R416751) |
+| Merck | 2027 Future Talent Program - Manufacturing Intern 🛂 | Manufacturing & Process | USA - North Carolina - Durham (Old Oxfo… | No skills listed | Sep 18, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739) |
+| Merck | 2027 Future Talent Program – West Point Vaccine Manufacturing Intern 🛂 | Manufacturing & Process | USA - Pennsylvania - West Point | Six Sigma, Lean | Sep 18, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---West-Point-Vaccine-Manufacturing-Intern_R416751) |
 | Valeo | Quality Engineer Co-Op (Summer 2027) | Test & Quality | Hamilton, OH | Excel, FMEA, SPC | Sep 18, 2026 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Hamilton-OH/Quality-Engineer-Co-Op--Summer-2027-_REQ2026080099) |
 | Rocket Lab | Manufacturing Engineering Intern Summer 2027 🇺🇸 | Manufacturing & Process | Wallops Island, VA | Python | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
 | Echo Global Logistics | Process Engineer Intern- Greenfield, IN | Manufacturing & Process | Roadtex - Greenfield IN | No skills listed | Sep 17, 2026 | [Apply](https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Roadtex---Greenfield-IN/Process-Engineer-Intern--Greenfield--IN_R4650-1) |
@@ -590,7 +590,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,497 of 4,865 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 92% of the full registry) · completed in 742.6s · 600 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,414 of 4,865 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1052.3s · 563 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
