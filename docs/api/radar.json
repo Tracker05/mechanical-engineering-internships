@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-21T17:30:51Z",
- "data_as_of": "2026-09-21T17:30:51Z",
- "rendered_at": "2026-09-21T17:30:52Z",
+ "generated_at": "2026-09-21T18:02:29Z",
+ "data_as_of": "2026-09-21T18:02:29Z",
+ "rendered_at": "2026-09-21T18:02:29Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -98,25 +98,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-07-27"
-   }
-  },
-  {
-   "company": "Kraft Heinz",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-31",
-   "days_until": -52,
-   "status": "open",
-   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-07-31"
    }
   },
   {
@@ -340,6 +321,25 @@
    "days_until": -27,
    "status": "open",
    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155541",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "MetOx International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -27,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5405775008",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2131,6 +2131,25 @@
    }
   },
   {
+   "company": "Kraft Heinz",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-31",
+   "days_until": -52,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-31"
+   }
+  },
+  {
    "company": "Caterpillar Inc.",
    "last_cycle_posted": "",
    "posted_on": "2026-08-17",
@@ -2340,5 +2359,5 @@
    }
   }
  ],
- "count": 123
+ "count": 124
 }
