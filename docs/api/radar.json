@@ -1,10 +1,29 @@
 {
- "generated_at": "2026-09-21T18:02:29Z",
- "data_as_of": "2026-09-21T18:02:29Z",
- "rendered_at": "2026-09-21T18:02:29Z",
+ "generated_at": "2026-09-21T18:37:42Z",
+ "data_as_of": "2026-09-21T18:37:42Z",
+ "rendered_at": "2026-09-21T18:37:42Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
+  {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-11",
+   "days_until": -102,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-11"
+   }
+  },
   {
    "company": "Kairos Power",
    "last_cycle_posted": "",
@@ -1697,7 +1716,7 @@
    }
   },
   {
-   "company": "Ensign-Bickford Aerospace & Defense Company",
+   "company": "Ensign-Bickford Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
    "precision": "day",
@@ -1707,7 +1726,7 @@
    "expected": "2026-09-15",
    "days_until": -6,
    "status": "open",
-   "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696-1",
+   "url": "https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2112,25 +2131,6 @@
    }
   },
   {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-11",
-   "days_until": -102,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-06-11"
-   }
-  },
-  {
    "company": "Kraft Heinz",
    "last_cycle_posted": "",
    "posted_on": "2026-07-31",
@@ -2340,7 +2340,7 @@
    }
   },
   {
-   "company": "Ensign-Bickford Industries",
+   "company": "Ensign-Bickford Aerospace & Defense Company",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
    "precision": "day",
