@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 754 open roles (445 listed below) · 194 new this week
+### 755 open roles (445 listed below) · 194 new this week
 
-4,608 employers tracked · data as of Sep 21, 2026 at 21:57 UTC
+4,608 employers tracked · data as of Sep 21, 2026 at 22:38 UTC
 
-_451 have a cycle the employer stated · 303 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_452 have a cycle the employer stated · 303 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -89,6 +89,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| IMEG ✓ | Mechanical Engineering Intern / Anaheim, CA 🛂 🆕 | Design & CAD | Anaheim, CA | AutoCAD, Excel | Sep 21, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Anaheim-CA/Mechanical-Engineering-Intern---Anaheim--CA_R-16751) |
 | Zurn Elkay Water Solutions | Mechanical Engineering Intern (Summer 2027) 🆕 | Design & CAD | Paso Robles, CA | Inventor, AutoCAD, Excel, Additive Manufacturing | Sep 21, 2026 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111) |
 | Life Fitness ✓ | Mechanical Engineering Intern - Ramsey, MN 🆕 | Design & CAD | Ramsey, MN | SolidWorks, Tolerance Analysis, FEA, Excel | Sep 21, 2026 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235) |
 | Charter Manufacturing | Mechanical Engineering Intern (Year-Round) 🆕 | Design & CAD | Charter Steel - Saukville, WI | SolidWorks, AutoCAD, Excel, Lean | Sep 21, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122) |
@@ -212,7 +213,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Clarios ✓ | Advanced Manufacturing Intern (Summer 2027) 🛂 | Manufacturing & Process | United States, Michigan, Holland | PLC | Sep 09, 2026 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Michigan-Holland/Advanced-Manufacturing-Intern--Summer-2027-_WD49914) |
 | HMH | Manufacturing Shop Operations Intern | Manufacturing & Process | Houston, TX | Excel | Sep 09, 2026 | [Apply](https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389) |
 | HMH | Mechanical Engineering Intern | Design & CAD | Houston, TX | Excel | Sep 09, 2026 | [Apply](https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Mechanical-Engineering-Intern_JR102383) |
-| IMEG ✓ | Structural Engineering Intern / Las Vegas, NV 🛂 | Structures & Materials | Las Vegas, NV | AutoCAD, Excel | Sep 09, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Las-Vegas-NV/Structural-Engineering-Intern---Las-Vegas--NV_R-16753) |
 | Moog | Intern, Design Engineering _(2 openings)_ | Design & CAD | Mineral Wells, TX | No skills listed | Sep 09, 2026 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19881) [#2](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19882) |
 | Moog | Intern, Hardware Design Engineering | Design & CAD | Mineral Wells, TX | No skills listed | Sep 09, 2026 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887) |
 | Motorola | Quality & Process Engineer Summer Internship 2027 🛂 | Manufacturing & Process | Elgin, IL | Design of Experiments | Sep 09, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Elgin-IL/Quality---Process-Engineer-Summer-Internship-2027_R68673) |
@@ -608,7 +608,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,415 of 4,866 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 90% of the full registry) · completed in 706.1s · 544 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,384 of 4,866 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 1006.1s · 523 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
