@@ -1030,6 +1030,18 @@
     }
    }
   },
+  "life fitness": {
+   "name": "Life Fitness",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:lifefitness:/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235"
+     ],
+     "count": 1
+    }
+   }
+  },
   "lonza": {
    "name": "Lonza",
    "cycles": {
@@ -1972,12 +1984,13 @@
      "role_ids": [
       "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073",
       "workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
-      "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074"
+      "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074",
+      "workday:elkay:/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111"
      ],
-     "count": 3
+     "count": 4
     }
    }
   }
  },
- "updated_at": "2026-09-21T20:58:39Z"
+ "updated_at": "2026-09-21T21:36:13Z"
 }
