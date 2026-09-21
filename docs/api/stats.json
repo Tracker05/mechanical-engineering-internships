@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-21T09:05:08Z",
- "fetched_at": "2026-09-21T09:05:08Z",
- "duration_seconds": 962.1,
- "companies_total": 4865,
+ "generated_at": "2026-09-21T09:38:59Z",
+ "fetched_at": "2026-09-21T09:38:59Z",
+ "duration_seconds": 933.9,
+ "companies_total": 4866,
  "companies_by_source": {
-  "greenhouse": 1082,
+  "greenhouse": 1083,
   "lever": 404,
   "ashby": 745,
   "recruitee": 3,
@@ -17,32 +17,32 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 436,
- "fetched_ok": 4359,
- "fetch_errors": 70,
+ "quarantined": 432,
+ "fetched_ok": 4403,
+ "fetch_errors": 31,
  "errors_by_source": {
-  "workday": 63,
-  "oracle": 1,
-  "workable": 6
+  "greenhouse": 1,
+  "workday": 26,
+  "workable": 4
  },
- "fetch_success_rate": 0.984,
- "fetch_success_rate_registry": 0.896,
- "snapshots_complete": 3822,
- "snapshots_partial": 537,
+ "fetch_success_rate": 0.993,
+ "fetch_success_rate_registry": 0.905,
+ "snapshots_complete": 3836,
+ "snapshots_partial": 567,
  "partial_by_reason": {
-  "result-cap": 510,
-  "malformed-response": 27
+  "result-cap": 539,
+  "malformed-response": 28
  },
- "degraded_fetches": 27,
+ "degraded_fetches": 28,
  "roles_matched": 625,
- "dropped_no_year_in_title": 152,
- "dropped_offcycle_by_text": 151,
+ "dropped_no_year_in_title": 155,
+ "dropped_offcycle_by_text": 158,
  "roles_cycle_inferred": 298,
  "roles_by_source": {
   "amazon": 4,
   "ashby": 19,
   "breezy": 1,
-  "greenhouse": 85,
+  "greenhouse": 82,
   "lever": 30,
   "oracle": 103,
   "rippling": 5,
@@ -50,15 +50,15 @@
   "workday": 449
  },
  "roles_by_cycle": {
-  "Summer 2027": 419,
+  "Summer 2027": 416,
   "Fall 2026": 20,
   "Not stated": 298
  },
  "roles_by_region": {
-  "US": 737
+  "US": 734
  },
  "sponsorship_counts": {
-  "unknown": 528,
+  "unknown": 525,
   "no-sponsorship": 120,
   "citizens-only": 88,
   "offers": 1
@@ -68,7 +68,7 @@
  "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 737,
+ "open_total": 734,
  "detection_latency": {
   "median_minutes": 20.9,
   "p95_minutes": 137.7,
@@ -80,5 +80,5 @@
   "median_days": 7,
   "sample_size": 15
  },
- "rendered_at": "2026-09-21T09:05:08Z"
+ "rendered_at": "2026-09-21T09:38:59Z"
 }
