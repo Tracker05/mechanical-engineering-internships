@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T14:07:43Z",
-  "fetched_at": "2026-09-21T14:07:43Z",
-  "duration_seconds": 1141.0,
+  "generated_at": "2026-09-21T14:40:02Z",
+  "fetched_at": "2026-09-21T14:40:02Z",
+  "duration_seconds": 1012.7,
   "companies_total": 4866,
   "companies_by_source": {
     "greenhouse": 1083,
@@ -17,24 +17,27 @@
     "breezy": 13,
     "eightfold": 1
   },
-  "quarantined": 434,
-  "fetched_ok": 4377,
-  "fetch_errors": 55,
+  "quarantined": 414,
+  "fetched_ok": 4360,
+  "fetch_errors": 92,
   "errors_by_source": {
-    "workday": 55
+    "workday": 81,
+    "ashby": 3,
+    "greenhouse": 1,
+    "workable": 7
   },
-  "fetch_success_rate": 0.988,
-  "fetch_success_rate_registry": 0.9,
-  "snapshots_complete": 3816,
-  "snapshots_partial": 561,
+  "fetch_success_rate": 0.979,
+  "fetch_success_rate_registry": 0.896,
+  "snapshots_complete": 3806,
+  "snapshots_partial": 554,
   "partial_by_reason": {
-    "result-cap": 491,
-    "malformed-response": 70
+    "result-cap": 477,
+    "malformed-response": 77
   },
-  "degraded_fetches": 70,
-  "roles_matched": 661,
-  "dropped_no_year_in_title": 144,
-  "dropped_offcycle_by_text": 164,
+  "degraded_fetches": 77,
+  "roles_matched": 652,
+  "dropped_no_year_in_title": 146,
+  "dropped_offcycle_by_text": 199,
   "roles_cycle_inferred": 298,
   "roles_by_source": {
     "amazon": 3,
@@ -56,16 +59,16 @@
     "US": 744
   },
   "sponsorship_counts": {
-    "unknown": 535,
-    "no-sponsorship": 120,
+    "unknown": 536,
+    "no-sponsorship": 119,
     "citizens-only": 88,
     "offers": 1
   },
   "posted_date_coverage": 0.993,
-  "enriched_this_run": 57,
-  "enrichment_detail_fetches": 6,
+  "enriched_this_run": 53,
+  "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
-  "new_this_run": 5,
+  "new_this_run": 1,
   "open_total": 744,
   "detection_latency": {
     "median_minutes": 19.8,
@@ -78,5 +81,5 @@
     "median_days": 7,
     "sample_size": 15
   },
-  "rendered_at": "2026-09-21T14:07:43Z"
+  "rendered_at": "2026-09-21T14:40:02Z"
 }
