@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T16:39:14Z",
-  "fetched_at": "2026-09-22T16:39:14Z",
-  "duration_seconds": 987.3,
+  "generated_at": "2026-09-22T17:06:12Z",
+  "fetched_at": "2026-09-22T17:06:12Z",
+  "duration_seconds": 1067.9,
   "companies_total": 4875,
   "companies_by_source": {
     "greenhouse": 1083,
@@ -17,26 +17,25 @@
     "breezy": 13,
     "eightfold": 1
   },
-  "quarantined": 412,
-  "fetched_ok": 4393,
-  "fetch_errors": 70,
+  "quarantined": 431,
+  "fetched_ok": 4409,
+  "fetch_errors": 35,
   "errors_by_source": {
-    "workday": 67,
-    "workable": 3
+    "workday": 35
   },
-  "fetch_success_rate": 0.984,
-  "fetch_success_rate_registry": 0.901,
-  "snapshots_complete": 3838,
-  "snapshots_partial": 555,
+  "fetch_success_rate": 0.992,
+  "fetch_success_rate_registry": 0.904,
+  "snapshots_complete": 3862,
+  "snapshots_partial": 547,
   "partial_by_reason": {
     "result-cap": 487,
-    "malformed-response": 68
+    "malformed-response": 60
   },
-  "degraded_fetches": 68,
-  "roles_matched": 651,
-  "dropped_no_year_in_title": 138,
-  "dropped_offcycle_by_text": 148,
-  "roles_cycle_inferred": 307,
+  "degraded_fetches": 60,
+  "roles_matched": 668,
+  "dropped_no_year_in_title": 144,
+  "dropped_offcycle_by_text": 155,
+  "roles_cycle_inferred": 308,
   "roles_by_source": {
     "amazon": 3,
     "ashby": 19,
@@ -49,24 +48,24 @@
     "workday": 470
   },
   "roles_by_cycle": {
-    "Summer 2027": 437,
+    "Summer 2027": 436,
     "Fall 2026": 20,
-    "Not stated": 307
+    "Not stated": 308
   },
   "roles_by_region": {
     "US": 764
   },
   "sponsorship_counts": {
-    "unknown": 553,
-    "no-sponsorship": 123,
+    "unknown": 554,
+    "no-sponsorship": 122,
     "citizens-only": 87,
     "offers": 1
   },
   "posted_date_coverage": 0.993,
-  "enriched_this_run": 50,
-  "enrichment_detail_fetches": 0,
+  "enriched_this_run": 51,
+  "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
-  "new_this_run": 0,
+  "new_this_run": 1,
   "open_total": 764,
   "detection_latency": {
     "median_minutes": 20.9,
@@ -79,5 +78,5 @@
     "median_days": 7,
     "sample_size": 17
   },
-  "rendered_at": "2026-09-22T16:39:15Z"
+  "rendered_at": "2026-09-22T17:06:12Z"
 }
