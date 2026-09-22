@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T22:36:32Z",
- "data_as_of": "2026-09-22T22:36:32Z",
- "rendered_at": "2026-09-22T22:36:33Z",
+ "generated_at": "2026-09-22T23:00:28Z",
+ "data_as_of": "2026-09-22T23:00:28Z",
+ "rendered_at": "2026-09-22T23:00:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -397,6 +397,25 @@
    "days_until": -27,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/AECOM2/744000145646439",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-26"
+   }
+  },
+  {
+   "company": "Axon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -27,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/axon/jobs/7978840003",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1659,6 +1678,25 @@
    }
   },
   {
+   "company": "Eversource Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -8,
+   "status": "open",
+   "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Transmission-System-Planning-Intern_R-029918",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "Johnson & Johnson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2321,25 +2359,6 @@
    }
   },
   {
-   "company": "Eversource Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -8,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-14"
-   }
-  },
-  {
    "company": "MKS Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2397,5 +2416,5 @@
    }
   }
  ],
- "count": 126
+ "count": 127
 }
