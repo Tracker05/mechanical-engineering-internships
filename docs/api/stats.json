@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T14:40:50Z",
- "fetched_at": "2026-09-22T14:40:50Z",
- "duration_seconds": 1074.7,
+ "generated_at": "2026-09-22T15:08:46Z",
+ "fetched_at": "2026-09-22T15:08:46Z",
+ "duration_seconds": 1098.4,
  "companies_total": 4875,
  "companies_by_source": {
   "greenhouse": 1083,
@@ -17,27 +17,24 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 367,
+ "quarantined": 388,
  "fetched_ok": 4434,
- "fetch_errors": 74,
+ "fetch_errors": 53,
  "errors_by_source": {
-  "workday": 61,
-  "ashby": 5,
-  "greenhouse": 4,
-  "workable": 4
+  "workday": 53
  },
- "fetch_success_rate": 0.984,
+ "fetch_success_rate": 0.988,
  "fetch_success_rate_registry": 0.91,
- "snapshots_complete": 3861,
- "snapshots_partial": 573,
+ "snapshots_complete": 3855,
+ "snapshots_partial": 579,
  "partial_by_reason": {
-  "result-cap": 501,
-  "malformed-response": 72
+  "result-cap": 514,
+  "malformed-response": 65
  },
- "degraded_fetches": 72,
- "roles_matched": 687,
- "dropped_no_year_in_title": 151,
- "dropped_offcycle_by_text": 154,
+ "degraded_fetches": 65,
+ "roles_matched": 692,
+ "dropped_no_year_in_title": 147,
+ "dropped_offcycle_by_text": 189,
  "roles_cycle_inferred": 306,
  "roles_by_source": {
   "amazon": 3,
@@ -51,24 +48,24 @@
   "workday": 473
  },
  "roles_by_cycle": {
-  "Summer 2027": 442,
-  "Fall 2026": 19,
+  "Summer 2027": 441,
+  "Fall 2026": 20,
   "Not stated": 306
  },
  "roles_by_region": {
   "US": 767
  },
  "sponsorship_counts": {
-  "unknown": 555,
+  "unknown": 556,
   "no-sponsorship": 123,
-  "citizens-only": 88,
+  "citizens-only": 87,
   "offers": 1
  },
  "posted_date_coverage": 0.993,
- "enriched_this_run": 50,
- "enrichment_detail_fetches": 0,
+ "enriched_this_run": 51,
+ "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
- "new_this_run": 0,
+ "new_this_run": 1,
  "open_total": 767,
  "detection_latency": {
   "median_minutes": 20.9,
@@ -78,8 +75,8 @@
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 8.0,
-  "sample_size": 16
+  "median_days": 7,
+  "sample_size": 17
  },
- "rendered_at": "2026-09-22T14:40:50Z"
+ "rendered_at": "2026-09-22T15:08:47Z"
 }
