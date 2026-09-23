@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 781 open roles (465 listed below) · 172 new this week
+### 779 open roles (463 listed below) · 153 new this week
 
-4,616 employers tracked · data as of Sep 23, 2026 at 04:04 UTC
+4,616 employers tracked · data as of Sep 23, 2026 at 04:39 UTC
 
-_465 have a cycle the employer stated · 316 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_463 have a cycle the employer stated · 316 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -85,7 +85,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (252 employer-stated)
+## Summer 2027  (250 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -115,7 +115,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | AtkinsRéalis | Roadway Design Engineering Intern - Summer 2027 🆕 | Design & CAD | US.MI.Novi | No skills listed | Sep 21, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USMINovi/Roadway-Design-Engineering-Intern---Summer-2027_R-161166-1) |
 | The Toro Company | Quality Engineer Intern - Ditch Witch 🛂 🆕 | Test & Quality | Perry, OK | Excel | Sep 21, 2026 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Quality-Engineer-Intern---Ditch-Witch_JR17218) |
 | AtkinsRéalis | Roadway Design Engineering Intern - Summer 2027 🆕 | Design & CAD | US.NC.Raleigh.1616 East Mill Brook Road | AutoCAD, Excel | Sep 21, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNCRaleigh1616-East-Mill-Brook-Road/Roadway-Design-Engineering-Intern---Summer-2027_R-162556) |
-| Northrop Grumman | 2027 Mechanical Engineer Intern - Baltimore MD 🇺🇸 🆕 | Design & CAD | United States-Maryland-Baltimore | No skills listed | Sep 21, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088) |
 | United Parcel Service (UPS) | 2027 Americas Region Industrial Engineering Summer Intern 🇺🇸 | Manufacturing & Process | US - UPS CORPORATE OFFICES (GACOR) | No skills listed | Sep 18, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989) |
 | RTX | Digital Hardware Design Engineer Co-op (Summer/Fall 2027)(Onsite) 🇺🇸 | Design & CAD | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE… | No skills listed | Sep 18, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519) |
 | Charter Manufacturing | Mechanical Engineer Intern (Year-Round) | Design & CAD | Charter Steel - Saukville, WI | AutoCAD, Excel, Lean | Sep 18, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102) |
@@ -177,7 +176,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Anduril | 2027 Manufacturing Optimization Engineer Intern | Manufacturing & Process | Ashville, Ohio, United States | Composites | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007) |
 | Zurn Elkay Water Solutions | Industrial Engineering Intern (Summer 2027) | Manufacturing & Process | Freeport, IL | AutoCAD, Excel | Sep 14, 2026 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073) |
 | Zurn Elkay Water Solutions | Industrial Engineering Intern (Summer 2027) | Manufacturing & Process | Lanark, IL | AutoCAD, Excel | Sep 14, 2026 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075) |
-| Eversource Energy | 2027: Transmission System Planning Co-op 🛂 | Automotive & Mobility | Hartford, CT | No skills listed | Sep 14, 2026 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Transmission-System-Planning-Intern_R-029918) |
 | The Walt Disney Company | Disneyland Resort Industrial Engineering Intern, Summer 2027 | Manufacturing & Process | Anaheim, CA, USA | No skills listed | Sep 14, 2026 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978) |
 | The Walt Disney Company | Walt Disney World Industrial Engineering Intern, Summer/Fall 2027 | Manufacturing & Process | Lake Buena Vista, FL, USA | No skills listed | Sep 14, 2026 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1) |
 | nVent | Manufacturing Engineering Co-op (June - December 2027) | Manufacturing & Process | Anoka, MN, US | SolidWorks, AutoCAD, Lean | Sep 14, 2026 | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--June---December-2027-_R23578) |
@@ -579,12 +577,14 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _127 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **127** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 24 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 26 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Eversource Energy | 2027: Transmission System Planning Co-op | Summer 2027 | 2026-09-23 | out of scope |
+| Northrop Grumman | 2027 Mechanical Engineer Intern - Baltimore MD | Summer 2027 | 2026-09-23 | out of scope |
 | The Aerospace Corporation | 2027 Vehicle and Ground Concepts Undergraduate Intern | Summer 2027 | 2026-09-22 | out of scope |
 | RTX | Manufacturing Electrical Engineering Intern (Summer 2027) | Summer 2027 | 2026-09-22 | gone from feed |
 | Caterpillar Inc. | 2027 Engineering Corporate Internship Program Welding | Summer 2027 | 2026-09-22 | out of scope |
@@ -627,7 +627,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,475 of 4,875 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 995.5s · 588 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,393 of 4,875 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 975.2s · 549 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
