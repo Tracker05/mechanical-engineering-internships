@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 786 open roles (466 listed below) · 156 new this week
+### 786 open roles (466 listed below) · 157 new this week
 
-4,620 employers tracked · data as of Sep 23, 2026 at 14:40 UTC
+4,620 employers tracked · data as of Sep 23, 2026 at 15:06 UTC
 
 _462 have a cycle the employer stated · 324 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -85,10 +85,11 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (249 employer-stated)
+## Summer 2027  (250 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Northrop Grumman | 2027 Mechanical Engineer Intern – Woodland Hills CA 🇺🇸 🆕 | Design & CAD | United States-California-Woodland Hills | SolidWorks, ANSYS, FEA, MATLAB | Sep 23, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483) |
 | Marvell | Security Verification/Validation Engineer Intern, BS - Summer 2027 🆕 | Test & Quality | Chandler, AZ | No skills listed | Sep 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1) |
 | AECOM | Structural Engineering Intern - Networking Event with AECOM – Boston, MA 🛂 🆕 | Structures & Materials | Boston, MA, United States (Hybrid) | AutoCAD, Excel | Sep 23, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151381599) |
 | RTX | Avionics Computer Systems Engineering Co-op (Summer/Fall 2027) - Onsite 🆕 | Aerospace & Defense | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins R… | Python | Sep 22, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715) |
@@ -339,7 +340,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Collier Aerospace | NCSG Aerospace Structural Engineering Intern (Summer 2027) | Aerospace & Defense | Raleigh, NC | No skills listed | — | [Apply](https://ats.rippling.com/collieraerospace/jobs/e132478d-3a1c-4bb6-9f57-002df2853f0c) |
 | American Rare Earths | R&D Process Engineering Intern (Summer 2027) | Manufacturing & Process | Wheat Ridge, CO | No skills listed | — | [Apply](https://ats.rippling.com/usare/jobs/b6210346-8f69-4d89-9900-d450a0a62c44) |
 
-## Fall 2026  (18 employer-stated)
+## Fall 2026  (17 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -359,7 +360,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Alloy Enterprises | Co-Op, Thermal Test Engineer, Fall 2026 (July-December) 🛂 | Thermal & Fluids | Burlington, MA | SolidWorks, Onshape, MATLAB, Python | Mar 25, 2026 | [Apply](https://jobs.ashbyhq.com/alloyenterprises/946e7ae1-d2ac-4889-a72a-268b0aeda9bd) |
 | Mill | Product Design Engineering Intern, Fall/Winter 2026 🛂 | Design & CAD | San Bruno, California | FEA, DFM | Mar 17, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4674154005) |
 | SharkNinja | Fall 2026: Product Design Engineering Co-op, Advanced Development (July/August to December) | Design & CAD | Needham, MA, United States | SolidWorks, Creo, Additive Manufacturing | Jan 21, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646272006) |
-| SharkNinja | Fall 2026: Product Design Engineering Co-op, Ninja (September to December) | Design & CAD | Needham, MA, United States | SolidWorks, Creo, Additive Manufacturing | Jan 21, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646375006) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Robotics & Controls | Westboro, Massachusetts, USA | No skills listed | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
 ## Recently posted — cycle not stated  (185 roles)
@@ -368,8 +368,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Johnson & Johnson | Manufacturing Engineering Co-Op 🛂 🆕 | Manufacturing & Process | Milpitas +2 more | SolidWorks, Creo, AutoCAD, MATLAB | Sep 23, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Milpitas-California-United-States-of-America/Manufacturing-Engineering-Co-Op_R-099376) |
 | Keenfinity | Electrical Test Engineering Co-Op 🆕 | Test & Quality | Fairport, NY, United States (Hybrid) | LabVIEW | Sep 23, 2026 | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000151397415) |
+| Johnson & Johnson | Manufacturing Engineering Co-Op 🛂 🆕 | Manufacturing & Process | Milpitas +2 more | SolidWorks, Creo, AutoCAD, MATLAB | Sep 23, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Milpitas-California-United-States-of-America/Manufacturing-Engineering-Co-Op_R-099376) |
 | Micron Technology ✓ | Intern - ID1 Manufacturing Engineer 🆕 | Manufacturing & Process | Boise, ID - ID1 | MATLAB, Python, Excel, SPC | Sep 23, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
 | ZOLL Medical Corporation | Sustaining Mechanical Engineer Intern 🆕 | Design & CAD | Chelmsford, MA | SolidWorks | Sep 23, 2026 | [Apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313) |
 | Micron Technology ✓ | Intern - Design Engineer, HIG HBM 🆕 | Design & CAD | Richardson, TX | Python, C++ | Sep 22, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512) |
@@ -580,12 +580,13 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _127 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **127** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 29 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 30 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| SharkNinja | Fall 2026: Product Design Engineering Co-op, Ninja (September to December) | Fall 2026 | 2026-09-23 | gone from feed |
 | Zurn Elkay Water Solutions | Manufacturing Engineering Intern (Summer 2027) | Summer 2027 | 2026-09-23 | gone from feed |
 | Motorola | Product Quality Engineering 2027 Internship | Summer 2027 | 2026-09-23 | out of scope |
 | Merck | 2027 Future Talent Program - Manufacturing Intern | Summer 2027 | 2026-09-23 | out of scope |
@@ -633,7 +634,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,469 of 4,880 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 985.5s · 587 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,409 of 4,880 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 956.3s · 564 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
