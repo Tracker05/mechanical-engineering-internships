@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 788 open roles (467 listed below) · 147 new this week
+### 789 open roles (467 listed below) · 146 new this week
 
-4,620 employers tracked · data as of Sep 23, 2026 at 18:42 UTC
+4,620 employers tracked · data as of Sep 23, 2026 at 19:07 UTC
 
-_460 have a cycle the employer stated · 328 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_461 have a cycle the employer stated · 328 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -89,6 +89,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| WSP | Construction Materials Engineering and Laboratory Testing Intern - Summer 2027 🆕 | Structures & Materials | San Diego, CA, United States | No skills listed | Sep 23, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95670) |
 | Generac | Mechanical Engineering Intern - Transfer Switch - Summer 2027 🆕 | Design & CAD | Waukesha, WI - USA | AutoCAD, Excel | Sep 23, 2026 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048) |
 | Northrop Grumman | 2027 Mechanical Engineer Intern – Woodland Hills CA 🇺🇸 🆕 | Design & CAD | United States-California-Woodland Hills | SolidWorks, ANSYS, FEA, MATLAB | Sep 23, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483) |
 | Marvell | Security Verification/Validation Engineer Intern, BS - Summer 2027 🆕 | Test & Quality | Chandler, AZ | No skills listed | Sep 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1) |
@@ -106,9 +107,9 @@ If it helps you, a star means a lot and tells me to keep going.
 | IMEG ✓ | Mechanical Engineering Intern / Anaheim, CA 🛂 🆕 | Design & CAD | Anaheim, CA | AutoCAD, Excel | Sep 21, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Anaheim-CA/Mechanical-Engineering-Intern---Anaheim--CA_R-16751) |
 | Zurn Elkay Water Solutions | Mechanical Engineering Intern (Summer 2027) 🆕 | Design & CAD | Paso Robles, CA | Inventor, AutoCAD, Excel, Additive Manufacturing | Sep 21, 2026 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111) |
 | Life Fitness ✓ | Mechanical Engineering Intern - Ramsey, MN 🆕 | Design & CAD | Ramsey, MN | SolidWorks, Tolerance Analysis, FEA, Excel | Sep 21, 2026 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235) |
-| Charter Manufacturing | Mechanical Engineer Intern (Summer 2027) 🆕 | Design & CAD | Charter Steel - Saukville, WI | SolidWorks, AutoCAD, Excel, Lean | Sep 21, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122) |
-| IMEG ✓ | Structural Engineering Intern / Pasadena, CA 🛂 🆕 | Structures & Materials | Pasadena, CA | AutoCAD, Excel, SPC | Sep 21, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Pasadena-CA/Structural-Engineering-Intern---Pasadena--CA_R-16756) |
-| Oshkosh | Motorsports Intern (Summer 2027) 🆕 | Automotive & Mobility | Huntersville +2 more | Python | Sep 21, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Motorsports-Intern--Summer-2027-_R50520) |
+| Charter Manufacturing | Mechanical Engineer Intern (Summer 2027) | Design & CAD | Charter Steel - Saukville, WI | SolidWorks, AutoCAD, Excel, Lean | Sep 21, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122) |
+| IMEG ✓ | Structural Engineering Intern / Pasadena, CA 🛂 | Structures & Materials | Pasadena, CA | AutoCAD, Excel, SPC | Sep 21, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Pasadena-CA/Structural-Engineering-Intern---Pasadena--CA_R-16756) |
+| Oshkosh | Motorsports Intern (Summer 2027) | Automotive & Mobility | Huntersville +2 more | Python | Sep 21, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Motorsports-Intern--Summer-2027-_R50520) |
 | MetOx International | Process Engineering Co-Op/Intern (Spring/Summer 2027) | Manufacturing & Process | Houston, TX | Excel, Six Sigma, Lean, Design of Experiments | Sep 21, 2026 | [Apply](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5430385008) |
 | Rocket Lab | Thermal Engineering Intern Summer 2027 🇺🇸 | Thermal & Fluids | Long Beach, CA | FEA, Machining | Sep 21, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8000958003) |
 | Draper | Mechanical Engineering & System Packaging Intern (Summer 2027) 🇺🇸 | Design & CAD | Cambridge, MA | SolidWorks, Creo, ANSYS, FEA | Sep 21, 2026 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943) |
@@ -142,7 +143,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Michael Baker International ✓ | Structural Intern, Summer 2027 | Structures & Materials | Salt Lake City, UT, United States | Revit | Sep 16, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309900) |
 | Michael Baker International ✓ | Structural Intern, Summer 2027 | Structures & Materials | Jacksonville, FL, United States | Revit | Sep 16, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309902) |
 | Bass Pro Shops | Advanced Manufacturing Intern Summer 2027 | Manufacturing & Process | Springfield +1 more | Welding | Sep 16, 2026 | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Advanced-Manufacturing-Intern-Summer-2027_R267458) |
-| WSP | Structural Engineering (Substation) Intern - Summer 2027 | Structures & Materials | Freeport +14 more | No skills listed | Sep 16, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94665) |
 | Emerson Electric | Mechanical Engineering Co-op (Summer 2027) | Design & CAD | Elyria +5 more | Solid Edge, FEA | Sep 16, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001) |
 | ABB ✓ | Quality Engineering Intern - Summer 2027 🛂 | Test & Quality | New Berlin +2 more | No skills listed | Sep 16, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273) |
 | Rendezvous Robotics | Mechanical Engineering Intern (Summer 2027) | Design & CAD | Golden, CO | SolidWorks, Fusion 360, Onshape, ANSYS | Sep 16, 2026 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009) |
@@ -637,7 +637,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,388 of 4,880 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 1043.2s · 540 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,388 of 4,880 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 999.1s · 540 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
