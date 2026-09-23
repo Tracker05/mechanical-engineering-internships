@@ -8,7 +8,7 @@
 
 ### 779 open roles (465 listed below) · 170 new this week
 
-4,616 employers tracked · data as of Sep 23, 2026 at 02:38 UTC
+4,616 employers tracked · data as of Sep 23, 2026 at 03:04 UTC
 
 _464 have a cycle the employer stated · 315 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -389,7 +389,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | First Quality | Process Engineering Intern 🆕 | Manufacturing & Process | US PA Lewistown | No skills listed | Sep 21, 2026 | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lewistown/Process-Engineering-Intern_R12104) |
 | LivaNova | Manufacturing Engineer Intern 🆕 | Manufacturing & Process | Arvada, Colorado, US | No skills listed | Sep 21, 2026 | [Apply](https://livanova.wd5.myworkdayjobs.com/search/job/Arvada-Colorado-US/Manufacturing-Engineer-Intern_JR-14827) |
 | Valeo | Mechatronics Engineering Co-Op (Mechanical) 🛂 🆕 | Robotics & Controls | Troy, MI | Python, LabVIEW | Sep 21, 2026 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Mechatronics-Engineering-Co-Op--Mechanical-_REQ2026080157) |
-| Nordson | Intern – Manufacturing Electronics / Software Engineering 🆕 | Manufacturing & Process | USA - Texas - Allen | Excel | Sep 20, 2026 | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925) |
+| Nordson | Intern – Manufacturing Electronics / Software Engineering | Manufacturing & Process | USA - Texas - Allen | Excel | Sep 20, 2026 | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925) |
 | Greenheck Group | Manufacturing Engineer Co-op | Manufacturing & Process | Knoxville, TN | No skills listed | Sep 20, 2026 | [Apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Knoxville-TN/Manufacturing-Engineer-Co-op_JR104671) |
 | Graco | CNC Machine Mechanic Intern 🛂 | Manufacturing & Process | Dayton, Minnesota, USA | Hydraulics | Sep 18, 2026 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023683) |
 | 1X | Internship - CNC Machine Park | Manufacturing & Process | Hayward, CA | CNC, GD&T, Machining | Sep 18, 2026 | [Apply](https://jobs.ashbyhq.com/1x/ebc45d87-58d7-40d8-9e3d-5f3c8aa5eb48) |
@@ -627,7 +627,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,473 of 4,875 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 997.7s · 581 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,361 of 4,875 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 1007.5s · 543 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
