@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 779 open roles (463 listed below) · 152 new this week
+### 781 open roles (465 listed below) · 154 new this week
 
-4,616 employers tracked · data as of Sep 23, 2026 at 09:05 UTC
+4,620 employers tracked · data as of Sep 23, 2026 at 09:37 UTC
 
-_464 have a cycle the employer stated · 315 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_464 have a cycle the employer stated · 317 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -40,7 +40,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://tracker05.github.io/mechanical-engineering-internships/), and included in the CSV and API. |
 | 🔔 **Alerts your way** | [Email digests](https://tracker05.github.io/mechanical-engineering-internships/#subscribe) or [RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://tracker05.github.io/mechanical-engineering-internships/) with search, filters, and a saved-roles list that never leaves your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 4,875 job-board endpoints (4,616 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 4,880 job-board endpoints (4,620 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -364,7 +364,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | SharkNinja | Fall 2026: Product Design Engineering Co-op, Ninja (September to December) | Design & CAD | Needham, MA, United States | SolidWorks, Creo, Additive Manufacturing | Jan 21, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646375006) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Robotics & Controls | Westboro, Massachusetts, USA | No skills listed | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
-## Recently posted — cycle not stated  (180 roles)
+## Recently posted — cycle not stated  (182 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -381,6 +381,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Nightwing Intelligence Solutions | Mechanical Engineer Intern 🆕 | Design & CAD | Springfield, VA | SolidWorks, FEA, MATLAB, Python | Sep 22, 2026 | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Springfield-VA/Mechanical-Engineer-Intern_JR102089-1) |
 | Moog | Intern, Mechanical Analysis Engineering 🆕 | Design & CAD | Buffalo, NY | FEA, CFD | Sep 22, 2026 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Mechanical-Analysis-Engineering_R-26-20226) |
 | EQT Corporation | Production Engineering Intern 🆕 | Manufacturing & Process | Canonsburg, PA | No skills listed | Sep 22, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424728008) |
+| Gorbel | Mechanical Engineering Co-Op 🆕 | Design & CAD | USA, New York, Victor | SolidWorks, AutoCAD, GD&T, FEA | Sep 21, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2284-1) |
+| Gorbel | Mechanical Engineering Co-Op 🆕 | Design & CAD | USA, New York, Henrietta | SolidWorks, AutoCAD, GD&T, FEA | Sep 21, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Henrietta/Mechanical-Engineering-Co-Op_REQ-2026-2283-1) |
 | Micron Technology ✓ | Intern - ATE Process Engineer ID1 🆕 | Manufacturing & Process | Boise, ID - ID1 | MATLAB, Python, SPC, Design of Experiments | Sep 21, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113040) |
 | Greenheck Group | Manufacturing Engineer Co-Op 🆕 | Manufacturing & Process | Bushnell, FL | No skills listed | Sep 21, 2026 | [Apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Bushnell-FL/Manufacturing-Engineer-Co-Op_JR104710) |
 | Micron Technology ✓ | Intern - Probe Manufacturing Engineering (Probe AME) 🆕 | Manufacturing & Process | Boise, ID - Main Site | Python, Excel, Six Sigma, Lean | Sep 21, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Probe-Manufacturing-Engineering--Probe-AME-_JR112368) |
@@ -626,7 +628,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,419 of 4,875 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 974.6s · 561 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,447 of 4,880 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 896.4s · 565 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
