@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-23T11:39:17Z",
- "fetched_at": "2026-09-23T11:39:17Z",
- "duration_seconds": 1021.8,
+ "generated_at": "2026-09-23T12:01:53Z",
+ "fetched_at": "2026-09-23T12:01:53Z",
+ "duration_seconds": 813.4,
  "companies_total": 4880,
  "companies_by_source": {
   "greenhouse": 1084,
@@ -17,24 +17,24 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 410,
- "fetched_ok": 4420,
- "fetch_errors": 50,
+ "quarantined": 411,
+ "fetched_ok": 4465,
+ "fetch_errors": 4,
  "errors_by_source": {
-  "workday": 50
+  "workday": 4
  },
- "fetch_success_rate": 0.989,
- "fetch_success_rate_registry": 0.906,
- "snapshots_complete": 3866,
- "snapshots_partial": 554,
+ "fetch_success_rate": 0.999,
+ "fetch_success_rate_registry": 0.915,
+ "snapshots_complete": 3886,
+ "snapshots_partial": 579,
  "partial_by_reason": {
-  "result-cap": 527,
-  "malformed-response": 27
+  "result-cap": 549,
+  "malformed-response": 30
  },
- "degraded_fetches": 27,
- "roles_matched": 671,
- "dropped_no_year_in_title": 146,
- "dropped_offcycle_by_text": 160,
+ "degraded_fetches": 30,
+ "roles_matched": 681,
+ "dropped_no_year_in_title": 152,
+ "dropped_offcycle_by_text": 201,
  "roles_cycle_inferred": 318,
  "roles_by_source": {
   "amazon": 3,
@@ -45,19 +45,19 @@
   "oracle": 108,
   "rippling": 5,
   "smartrecruiters": 42,
-  "workday": 483
+  "workday": 484
  },
  "roles_by_cycle": {
-  "Summer 2027": 445,
+  "Summer 2027": 446,
   "Fall 2026": 18,
   "Not stated": 318
  },
  "roles_by_region": {
-  "US": 781
+  "US": 782
  },
  "sponsorship_counts": {
   "unknown": 573,
-  "no-sponsorship": 122,
+  "no-sponsorship": 123,
   "citizens-only": 85,
   "offers": 1
  },
@@ -66,7 +66,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 781,
+ "open_total": 782,
  "detection_latency": {
   "median_minutes": 20.0,
   "p95_minutes": 44.4,
@@ -78,5 +78,5 @@
   "median_days": 7,
   "sample_size": 17
  },
- "rendered_at": "2026-09-23T11:39:17Z"
+ "rendered_at": "2026-09-23T12:01:53Z"
 }
