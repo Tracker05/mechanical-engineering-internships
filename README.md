@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 804 open roles (477 listed below) · 136 new this week
+### 802 open roles (475 listed below) · 136 new this week
 
-4,620 employers tracked · data as of Sep 24, 2026 at 05:38 UTC
+4,620 employers tracked · data as of Sep 24, 2026 at 06:00 UTC
 
-_470 have a cycle the employer stated · 334 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_468 have a cycle the employer stated · 334 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -85,7 +85,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (255 employer-stated)
+## Summer 2027  (253 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -183,10 +183,9 @@ If it helps you, a star means a lot and tells me to keep going.
 | Anduril | 2027 Manufacturing Optimization Engineer Intern | Manufacturing & Process | Ashville, Ohio, United States | Composites | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007) |
 | Zurn Elkay Water Solutions | Industrial Engineering Intern (Summer 2027) | Manufacturing & Process | Freeport, IL | AutoCAD, Excel | Sep 14, 2026 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073) |
 | Zurn Elkay Water Solutions | Industrial Engineering Intern (Summer 2027) | Manufacturing & Process | Lanark, IL | AutoCAD, Excel | Sep 14, 2026 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075) |
+| Eversource Energy | 2027: Transmission System Planning Co-op 🛂 | Automotive & Mobility | Hartford, CT | No skills listed | Sep 14, 2026 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Transmission-System-Planning-Intern_R-029918) |
 | The Walt Disney Company | Disneyland Resort Industrial Engineering Intern, Summer 2027 | Manufacturing & Process | Anaheim, CA, USA | No skills listed | Sep 14, 2026 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978) |
 | The Walt Disney Company | Walt Disney World Industrial Engineering Intern, Summer/Fall 2027 | Manufacturing & Process | Lake Buena Vista, FL, USA | No skills listed | Sep 14, 2026 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1) |
-| nVent | Manufacturing Engineering Co-op (June - December 2027) | Manufacturing & Process | Anoka, MN, US | SolidWorks, AutoCAD, Lean | Sep 14, 2026 | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--June---December-2027-_R23578) |
-| nVent | Mechanical Engineering and Design Co-op (June - December 2027) | Design & CAD | Anoka, MN, US | SolidWorks, FEA, Sheet Metal | Sep 14, 2026 | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--June---December-2027-_R23573) |
 | Oshkosh | Manufacturing Intern - Summer 2027 | Manufacturing & Process | New Hudson, Michigan, United States | SolidWorks, Creo, Excel, Machining | Sep 14, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Manufacturing-Intern---Summer-2027_R50275) |
 | The Toro Company | Advanced Quality Engineering Intern - The Toro Company 🛂 | Test & Quality | Bloomington, MN | Excel | Sep 14, 2026 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Advanced-Quality-Engineering-Intern---The-Toro-Company_JR17231) |
 | TD Bank | 2027 Summer Internship Program - Global Technology & Solutions - Quality Engineer | Test & Quality | Mount Laurel, New Jersey | No skills listed | Sep 13, 2026 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Quality-Engineer_R_1510798) |
@@ -206,7 +205,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Bedrock Robotics | Internship 2027 Sensor Hardware Test Engineer | Test & Quality | San Francisco, CA | Python, Git | Sep 10, 2026 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51) |
 | Bedrock Robotics | Internship 2027 Validation & Verification Test Engineer | Test & Quality | San Francisco, CA | Python, Hydraulics | Sep 10, 2026 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e) |
 | Momentive ✓ | Summer 2027- Process Engineer Intern | Manufacturing & Process | US WV Friendly | Excel, Six Sigma, Lean | Sep 10, 2026 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027--Process-Engineer-Intern_R9784-1) |
-| nVent | Mechanical Engineering Co-Op (June - Dec 2027) | Design & CAD | Solon, OH, US | Abaqus, FEA, MATLAB, CNC | Sep 10, 2026 | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539) |
 | Amazon ✓ | Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027 | Robotics & Controls | North Reading, Massachusetts, USA | SolidWorks, Creo, AutoCAD, Revit | Sep 09, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) |
 | Allen Control Systems | Manufacturing Engineering Co-op / Intern, 2027 | Manufacturing & Process | Pflugerville, TX | SolidWorks, Creo, Fusion 360, GD&T | Sep 09, 2026 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/e7cefcf6-7322-43ba-861e-22e76f8186bd) |
 | Saronic | Manufacturing Engineer Intern (Summer 2027) 🇺🇸 | Manufacturing & Process | Franklin, LA | Lean | Sep 09, 2026 | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97) |
@@ -590,13 +588,15 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _130 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **130** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 30 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 32 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
-| Eversource Energy | 2027: Transmission System Planning Co-op | Summer 2027 | 2026-09-24 | out of scope |
+| nVent | Manufacturing Engineering Co-op (June - December 2027) | Summer 2027 | 2026-09-24 | out of scope |
+| nVent | Mechanical Engineering and Design Co-op (June - December 2027) | Summer 2027 | 2026-09-24 | out of scope |
+| nVent | Mechanical Engineering Co-Op (June - Dec 2027) | Summer 2027 | 2026-09-24 | out of scope |
 | Motorola | Product Quality Engineering 2027 Internship | Summer 2027 | 2026-09-23 | out of scope |
 | Watts Water | Manufacturing Quality Intern, Summer 2027 | Summer 2027 | 2026-09-23 | gone from feed |
 | Ingredion | Process Engineer Co-op 2026 (January - August) | Fall 2026 | 2026-09-23 | out of scope |
@@ -644,7 +644,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,453 of 4,880 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1016.0s · 564 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,501 of 4,880 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 92% of the full registry) · completed in 739.1s · 593 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
