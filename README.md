@@ -8,7 +8,7 @@
 
 ### 802 open roles (476 listed below) · 135 new this week
 
-4,620 employers tracked · data as of Sep 24, 2026 at 01:37 UTC
+4,620 employers tracked · data as of Sep 24, 2026 at 02:03 UTC
 
 _468 have a cycle the employer stated · 334 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -395,7 +395,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | EQT Corporation | Production Engineering Intern 🆕 | Manufacturing & Process | Canonsburg, PA | No skills listed | Sep 22, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424728008) |
 | Gorbel | Mechanical Engineering Co-Op 🆕 | Design & CAD | USA, New York, Henrietta | SolidWorks, AutoCAD, GD&T, FEA | Sep 21, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Henrietta/Mechanical-Engineering-Co-Op_REQ-2026-2283-1) |
 | Gorbel | Mechanical Engineering Co-Op 🆕 | Design & CAD | USA, New York, Victor | SolidWorks, AutoCAD, GD&T, FEA | Sep 21, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2284-1) |
-| Micron Technology ✓ | Intern - ATE Process Engineer ID1 🆕 | Manufacturing & Process | Boise, ID - ID1 | MATLAB, Python, SPC, Design of Experiments | Sep 21, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113040) |
+| Micron Technology ✓ | Intern - ATE Process Engineer ID1 | Manufacturing & Process | Boise, ID - ID1 | MATLAB, Python, SPC, Design of Experiments | Sep 21, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113040) |
 | Greenheck Group | Manufacturing Engineer Co-Op | Manufacturing & Process | Bushnell, FL | No skills listed | Sep 21, 2026 | [Apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Bushnell-FL/Manufacturing-Engineer-Co-Op_JR104710) |
 | Re:Build Manufacturing | Automation & Controls Engineer Co-op/Intern | Robotics & Controls | Rochester, NY | AutoCAD, PLC, Six Sigma | Sep 21, 2026 | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4734540005) |
 | Syngenta Group | Seed Conditioning Process Engineering Intern | Manufacturing & Process | Slater, Iowa, United States | Design of Experiments | Sep 21, 2026 | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000150779958) |
@@ -645,7 +645,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,376 of 4,880 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1001.4s · 537 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,405 of 4,880 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 912.0s · 547 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
