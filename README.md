@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 819 open roles (493 listed below) · 129 new this week
+### 818 open roles (492 listed below) · 128 new this week
 
-4,628 employers tracked · data as of Sep 25, 2026 at 04:05 UTC
+4,628 employers tracked · data as of Sep 25, 2026 at 04:40 UTC
 
-_486 have a cycle the employer stated · 333 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_485 have a cycle the employer stated · 333 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -85,7 +85,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (265 employer-stated)
+## Summer 2027  (264 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -134,7 +134,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | AtkinsRéalis | Roadway Design Engineering Intern - Summer 2027 | Design & CAD | US.MI.Novi | No skills listed | Sep 21, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USMINovi/Roadway-Design-Engineering-Intern---Summer-2027_R-161166-1) |
 | The Toro Company | Quality Engineer Intern - Ditch Witch 🛂 | Test & Quality | Perry, OK | Excel | Sep 21, 2026 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Quality-Engineer-Intern---Ditch-Witch_JR17218) |
 | AtkinsRéalis | Roadway Design Engineering Intern - Summer 2027 | Design & CAD | US.NC.Raleigh.1616 East Mill Brook Road | AutoCAD, Excel | Sep 21, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNCRaleigh1616-East-Mill-Brook-Road/Roadway-Design-Engineering-Intern---Summer-2027_R-162556) |
-| Northrop Grumman | 2027 Mechanical Engineer Intern - Baltimore MD 🇺🇸 | Design & CAD | United States-Maryland-Baltimore | No skills listed | Sep 21, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088) |
 | United Parcel Service (UPS) | 2027 Americas Region Industrial Engineering Summer Intern 🇺🇸 | Manufacturing & Process | US - UPS CORPORATE OFFICES (GACOR) | No skills listed | Sep 18, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989) |
 | Charter Manufacturing | Mechanical Engineer Intern (Year-Round) | Design & CAD | Charter Steel - Saukville, WI | AutoCAD, Excel, Lean | Sep 18, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102) |
 | Watts Water | Manufacturing Quality Intern, Summer 2027 | Manufacturing & Process | Fort Myers, FL | Six Sigma, Lean | Sep 18, 2026 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Manufacturing-Quality-Intern--Summer-2027_10017584) |
@@ -605,12 +604,13 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _133 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **133** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 29 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 30 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Northrop Grumman | 2027 Mechanical Engineer Intern - Baltimore MD | Summer 2027 | 2026-09-25 | out of scope |
 | SharkNinja | Fall 2026: Product Design Engineering Co-op, Advanced Development (July/August to December) | Fall 2026 | 2026-09-24 | gone from feed |
 | Northrop Grumman | 2027 Mechanical Engineer Intern - San Diego CA | Summer 2027 | 2026-09-24 | out of scope |
 | Ingredion | Process Engineer Co-op 2026 (January - August) | Fall 2026 | 2026-09-23 | out of scope |
@@ -658,7 +658,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,435 of 4,888 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1031.8s · 564 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,409 of 4,888 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1046.2s · 568 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
