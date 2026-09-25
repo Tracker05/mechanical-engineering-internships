@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 817 open roles (491 listed below) · 133 new this week
+### 818 open roles (492 listed below) · 131 new this week
 
-4,628 employers tracked · data as of Sep 24, 2026 at 23:58 UTC
+4,628 employers tracked · data as of Sep 25, 2026 at 00:42 UTC
 
-_485 have a cycle the employer stated · 332 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_485 have a cycle the employer stated · 333 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -375,12 +375,13 @@ If it helps you, a star means a lot and tells me to keep going.
 | Mill | Product Design Engineering Intern, Fall/Winter 2026 🛂 | Design & CAD | San Bruno, California | FEA, DFM | Mar 17, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4674154005) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Robotics & Controls | Westboro, Massachusetts, USA | No skills listed | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
-## Recently posted — cycle not stated  (195 roles)
+## Recently posted — cycle not stated  (196 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Cowboy Space | Avionics Intern 🇺🇸 🆕 | Aerospace & Defense | San Carlos, CA or Seattle, WA | SolidWorks, Creo, Fusion 360, MATLAB | Sep 24, 2026 | [Apply](https://jobs.ashbyhq.com/cowboyspace/b36deadb-2326-4676-86b7-157835a91eaa) |
 | Aevex Aerospace | Robotics Engineering Co-op 🇺🇸 🆕 | Robotics & Controls | Tampa, Florida, United States | Python, C++, ROS | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008) |
 | Cummins ✓ | Thermal and Fluid Sciences Engineering Co-Op Positions 🆕 | Thermal & Fluids | Columbus, IN, United States | ANSYS, CFD, MATLAB, Simulink | Sep 24, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437752) |
 | Michael Baker International ✓ | Mechanical Engineering Intern 🆕 | Design & CAD | Salt Lake City +11 more | Revit | Sep 24, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309936) |
@@ -398,7 +399,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Micron Technology ✓ | Intern - ID1 Manufacturing Engineer 🆕 | Manufacturing & Process | Boise, ID - ID1 | MATLAB, Python, Excel, SPC | Sep 23, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
 | ZOLL Medical Corporation | Sustaining Mechanical Engineer Intern 🆕 | Design & CAD | Chelmsford, MA | SolidWorks | Sep 23, 2026 | [Apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313) |
 | Micron Technology ✓ | Intern - Design Engineer, HIG HBM 🆕 _(2 openings)_ | Design & CAD | Richardson, TX | Python, C++ | Sep 22, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512) [#2](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516) |
-| Allegion | Summer Intern - Digital Manufacturing 🆕 | Manufacturing & Process | Colorado Springs, CO | C++, PLC | Sep 22, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1) |
+| Allegion | Summer Intern - Digital Manufacturing | Manufacturing & Process | Colorado Springs, CO | C++, PLC | Sep 22, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1) |
 | Axis Automation | Welding Engineer Intern | Manufacturing & Process | Walker, Michigan, United States | Welding, Hydraulics | Sep 22, 2026 | [Apply](https://job-boards.greenhouse.io/axiscompany/jobs/8832086002) |
 | Keenfinity | Engineering Co-Op, Electro-Acoustics | Structures & Materials | Burnsville, MN, United States | MATLAB, Simulink, Python, LabVIEW | Sep 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000151117294) |
 | Creation Technologies | Process Engineering Intern | Manufacturing & Process | Newark, NY USA | No skills listed | Sep 22, 2026 | [Apply](https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Process-Engineering-Intern_JR6973) |
@@ -657,7 +658,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,469 of 4,888 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 726.4s · 566 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,479 of 4,888 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 703.1s · 573 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
