@@ -1,47 +1,49 @@
 {
-  "generated_at": "2026-09-25T09:04:13Z",
-  "fetched_at": "2026-09-25T09:04:13Z",
-  "duration_seconds": 855.4,
-  "companies_total": 4888,
+  "generated_at": "2026-09-25T09:40:06Z",
+  "fetched_at": "2026-09-25T09:40:06Z",
+  "duration_seconds": 985.6,
+  "companies_total": 4901,
   "companies_by_source": {
-    "greenhouse": 1087,
+    "greenhouse": 1090,
     "lever": 404,
-    "ashby": 752,
+    "ashby": 757,
     "recruitee": 3,
-    "workday": 1829,
-    "smartrecruiters": 300,
+    "workday": 1830,
+    "smartrecruiters": 302,
     "rippling": 162,
-    "workable": 178,
+    "workable": 180,
     "oracle": 158,
     "amazon": 1,
     "breezy": 13,
     "eightfold": 1
   },
-  "quarantined": 384,
-  "fetched_ok": 4461,
-  "fetch_errors": 43,
+  "quarantined": 385,
+  "fetched_ok": 4436,
+  "fetch_errors": 80,
   "errors_by_source": {
-    "workday": 37,
-    "workable": 6
+    "workday": 69,
+    "ashby": 2,
+    "workable": 8,
+    "lever": 1
   },
-  "fetch_success_rate": 0.99,
-  "fetch_success_rate_registry": 0.913,
-  "snapshots_complete": 3870,
-  "snapshots_partial": 591,
+  "fetch_success_rate": 0.982,
+  "fetch_success_rate_registry": 0.905,
+  "snapshots_complete": 3874,
+  "snapshots_partial": 562,
   "partial_by_reason": {
-    "result-cap": 567,
-    "malformed-response": 24
+    "result-cap": 543,
+    "malformed-response": 19
   },
-  "degraded_fetches": 24,
-  "roles_matched": 688,
-  "dropped_no_year_in_title": 163,
-  "dropped_offcycle_by_text": 185,
-  "roles_cycle_inferred": 332,
+  "degraded_fetches": 19,
+  "roles_matched": 677,
+  "dropped_no_year_in_title": 146,
+  "dropped_offcycle_by_text": 179,
+  "roles_cycle_inferred": 333,
   "roles_by_source": {
     "amazon": 3,
     "ashby": 21,
     "breezy": 1,
-    "greenhouse": 96,
+    "greenhouse": 97,
     "lever": 28,
     "oracle": 113,
     "rippling": 5,
@@ -51,27 +53,27 @@
   "roles_by_cycle": {
     "Summer 2027": 469,
     "Fall 2026": 16,
-    "Not stated": 332
+    "Not stated": 333
   },
   "roles_by_region": {
-    "US": 817
+    "US": 818
   },
   "sponsorship_counts": {
     "unknown": 591,
     "no-sponsorship": 130,
-    "citizens-only": 95,
+    "citizens-only": 96,
     "offers": 1
   },
   "posted_date_coverage": 0.994,
-  "enriched_this_run": 52,
-  "enrichment_detail_fetches": 0,
+  "enriched_this_run": 53,
+  "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
-  "new_this_run": 0,
-  "open_total": 817,
+  "new_this_run": 1,
+  "open_total": 818,
   "detection_latency": {
-    "median_minutes": 24.9,
-    "p95_minutes": 94.9,
-    "sample_size": 22,
+    "median_minutes": 25.1,
+    "p95_minutes": 1124.8,
+    "sample_size": 23,
     "window_days": 7,
     "basis": "roles published in the window with an exact source timestamp"
   },
@@ -79,5 +81,5 @@
     "median_days": 13,
     "sample_size": 23
   },
-  "rendered_at": "2026-09-25T09:04:13Z"
+  "rendered_at": "2026-09-25T09:40:06Z"
 }
