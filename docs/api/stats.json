@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-26T13:37:43Z",
- "fetched_at": "2026-09-26T13:37:43Z",
- "duration_seconds": 1027.0,
+ "generated_at": "2026-09-26T14:03:06Z",
+ "fetched_at": "2026-09-26T14:03:06Z",
+ "duration_seconds": 1010.8,
  "companies_total": 4910,
  "companies_by_source": {
   "greenhouse": 1092,
@@ -17,25 +17,23 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 390,
- "fetched_ok": 4473,
- "fetch_errors": 47,
+ "quarantined": 391,
+ "fetched_ok": 4504,
+ "fetch_errors": 15,
  "errors_by_source": {
-  "workday": 46,
-  "workable": 1
+  "workday": 15
  },
- "fetch_success_rate": 0.99,
- "fetch_success_rate_registry": 0.911,
- "snapshots_complete": 3904,
- "snapshots_partial": 569,
+ "fetch_success_rate": 0.997,
+ "fetch_success_rate_registry": 0.917,
+ "snapshots_complete": 3920,
+ "snapshots_partial": 584,
  "partial_by_reason": {
-  "result-cap": 567,
-  "malformed-response": 2
+  "result-cap": 584
  },
- "degraded_fetches": 2,
- "roles_matched": 699,
- "dropped_no_year_in_title": 164,
- "dropped_offcycle_by_text": 183,
+ "degraded_fetches": 0,
+ "roles_matched": 711,
+ "dropped_no_year_in_title": 173,
+ "dropped_offcycle_by_text": 190,
  "roles_cycle_inferred": 336,
  "roles_by_source": {
   "amazon": 3,
@@ -47,19 +45,19 @@
   "rippling": 5,
   "smartrecruiters": 47,
   "workable": 1,
-  "workday": 515
+  "workday": 516
  },
  "roles_by_cycle": {
-  "Summer 2027": 485,
+  "Summer 2027": 486,
   "Fall 2026": 16,
   "Not stated": 336
  },
  "roles_by_region": {
-  "US": 837
+  "US": 838
  },
  "sponsorship_counts": {
   "unknown": 608,
-  "no-sponsorship": 129,
+  "no-sponsorship": 130,
   "citizens-only": 99,
   "offers": 1
  },
@@ -68,7 +66,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 837,
+ "open_total": 838,
  "detection_latency": {
   "median_minutes": 24.8,
   "p95_minutes": 1124.8,
@@ -80,5 +78,5 @@
   "median_days": 11.0,
   "sample_size": 24
  },
- "rendered_at": "2026-09-26T13:37:43Z"
+ "rendered_at": "2026-09-26T14:03:07Z"
 }
