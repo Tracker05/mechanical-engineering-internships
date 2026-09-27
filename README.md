@@ -8,7 +8,7 @@
 
 ### 836 open roles (499 listed below) · 129 new this week
 
-4,648 employers tracked · data as of Sep 26, 2026 at 23:33 UTC
+4,648 employers tracked · data as of Sep 27, 2026 at 00:02 UTC
 
 _500 have a cycle the employer stated · 336 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -99,7 +99,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Stantec | Renewable Energy Civil Intern (Summer 2027) 🆕 | Energy & Power | Chicago, IL, United States | AutoCAD, Excel | Sep 25, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008000) |
 | Stantec | Renewable Energy Civil Intern (Summer 2027) 🆕 | Energy & Power | Minneapolis, MN, United States | AutoCAD, Excel | Sep 25, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008002) |
 | Saab | Mechanical Engineering Co-Op (Summer 2027) 🇺🇸 🆕 | Design & CAD | Quincy, MA | SolidWorks, GD&T, Tolerance Analysis, PLM/PDM | Sep 25, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/Quincy-MA/Mechanical-Engineering-Co-Op--Summer-2027-_R-03296-1) |
-| Rocket Lab | Test Engineering Intern Summer 2027 🇺🇸 🆕 | Test & Quality | Wallops Island, VA | Siemens NX, Python, Additive Manufacturing | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003) |
+| Rocket Lab | Test Engineering Intern Summer 2027 🇺🇸 | Test & Quality | Wallops Island, VA | Siemens NX, Python, Additive Manufacturing | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003) |
 | Stantec | Mechanical Engineering Intern - Buildings (Summer 2027) | Design & CAD | Chicago, IL, United States | AutoCAD, Revit | Sep 24, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007966) |
 | The Toro Company | Mechanical Engineer Intern - The Toro Company 🛂 | Design & CAD | Bloomington, MN | No skills listed | Sep 24, 2026 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechanical-Engineer-Intern---The-Toro-Company_JR17112) |
 | Mill | Product Design Engineering Intern, Summer 2027 🛂 | Design & CAD | San Bruno, California | FEA, DFM | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4737767005) |
@@ -392,7 +392,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Regal Rexnord ✓ | Manufacturing Supply Chain Co-Op 🆕 | Manufacturing & Process | Florence, Kentucky, United States | No skills listed | Sep 25, 2026 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Florence-Kentucky-United-States/Manufacturing-Supply-Chain-Co-Op_R26_05084) |
 | Heven AeroTech | Manufacturing Intern 🇺🇸 🆕 | Manufacturing & Process | Winchester, Virginia | Machining, Six Sigma, Lean | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/hevenaerotech/jobs/4410446009) |
 | Cowboy Space | Avionics Intern 🇺🇸 🆕 | Aerospace & Defense | San Carlos, CA or Seattle, WA | SolidWorks, Creo, Fusion 360, MATLAB | Sep 24, 2026 | [Apply](https://jobs.ashbyhq.com/cowboyspace/b36deadb-2326-4676-86b7-157835a91eaa) |
-| Aevex Aerospace | Robotics Engineering Co-op 🇺🇸 🆕 | Robotics & Controls | Tampa, Florida, United States | Python, C++, ROS | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008) |
+| Aevex Aerospace | Robotics Engineering Co-op 🇺🇸 | Robotics & Controls | Tampa, Florida, United States | Python, C++, ROS | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008) |
 | Cummins ✓ | Thermal and Fluid Sciences Engineering Co-Op Positions | Thermal & Fluids | Columbus, IN, United States | ANSYS, CFD, MATLAB, Simulink | Sep 24, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437752) |
 | Michael Baker International ✓ | Mechanical Engineering Intern | Design & CAD | Salt Lake City +11 more | Revit | Sep 24, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309936) |
 | Cummins ✓ | Thermal and Fluid Sciences Engineering - Internship Positions | Thermal & Fluids | Columbus, IN, United States | ANSYS, CFD, MATLAB, Simulink | Sep 24, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437740) |
@@ -662,7 +662,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,519 of 4,910 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 92% of the full registry) · completed in 773.9s · 600 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,450 of 4,910 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1020.3s · 571 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
