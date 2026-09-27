@@ -1159,6 +1159,11 @@
     "last_attempt_at": "2026-09-27T16:02:54Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://aah.wd5.myworkdayjobs.com/wday/cxs/aah/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
+  "workday:abbott:abbottcareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-27T20:35:22Z",
+    "last_error": "malformed-response"
+  },
   "workday:accenture:accenturecareers": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-09-26T13:07:41Z",
@@ -1444,11 +1449,6 @@
     "last_attempt_at": "2026-09-27T15:04:10Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://bilh.wd1.myworkdayjobs.com/wday/cxs/bilh/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
-  "workday:bird:birdconstructioncareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-27T20:01:03Z",
-    "last_error": "malformed-response"
-  },
   "workday:bjswholesaleclub:bjscareers": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-09-27T19:07:14Z",
@@ -1463,11 +1463,6 @@
     "consecutive_failures": 4,
     "last_attempt_at": "2026-09-27T19:07:14Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/bx_external_site/jobs'\nFor more information check: https://developer.mozilla"
-  },
-  "workday:blueorigin:blueorigin": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-09-27T08:04:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/blueorigin/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
   "workday:bmc:bmc": {
     "consecutive_failures": 3,
@@ -1513,11 +1508,6 @@
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-27T19:37:11Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://brunswick.wd1.myworkdayjobs.com/wday/cxs/brunswick/search/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
-  },
-  "workday:caa:careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-09-27T14:06:15Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://caa.wd1.myworkdayjobs.com/wday/cxs/caa/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workday:cableone:cable_one_external_careers": {
     "consecutive_failures": 5,
@@ -1794,6 +1784,11 @@
     "last_attempt_at": "2026-09-27T12:43:29Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://nio.wd3.myworkdayjobs.com/wday/cxs/nio/NIO_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
+  "workday:nordstrom:nordstrom_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-27T20:35:22Z",
+    "last_error": "pagination-stalled"
+  },
   "workday:nrel:nrel": {
     "consecutive_failures": 22,
     "last_attempt_at": "2026-09-26T02:04:16Z",
@@ -1868,6 +1863,11 @@
     "consecutive_failures": 22,
     "last_attempt_at": "2026-09-26T02:04:16Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://procasemanagement.wd1.myworkdayjobs.com/wday/cxs/procasemanagement/PCM/jobs'\nFor more information check: https://developer.moz"
+  },
+  "workday:pwc:global_experienced_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-27T20:35:22Z",
+    "last_error": "malformed-response"
   },
   "workday:redbulltechnology:rb_racing": {
     "consecutive_failures": 6,
@@ -1990,8 +1990,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://wmeimg.wd1.myworkdayjobs.com/wday/cxs/wmeimg/ENDEAVOR/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   },
   "workday:zayo:zayo_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-27T20:01:03Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-27T20:35:22Z",
     "last_error": "malformed-response"
   }
 }
