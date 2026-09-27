@@ -8,7 +8,7 @@
 
 ### 836 open roles (499 listed below) · 130 new this week
 
-4,648 employers tracked · data as of Sep 27, 2026 at 14:38 UTC
+4,648 employers tracked · data as of Sep 27, 2026 at 15:04 UTC
 
 _501 have a cycle the employer stated · 335 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -388,7 +388,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Michael Baker International ✓ | Mechanical Engineering Intern 🆕 | Design & CAD | Moon Township, PA, United States | Revit | Sep 25, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309934) |
 | Analytical Mechanics Associates 🆁 | Intern: Research on CFD Analysis with Hybrid Mesh Adaptation for High-Speed Configurations 🆕 | Thermal & Fluids | Remote - Georgia | CFD, MATLAB, Python, C++ | Sep 25, 2026 | [Apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---Georgia/Intern--Research-on-CFD-Analysis-with-Hybrid-Mesh-Adaptation-for-High-Speed-Configurations_R-100770) |
 | Leidos ✓ | Mechanical Engineering Intern 🇺🇸 🆕 | Design & CAD | Albuquerque, NM | SolidWorks, MATLAB, LabVIEW, Excel | Sep 25, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Albuquerque-NM/Mechanical-Engineering-Intern_R-00193159) |
-| Michael Baker International ✓ | Mechanical Engineering Intern 🆕 | Design & CAD | Baltimore, MD, United States | Revit | Sep 25, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309935) |
+| Michael Baker International ✓ | Mechanical Engineering Intern | Design & CAD | Baltimore, MD, United States | Revit | Sep 25, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309935) |
 | Bosch ✓ | High Performance Vehicle Calibration Co-op, Kettering University - Section B | Automotive & Mobility | Farmington Hills, MI, United States | No skills listed | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151861019) |
 | Regal Rexnord ✓ | Manufacturing Supply Chain Co-Op | Manufacturing & Process | Florence, Kentucky, United States | No skills listed | Sep 25, 2026 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Florence-Kentucky-United-States/Manufacturing-Supply-Chain-Co-Op_R26_05084) |
 | Heven AeroTech | Manufacturing Intern 🇺🇸 | Manufacturing & Process | Winchester, Virginia | Machining, Six Sigma, Lean | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/hevenaerotech/jobs/4410446009) |
@@ -661,7 +661,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,498 of 4,910 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1093.9s · 588 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,447 of 4,910 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1034.0s · 579 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
