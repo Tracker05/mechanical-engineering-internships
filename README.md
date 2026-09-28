@@ -8,7 +8,7 @@
 
 ### 855 open roles (497 listed below) · 139 new this week
 
-4,648 employers tracked · data as of Sep 28, 2026 at 16:44 UTC
+4,648 employers tracked · data as of Sep 28, 2026 at 17:08 UTC
 
 _516 have a cycle the employer stated · 339 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -603,7 +603,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _133 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **133** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 36 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 35 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -644,7 +644,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Verdantas | Summer 2027 Hydraulic Modeling Intern | Summer 2027 | 2026-09-15 | gone from feed |
 | RESPEC | Student Engineering Intern (Structural) | Summer 2027 | 2026-09-14 | gone from feed |
 | RESPEC | Student Structural BIM Technician Intern | Summer 2027 | 2026-09-14 | gone from feed |
-| Kairos Power | Chemical and Materials Engineering Internship - Summer 2027. | Summer 2027 | 2026-09-14 | gone from feed |
 
 </details>
 
@@ -663,7 +662,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,438 of 4,910 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1059.5s · 578 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,446 of 4,910 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 997.8s · 568 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
