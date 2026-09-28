@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-28T08:41:18Z",
- "fetched_at": "2026-09-28T08:41:18Z",
- "duration_seconds": 853.9,
+ "generated_at": "2026-09-28T09:08:47Z",
+ "fetched_at": "2026-09-28T09:08:47Z",
+ "duration_seconds": 1031.2,
  "companies_total": 4910,
  "companies_by_source": {
   "greenhouse": 1092,
@@ -17,24 +17,24 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 398,
- "fetched_ok": 4511,
- "fetch_errors": 1,
+ "quarantined": 401,
+ "fetched_ok": 4470,
+ "fetch_errors": 39,
  "errors_by_source": {
-  "workday": 1
+  "workday": 39
  },
- "fetch_success_rate": 1.0,
- "fetch_success_rate_registry": 0.919,
- "snapshots_complete": 3922,
- "snapshots_partial": 589,
+ "fetch_success_rate": 0.991,
+ "fetch_success_rate_registry": 0.91,
+ "snapshots_complete": 3896,
+ "snapshots_partial": 574,
  "partial_by_reason": {
-  "result-cap": 559,
-  "malformed-response": 30
+  "result-cap": 545,
+  "malformed-response": 29
  },
- "degraded_fetches": 30,
- "roles_matched": 703,
- "dropped_no_year_in_title": 164,
- "dropped_offcycle_by_text": 231,
+ "degraded_fetches": 29,
+ "roles_matched": 696,
+ "dropped_no_year_in_title": 154,
+ "dropped_offcycle_by_text": 191,
  "roles_cycle_inferred": 335,
  "roles_by_source": {
   "amazon": 3,
@@ -46,18 +46,18 @@
   "rippling": 5,
   "smartrecruiters": 47,
   "workable": 1,
-  "workday": 512
+  "workday": 511
  },
  "roles_by_cycle": {
-  "Summer 2027": 481,
+  "Summer 2027": 480,
   "Fall 2026": 16,
   "Not stated": 335
  },
  "roles_by_region": {
-  "US": 832
+  "US": 831
  },
  "sponsorship_counts": {
-  "unknown": 604,
+  "unknown": 603,
   "no-sponsorship": 127,
   "citizens-only": 100,
   "offers": 1
@@ -67,7 +67,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 832,
+ "open_total": 831,
  "detection_latency": {
   "median_minutes": 24.8,
   "p95_minutes": 1124.8,
@@ -79,5 +79,5 @@
   "median_days": 11,
   "sample_size": 25
  },
- "rendered_at": "2026-09-28T08:41:18Z"
+ "rendered_at": "2026-09-28T09:08:48Z"
 }
