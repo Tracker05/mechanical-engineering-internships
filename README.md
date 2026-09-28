@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 854 open roles (497 listed below) · 138 new this week
+### 855 open roles (497 listed below) · 139 new this week
 
-4,648 employers tracked · data as of Sep 28, 2026 at 16:08 UTC
+4,648 employers tracked · data as of Sep 28, 2026 at 16:44 UTC
 
-_516 have a cycle the employer stated · 338 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_516 have a cycle the employer stated · 339 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -377,11 +377,12 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Oshkosh | Controls Engineer Intern 🆕 | Robotics & Controls | Jefferson City, Tennessee, United States | No skills listed | Sep 28, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Jefferson-City-Tennessee-United-States/Controls-Engineer-Intern_R50551) |
 | Zachry Group | Intern - Process Engineer 🆕 | Manufacturing & Process | Charlotte +5 more | No skills listed | Sep 28, 2026 | [Apply](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15846) |
 | Nordson | Intern (Mechanical Engineering) 🆕 | Design & CAD | USA - Rhode Island - East Providence | SolidWorks, Excel | Sep 28, 2026 | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Mechanical-Engineering-_REQ52997) |
 | Cummins ✓ | Structural, Dynamic and Acoustic Systems - Summer Internship Positions 🆕 | Structures & Materials | Columbus, IN, United States | ANSYS | Sep 28, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437307) |
 | Cummins ✓ | Structural, Dynamic and Acoustic Systems - Co-Op Positions 🆕 | Structures & Materials | Columbus, IN, United States | ANSYS | Sep 28, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437754) |
-| Comfort Systems USA | Process Engineer Intern 🆕 | Manufacturing & Process | Houston, TX (TAS-Cullen HQ) | AutoCAD, Excel | Sep 25, 2026 | [Apply](https://comfortsystemsusa.wd1.myworkdayjobs.com/Corpcareers/job/Houston-TX-TAS-Cullen-HQ/Process-Engineer-Intern_JR108291-1) |
+| Comfort Systems USA | Process Engineer Intern | Manufacturing & Process | Houston, TX (TAS-Cullen HQ) | AutoCAD, Excel | Sep 25, 2026 | [Apply](https://comfortsystemsusa.wd1.myworkdayjobs.com/Corpcareers/job/Houston-TX-TAS-Cullen-HQ/Process-Engineer-Intern_JR108291-1) |
 | Analog Devices ✓ | Healthcare Mechanical Engineering Co-op (Spring) | Design & CAD | US, MA, Wilmington | SolidWorks | Sep 25, 2026 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691) |
 | Zurn Elkay Water Solutions | Manufacturing Engineer Intern | Manufacturing & Process | Sanford, NC | No skills listed | Sep 25, 2026 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Sanford-NC/Manufacturing-Engineer-Intern_REQ-020175) |
 | Heidelberg Materials | Mechanical Engineer Intern | Design & CAD | Mason City, IA | Excel | Sep 25, 2026 | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Mason-City-IA/Mechanical-Engineer-Intern_JR10019137-1) |
@@ -465,7 +466,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Talentpluto 🆁 | Design Engineering Intern | Design & CAD | United States (Remote) | No skills listed | Sep 15, 2026 | [Apply](https://apply.workable.com/talentpluto/j/441A17F2A4/) |
 | Ocean Spray | Process Engineering Co-Op | Manufacturing & Process | Lakeville, MA | Excel | Sep 15, 2026 | [Apply](https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs/job/Lakeville-MA/Process-Engineering-Co-Op_R5426) |
 | Ingredion | Process Engineering Co-Op | Manufacturing & Process | Bedford Park, IL | Excel, Machining | Sep 15, 2026 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bedford-Park-IL/Process-Engineering-Co-Op_Req-40269-1) |
-| Oshkosh | Manufacturing Engineer Intern | Manufacturing & Process | Shippensburg +2 more | Machining, Additive Manufacturing, Welding, Lean | Sep 15, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667) |
 | EQT Corporation | Midstream Facilities Engineer Intern | Manufacturing & Process | Canonsburg, PA | AutoCAD, Excel | Sep 15, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5420621008) |
 | Graco | CNC Machinist Intern 🛂 | Manufacturing & Process | Dayton, Minnesota, USA (French Lake) | CNC, Machining, Hydraulics, CMM | Sep 15, 2026 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/CNC-Machinist-Intern_R0022988) |
 | DigiKey | Industrial Engineering Intern 🛂 | Manufacturing & Process | Thief River Falls, MN | No skills listed | Sep 15, 2026 | [Apply](https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Industrial-Engineering-Intern_R5775) |
@@ -663,7 +663,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,494 of 4,910 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 946.4s · 601 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,438 of 4,910 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1059.5s · 578 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
