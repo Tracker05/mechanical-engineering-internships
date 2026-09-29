@@ -8,7 +8,7 @@
 
 ### 865 open roles (502 listed below) · 133 new this week
 
-4,648 employers tracked · data as of Sep 29, 2026 at 02:05 UTC
+4,648 employers tracked · data as of Sep 29, 2026 at 02:38 UTC
 
 _522 have a cycle the employer stated · 343 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -90,8 +90,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | AtkinsRéalis | Structural Engineering Intern – Summer 2027 🆕 | Structures & Materials | US.CO.Denver | No skills listed | Sep 28, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1) |
-| AtkinsRéalis | Structural Engineering Intern – Summer 2027 🆕 | Structures & Materials | US.WA.Bothell | AutoCAD | Sep 28, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1) |
 | AtkinsRéalis | Process Engineering Intern - Summer 2027 🆕 | Manufacturing & Process | US.WA.Bothell | No skills listed | Sep 28, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Process-Engineering-Intern---Summer-2027_R-162014-1) |
+| AtkinsRéalis | Structural Engineering Intern – Summer 2027 🆕 | Structures & Materials | US.WA.Bothell | AutoCAD | Sep 28, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1) |
 | X-energy | Process Engineering Internship - Summer 2027 🆕 | Manufacturing & Process | Oak Ridge, TN | Excel | Sep 28, 2026 | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Oak-Ridge-TN/Process-Engineering-Internship---Summer-2027_R101363) |
 | onsemi | Summer 2027 - Probe Test Engineer Intern 🆕 | Test & Quality | Hopewell Junction, NY, United States | MATLAB, Python, C++, Excel | Sep 28, 2026 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506420) |
 | Mars | Summer 2027 Mars Petcare Manufacturing Internship 🆕 | Manufacturing & Process | USA-Arkansas-Ft. Smith | Lean | Sep 28, 2026 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Manufacturing-Internship_R168212-1) |
@@ -112,6 +112,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Stantec | Renewable Energy Civil Intern (Summer 2027) | Energy & Power | Chicago, IL, United States | AutoCAD, Excel | Sep 25, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008000) |
 | Stantec | Renewable Energy Civil Intern (Summer 2027) | Energy & Power | Minneapolis, MN, United States | AutoCAD, Excel | Sep 25, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008002) |
 | Saab | Mechanical Engineering Co-Op (Summer 2027) 🇺🇸 | Design & CAD | Quincy, MA | SolidWorks, GD&T, Tolerance Analysis, PLM/PDM | Sep 25, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/Quincy-MA/Mechanical-Engineering-Co-Op--Summer-2027-_R-03296-1) |
+| Northrop Grumman | 2027 Operations Industrial Engineering Intern 🇺🇸 | Manufacturing & Process | United States-Florida-Melbourne | No skills listed | Sep 24, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047) |
 | Rocket Lab | Test Engineering Intern Summer 2027 🇺🇸 | Test & Quality | Wallops Island, VA | Siemens NX, Python, Additive Manufacturing | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003) |
 | Stantec | Mechanical Engineering Intern - Buildings (Summer 2027) | Design & CAD | Chicago, IL, United States | AutoCAD, Revit | Sep 24, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007966) |
 | The Toro Company | Mechanical Engineer Intern - The Toro Company 🛂 | Design & CAD | Bloomington, MN | No skills listed | Sep 24, 2026 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechanical-Engineer-Intern---The-Toro-Company_JR17112) |
@@ -121,7 +122,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | The Aerospace Corporation | 2027 Chemical Propulsion Graduate Intern 🇺🇸 | Aerospace & Defense | El Segundo, CA | SolidWorks, MATLAB, Python, LabVIEW | Sep 23, 2026 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Chemical-Propulsion-Graduate-Intern_R016672) |
 | The Aerospace Corporation | 2027 Flight Loads Structural Dynamics Undergraduate Intern 🇺🇸 | Structures & Materials | El Segundo, CA | FEA, MATLAB, Python, Excel | Sep 23, 2026 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671) |
 | Continental | 2027 Internship - Manufacturing Engineer (Hoosier Racing Tire) | Manufacturing & Process | Plymouth, IN, United States | No skills listed | Sep 23, 2026 | [Apply](https://jobs.smartrecruiters.com/Continental/744000151462939) |
-| Philips | Co-op-Manufacturing Engineering-Reedsville, PA, July - December 2027 | Manufacturing & Process | Reedsville, Pennsylvania, United States | No skills listed | Sep 23, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808) |
 | WSP | Construction Materials Engineering and Laboratory Testing Intern - Summer 2027 | Structures & Materials | San Diego, CA, United States | No skills listed | Sep 23, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95670) |
 | Generac | Mechanical Engineering Intern - Transfer Switch - Summer 2027 | Design & CAD | Waukesha, WI - USA | AutoCAD, Excel | Sep 23, 2026 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048) |
 | Marvell | Security Verification/Validation Engineer Intern, BS - Summer 2027 | Test & Quality | Chandler, AZ | No skills listed | Sep 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1) |
@@ -611,8 +611,8 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Philips | Co-op-Manufacturing Engineering-Reedsville, PA, July - December 2027 | Summer 2027 | 2026-09-29 | out of scope |
 | Caterpillar Inc. | 2027 Engineering Corporate Internship Program Welding | Summer 2027 | 2026-09-29 | out of scope |
-| Northrop Grumman | 2027 Operations Industrial Engineering Intern | Summer 2027 | 2026-09-29 | out of scope |
 | Eversource Energy | 2027: Transmission System Planning Co-op | Summer 2027 | 2026-09-29 | out of scope |
 | Eversource Energy | 2027 Co-op: Substation Design Engineering | Summer 2027 | 2026-09-29 | out of scope |
 | Motorola | Product Quality Engineering 2027 Internship | Summer 2027 | 2026-09-28 | out of scope |
@@ -666,7 +666,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,398 of 4,910 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 962.8s · 527 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,414 of 4,910 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 89% of the full registry) · completed in 987.5s · 539 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

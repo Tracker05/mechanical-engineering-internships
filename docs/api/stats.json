@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-29T02:05:42Z",
- "fetched_at": "2026-09-29T02:05:42Z",
- "duration_seconds": 962.8,
+ "generated_at": "2026-09-29T02:38:10Z",
+ "fetched_at": "2026-09-29T02:38:10Z",
+ "duration_seconds": 987.5,
  "companies_total": 4910,
  "companies_by_source": {
   "greenhouse": 1092,
@@ -17,24 +17,28 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 445,
- "fetched_ok": 4398,
- "fetch_errors": 67,
+ "quarantined": 308,
+ "fetched_ok": 4414,
+ "fetch_errors": 188,
  "errors_by_source": {
-  "workday": 67
+  "workday": 95,
+  "lever": 29,
+  "ashby": 35,
+  "greenhouse": 27,
+  "workable": 2
  },
- "fetch_success_rate": 0.985,
- "fetch_success_rate_registry": 0.896,
- "snapshots_complete": 3871,
- "snapshots_partial": 527,
+ "fetch_success_rate": 0.959,
+ "fetch_success_rate_registry": 0.899,
+ "snapshots_complete": 3875,
+ "snapshots_partial": 539,
  "partial_by_reason": {
-  "result-cap": 513,
-  "malformed-response": 14
+  "result-cap": 529,
+  "malformed-response": 10
  },
- "degraded_fetches": 14,
- "roles_matched": 705,
+ "degraded_fetches": 10,
+ "roles_matched": 721,
  "dropped_no_year_in_title": 171,
- "dropped_offcycle_by_text": 230,
+ "dropped_offcycle_by_text": 231,
  "roles_cycle_inferred": 343,
  "roles_by_source": {
   "amazon": 3,
@@ -57,21 +61,21 @@
   "US": 865
  },
  "sponsorship_counts": {
-  "unknown": 620,
+  "unknown": 619,
   "no-sponsorship": 128,
-  "citizens-only": 115,
+  "citizens-only": 116,
   "offers": 2
  },
  "posted_date_coverage": 0.994,
- "enriched_this_run": 53,
- "enrichment_detail_fetches": 3,
+ "enriched_this_run": 50,
+ "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
- "new_this_run": 3,
+ "new_this_run": 0,
  "open_total": 865,
  "detection_latency": {
-  "median_minutes": 27.1,
-  "p95_minutes": 3303.8,
-  "sample_size": 17,
+  "median_minutes": 25.9,
+  "p95_minutes": 1124.8,
+  "sample_size": 16,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
@@ -79,5 +83,5 @@
   "median_days": 12.0,
   "sample_size": 26
  },
- "rendered_at": "2026-09-29T02:05:43Z"
+ "rendered_at": "2026-09-29T02:38:10Z"
 }
