@@ -1402,6 +1402,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-15",
      "role_ids": [
+      "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
       "workday:ngc:/job/United-States-California-Vandenberg-AFB/XMLNAME-2027-Test-Engineering-Intern---VSFB-CA_R10253497",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
@@ -1414,7 +1415,7 @@
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -1662,6 +1663,7 @@
      "role_ids": [
       "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Mechanical-Design-Engineering-Intern--Summer-2027-_01873545",
       "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Mechanical-Design-Engineering-Intern--Summer-2027-_01872155",
+      "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Mechanical-Design-Engineering-Intern--Summer-2027-_01873918",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01870633",
@@ -1687,7 +1689,21 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 26
+     "count": 27
+    }
+   }
+  },
+  "s c electric": {
+   "name": "S&C Electric Company",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "oracle:ejia.fa.us6.oraclecloud.com:107296",
+      "oracle:ejia.fa.us6.oraclecloud.com:107298",
+      "oracle:ejia.fa.us6.oraclecloud.com:107299"
+     ],
+     "count": 3
     }
    }
   },
@@ -2228,5 +2244,5 @@
    }
   }
  },
- "updated_at": "2026-09-29T18:07:17Z"
+ "updated_at": "2026-09-29T18:41:51Z"
 }
