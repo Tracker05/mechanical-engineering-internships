@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 877 open roles (505 listed below) · 139 new this week
+### 880 open roles (507 listed below) · 142 new this week
 
-4,649 employers tracked · data as of Sep 29, 2026 at 13:46 UTC
+4,649 employers tracked · data as of Sep 29, 2026 at 14:11 UTC
 
-_533 have a cycle the employer stated · 344 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_534 have a cycle the employer stated · 346 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -89,6 +89,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Stantec | Process Engineering Intern/Co-op - Buildings (Summer 2027) 🆕 | Manufacturing & Process | Burlington +5 more | AutoCAD | Sep 29, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008045) |
 | Howmet Aerospace | Interns - Manufacturing Engineer - Whitehall, MI (Summer 2027) 🛂 🆕 | Manufacturing & Process | Whitehall, MI, United States | SolidWorks, AutoCAD | Sep 29, 2026 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119686) |
 | Howmet Aerospace | Interns - Quality Engineer - Whitehall, MI (Summer 2027) 🛂 🆕 | Test & Quality | Whitehall, MI, United States | No skills listed | Sep 29, 2026 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119687) |
 | WSP | Civil/Structural Engineering (Transmission Lines) Intern - Summer 2027 🆕 | Automotive & Mobility | Minneapolis, MN, United States | No skills listed | Sep 29, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96451) |
@@ -121,7 +122,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Stantec | Renewable Energy Civil Intern (Summer 2027) | Energy & Power | Minneapolis, MN, United States | AutoCAD, Excel | Sep 25, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008002) |
 | Saab | Mechanical Engineering Co-Op (Summer 2027) 🇺🇸 | Design & CAD | Quincy, MA | SolidWorks, GD&T, Tolerance Analysis, PLM/PDM | Sep 25, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/Quincy-MA/Mechanical-Engineering-Co-Op--Summer-2027-_R-03296-1) |
 | Rocket Lab | Test Engineering Intern Summer 2027 🇺🇸 | Test & Quality | Wallops Island, VA | Siemens NX, Python, Additive Manufacturing | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003) |
-| Stantec | Mechanical Engineering Intern - Buildings (Summer 2027) | Design & CAD | Chicago, IL, United States | AutoCAD, Revit | Sep 24, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007966) |
 | The Toro Company | Mechanical Engineer Intern - The Toro Company 🛂 | Design & CAD | Bloomington, MN | No skills listed | Sep 24, 2026 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechanical-Engineer-Intern---The-Toro-Company_JR17112) |
 | Mill | Product Design Engineering Intern, Summer 2027 🛂 | Design & CAD | San Bruno, California | FEA, DFM | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4737767005) |
 | ZOLL Medical Corporation | Mechanical Engineering Intern | Design & CAD | Chelmsford, MA | SolidWorks | Sep 24, 2026 | [Apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310) |
@@ -377,12 +377,13 @@ If it helps you, a star means a lot and tells me to keep going.
 | Mill | Product Design Engineering Intern, Fall/Winter 2026 🛂 | Design & CAD | San Bruno, California | FEA, DFM | Mar 17, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4674154005) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Robotics & Controls | Westboro, Massachusetts, USA | No skills listed | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
-## Recently posted — cycle not stated  (203 roles)
+## Recently posted — cycle not stated  (204 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| ABB ✓ | R&D Mechanical Engineering Co-op 🛂 🆕 _(2 openings)_ | Design & CAD | Greenville +2 more | No skills listed | Sep 29, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Mechanical-Engineering-Co-op_JR00048185) [#2](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Mechanical-Engineering-Co-op_JR00048188-1) |
 | The Toro Company | Mechanical Design Engineer Co Op - BOSS Snowplow 🆕 | Design & CAD | Iron Mountain, MI | Creo, Excel, Welding, Hydraulics | Sep 29, 2026 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Mechanical-Design-Engineer-Co-Op---BOSS-Snowplow_JR17092) |
 | IMEG ✓ | Structural Engineering Intern / Farmington Hills, MI 🛂 🆕 | Structures & Materials | Detroit Metro, MI | AutoCAD, Excel | Sep 28, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Detroit-Metro-MI/Structural-Intern_R-16351) |
 | Airbus | Summer Internship - Tooling & Logistics Engineer 🆕 | Manufacturing & Process | Mobile Area, AL | Hydraulics | Sep 28, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---Tooling---Logistics-Engineer_JR10442128) |
@@ -672,7 +673,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,448 of 4,911 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1116.6s · 578 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,456 of 4,911 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 1053.5s · 572 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
