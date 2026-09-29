@@ -947,6 +947,19 @@
     }
    }
   },
+  "howmet aerospace": {
+   "name": "Howmet Aerospace",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119672",
+      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119675"
+     ],
+     "count": 2
+    }
+   }
+  },
   "hypertherm": {
    "name": "Hypertherm",
    "cycles": {
@@ -1418,11 +1431,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:nvent:/job/Anoka-MN-US/Manufacturing-Automaton-Intern--June---August-2027-_R23865",
       "workday:nvent:/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--June---December-2027-_R23578",
       "workday:nvent:/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--June---December-2027-_R23573",
       "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2100,9 +2114,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:95761",
       "oracle:emit.fa.ca3.oraclecloud.com:95871",
       "oracle:emit.fa.ca3.oraclecloud.com:96292",
-      "oracle:emit.fa.ca3.oraclecloud.com:96332"
+      "oracle:emit.fa.ca3.oraclecloud.com:96332",
+      "oracle:emit.fa.ca3.oraclecloud.com:96451"
      ],
-     "count": 45
+     "count": 46
     },
     "Fall 2026": {
      "first_posted": "2026-09-08",
@@ -2205,5 +2220,5 @@
    }
   }
  },
- "updated_at": "2026-09-29T12:08:47Z"
+ "updated_at": "2026-09-29T12:48:43Z"
 }
