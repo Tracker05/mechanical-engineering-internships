@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T17:09:05Z",
-  "fetched_at": "2026-09-30T17:09:05Z",
-  "duration_seconds": 1041.3,
+  "generated_at": "2026-09-30T17:41:51Z",
+  "fetched_at": "2026-09-30T17:41:51Z",
+  "duration_seconds": 1030.4,
   "companies_total": 4921,
   "companies_by_source": {
     "greenhouse": 1098,
@@ -17,25 +17,25 @@
     "breezy": 13,
     "eightfold": 1
   },
-  "quarantined": 428,
-  "fetched_ok": 4445,
-  "fetch_errors": 48,
+  "quarantined": 431,
+  "fetched_ok": 4435,
+  "fetch_errors": 55,
   "errors_by_source": {
-    "workday": 46,
-    "workable": 2
+    "workday": 44,
+    "workable": 11
   },
-  "fetch_success_rate": 0.989,
-  "fetch_success_rate_registry": 0.903,
+  "fetch_success_rate": 0.988,
+  "fetch_success_rate_registry": 0.901,
   "snapshots_complete": 3883,
-  "snapshots_partial": 562,
+  "snapshots_partial": 552,
   "partial_by_reason": {
-    "result-cap": 499,
-    "malformed-response": 63
+    "result-cap": 496,
+    "malformed-response": 56
   },
-  "degraded_fetches": 63,
-  "roles_matched": 716,
-  "dropped_no_year_in_title": 160,
-  "dropped_offcycle_by_text": 191,
+  "degraded_fetches": 56,
+  "roles_matched": 715,
+  "dropped_no_year_in_title": 157,
+  "dropped_offcycle_by_text": 194,
   "roles_cycle_inferred": 355,
   "roles_by_source": {
     "amazon": 3,
@@ -64,15 +64,15 @@
     "offers": 2
   },
   "posted_date_coverage": 0.994,
-  "enriched_this_run": 52,
-  "enrichment_detail_fetches": 3,
+  "enriched_this_run": 50,
+  "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
-  "new_this_run": 2,
+  "new_this_run": 0,
   "open_total": 904,
   "detection_latency": {
-    "median_minutes": 32.2,
+    "median_minutes": 34.4,
     "p95_minutes": 1124.8,
-    "sample_size": 13,
+    "sample_size": 12,
     "window_days": 7,
     "basis": "roles published in the window with an exact source timestamp"
   },
@@ -80,5 +80,5 @@
     "median_days": 14.5,
     "sample_size": 36
   },
-  "rendered_at": "2026-09-30T17:09:05Z"
+  "rendered_at": "2026-09-30T17:41:51Z"
 }
