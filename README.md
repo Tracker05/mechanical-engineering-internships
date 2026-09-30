@@ -8,7 +8,7 @@
 
 ### 904 open roles (521 listed below) · 147 new this week
 
-4,657 employers tracked · data as of Sep 30, 2026 at 17:41 UTC
+4,657 employers tracked · data as of Sep 30, 2026 at 18:05 UTC
 
 _549 have a cycle the employer stated · 355 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -483,7 +483,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Acron Aviation | Manufacturing Engineer Intern - Grand Rapids Site | Manufacturing & Process | Grand Rapids, MI | SolidWorks, AutoCAD, Excel, Lean | Sep 16, 2026 | [Apply](https://jobs.lever.co/acronaviation/2893b51b-c93c-4875-9912-1292ab0f4926) |
 | Terex | Design Engineer Intern | Design & CAD | US-SD Watertown | SolidWorks, Excel, Lean | Sep 16, 2026 | [Apply](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-SD-Watertown/Design-Engineer-Intern_REQ-14324) |
 | Terex | Manufacturing Engineer Intern | Manufacturing & Process | US-SD Watertown | SolidWorks, AutoCAD, Onshape, GD&T | Sep 16, 2026 | [Apply](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-SD-Watertown/Manufacturing-Engineer-Intern_REQ-14323) |
-| Masco | Hardware Test Engineering Co-op | Test & Quality | US - Indiana - Indianapolis | No skills listed | Sep 16, 2026 | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2) |
+| Delta Faucet | Hardware Test Engineering Co-op | Test & Quality | US - Indiana - Indianapolis | No skills listed | Sep 16, 2026 | [Apply](https://masco.wd1.myworkdayjobs.com/deltafaucet/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344) |
 | Oshkosh | Manufacturing Engineering Intern | Manufacturing & Process | McConnellsburg +2 more | Creo, AutoCAD, Excel, Machining | Sep 16, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49603) |
 | Thermo Fisher Scientific ✓ | Manufacturing Engineering Co-op 🛂 | Manufacturing & Process | Marietta, Ohio, USA | No skills listed | Sep 16, 2026 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Marietta-Ohio-USA/Manufacturing-Engineering-Co-op_R-01366628) |
 | Oshkosh | Quality Engineering Intern | Test & Quality | Shippensburg +2 more | Creo, AutoCAD, Excel | Sep 16, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Quality-Engineer-Intern_R49669) |
@@ -690,7 +690,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,435 of 4,921 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1030.4s · 552 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,425 of 4,921 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 880.4s · 531 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
