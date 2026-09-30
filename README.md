@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 900 open roles (518 listed below) · 151 new this week
+### 902 open roles (518 listed below) · 149 new this week
 
-4,657 employers tracked · data as of Sep 30, 2026 at 14:08 UTC
+4,657 employers tracked · data as of Sep 30, 2026 at 14:44 UTC
 
-_547 have a cycle the employer stated · 353 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_549 have a cycle the employer stated · 353 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -89,6 +89,8 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Zekelman Industries | Intern, Quality Engineer 🆕 | Test & Quality | Warren, OH | Excel | Sep 30, 2026 | [Apply](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Warren-OH/Intern--Quality-Engineer_JR002821) |
+| Zekelman Industries | Intern, Manufacturing Engineer 🆕 | Manufacturing & Process | Rochelle, IL | SolidWorks, AutoCAD, Excel | Sep 30, 2026 | [Apply](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Rochelle-IL/Intern--Manufacturing-Engineer_JR002824) |
 | Northrop Grumman | 2027 Hardware Mechanical Engineer Intern - Rolling Meadows IL 🇺🇸 🆕 | Design & CAD | United States-Illinois-Rolling Meadows | SolidWorks, Siemens NX, Creo, ANSYS | Sep 30, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778) |
 | The Aerospace Corporation | 2027 Structural Mechanics Undergraduate Intern 🇺🇸 🆕 | Structures & Materials | El Segundo, CA | FEA, MATLAB, Python, Excel | Sep 29, 2026 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763) |
 | Freeform | Manufacturing Engineering Intern, CNC Machining (Summer 2027) 🆕 | Manufacturing & Process | Los Angeles, CA (On-site) | CNC, Machining, GD&T, Additive Manufacturing | Sep 29, 2026 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8004101003) |
@@ -116,10 +118,10 @@ If it helps you, a star means a lot and tells me to keep going.
 | Eversource Energy | 2027 Co-op: Substation Design Engineering 🛂 🆕 | Design & CAD | Westwood, MA | No skills listed | Sep 28, 2026 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2027-Co-op--Substation-Design-Engineering_R-031701) |
 | Mars | Summer 2027 Mars Petcare Manufacturing Internship 🆕 | Manufacturing & Process | USA-Arkansas-Ft. Smith | Lean | Sep 28, 2026 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Manufacturing-Internship_R168212-1) |
 | Michael Baker International ✓ | Structural Intern, Summer 2027 🆕 | Structures & Materials | Pittsburgh, PA, United States | Revit | Sep 28, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309901) |
-| WSP | Structural Engineering Intern- Summer 2027 🆕 | Structures & Materials | New York, NY, United States | AutoCAD | Sep 28, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96332) |
-| RTX | Materials Engineering Lab Co-Op (Spring/Summer 2027) 🇺🇸 🆕 | Structures & Materials | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | No skills listed | Sep 28, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Spring-Summer-2027-_01870991) |
-| RTX | Materials Engineering Lab Co-Op (Summer/Fall 2027) 🇺🇸 🆕 | Structures & Materials | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | No skills listed | Sep 28, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992) |
-| IMEG ✓ | Mechanical Engineering Intern / New York, NY 🛂 🆕 | Design & CAD | New York / Broad Street | AutoCAD, Excel | Sep 28, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/New-York--Broad-Street/Mechanical-Engineering-Intern---New-York--NY_R-16661) |
+| WSP | Structural Engineering Intern- Summer 2027 | Structures & Materials | New York, NY, United States | AutoCAD | Sep 28, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96332) |
+| RTX | Materials Engineering Lab Co-Op (Spring/Summer 2027) 🇺🇸 | Structures & Materials | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | No skills listed | Sep 28, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Spring-Summer-2027-_01870991) |
+| RTX | Materials Engineering Lab Co-Op (Summer/Fall 2027) 🇺🇸 | Structures & Materials | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | No skills listed | Sep 28, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992) |
+| IMEG ✓ | Mechanical Engineering Intern / New York, NY 🛂 | Design & CAD | New York / Broad Street | AutoCAD, Excel | Sep 28, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/New-York--Broad-Street/Mechanical-Engineering-Intern---New-York--NY_R-16661) |
 | AECOM | Mechanical Engineering Intern - Hiring Event with AECOM - Arlington, VA | Design & CAD | Arlington, VA, United States (Hybrid) | AutoCAD, Revit | Sep 28, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152172269) |
 | GlobalFoundries | Reliability Test Engineering Intern (Summer 2027) | Test & Quality | USA - New York - Malta | Python, C++ | Sep 28, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Reliability-Test-Engineering-Intern--Summer-2027-_JR-2604361) |
 | The Aerospace Corporation | 2027 Propulsion Engineering Graduate Intern 🇺🇸 | Aerospace & Defense | El Segundo, CA | MATLAB, Python | Sep 25, 2026 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Propulsion-Engineering-Graduate-Intern_R016729) |
@@ -145,8 +147,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Charter Manufacturing | Process Engineer Intern (Summer 2027) | Manufacturing & Process | Charter Steel - Cleveland, OH | AutoCAD, Excel | Sep 22, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Cleveland-OH/Process-Engineer-Intern--Summer-2027-_R08123) |
 | AES | Transmission Engineering Intern - (Summer 2027) | Automotive & Mobility | US, Indianapolis, IN | SolidWorks, Excel | Sep 22, 2026 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Transmission-Engineering-Intern----Summer-2027-_R1064839) |
 | Formlabsinternships | Mechanical Engineering Intern (Summer 2027) | Design & CAD | Somerville, MA | Additive Manufacturing | Sep 21, 2026 | [Apply](https://job-boards.greenhouse.io/formlabsinternships/jobs/8199928) |
-| Zekelman Industries | Intern, Industrial Engineer | Manufacturing & Process | Blytheville, AR - Atlas | Excel | Sep 21, 2026 | [Apply](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Blytheville-AR---Atlas/Intern--Industrial-Engineer_JR002764) |
-| Zekelman Industries | Manufacturing Engineer Intern | Manufacturing & Process | Blytheville, AR - Wheatland | SolidWorks, AutoCAD, Excel | Sep 21, 2026 | [Apply](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Blytheville-AR---Wheatland/Manufacturing-Engineer-Intern_JR002765) |
 | Avav | Summer 2027 Autonomy & Robotics Engineering Intern | Robotics & Controls | Moorpark, CA | MATLAB, Python, C++, ROS | Sep 21, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551) |
 | Shield AI | Summer 2027 - Mechanical Engineering Intern | Design & CAD | Seattle, Washington | SolidWorks, CATIA | Sep 21, 2026 | [Apply](https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc) |
 | IMEG ✓ | Mechanical Engineering Intern / Anaheim, CA 🛂 | Design & CAD | Anaheim, CA | AutoCAD, Excel | Sep 21, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Anaheim-CA/Mechanical-Engineering-Intern---Anaheim--CA_R-16751) |
@@ -686,7 +686,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,522 of 4,921 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 984.8s · 592 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,463 of 4,921 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1029.4s · 571 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
