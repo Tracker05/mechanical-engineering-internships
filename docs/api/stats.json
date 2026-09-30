@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-30T12:48:49Z",
- "fetched_at": "2026-09-30T12:48:49Z",
- "duration_seconds": 940.2,
+ "generated_at": "2026-09-30T13:16:09Z",
+ "fetched_at": "2026-09-30T13:16:09Z",
+ "duration_seconds": 1056.5,
  "companies_total": 4921,
  "companies_by_source": {
   "greenhouse": 1098,
@@ -17,24 +17,25 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 385,
- "fetched_ok": 4430,
- "fetch_errors": 106,
+ "quarantined": 387,
+ "fetched_ok": 4472,
+ "fetch_errors": 62,
  "errors_by_source": {
-  "workday": 106
+  "workday": 45,
+  "workable": 17
  },
- "fetch_success_rate": 0.977,
- "fetch_success_rate_registry": 0.9,
- "snapshots_complete": 3889,
- "snapshots_partial": 541,
+ "fetch_success_rate": 0.986,
+ "fetch_success_rate_registry": 0.909,
+ "snapshots_complete": 3909,
+ "snapshots_partial": 563,
  "partial_by_reason": {
-  "result-cap": 509,
-  "malformed-response": 32
+  "result-cap": 510,
+  "malformed-response": 53
  },
- "degraded_fetches": 32,
- "roles_matched": 687,
- "dropped_no_year_in_title": 164,
- "dropped_offcycle_by_text": 233,
+ "degraded_fetches": 53,
+ "roles_matched": 699,
+ "dropped_no_year_in_title": 162,
+ "dropped_offcycle_by_text": 189,
  "roles_cycle_inferred": 353,
  "roles_by_source": {
   "amazon": 3,
@@ -46,28 +47,28 @@
   "rippling": 5,
   "smartrecruiters": 48,
   "workable": 1,
-  "workday": 558
+  "workday": 559
  },
  "roles_by_cycle": {
-  "Summer 2027": 528,
+  "Summer 2027": 529,
   "Fall 2026": 18,
   "Not stated": 353
  },
  "roles_by_region": {
-  "US": 899
+  "US": 900
  },
  "sponsorship_counts": {
   "unknown": 632,
   "no-sponsorship": 143,
-  "citizens-only": 122,
+  "citizens-only": 123,
   "offers": 2
  },
  "posted_date_coverage": 0.994,
  "enriched_this_run": 50,
  "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
- "new_this_run": 0,
- "open_total": 899,
+ "new_this_run": 1,
+ "open_total": 900,
  "detection_latency": {
   "median_minutes": 32.0,
   "p95_minutes": 1124.8,
@@ -76,8 +77,8 @@
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 15,
-  "sample_size": 35
+  "median_days": 14.5,
+  "sample_size": 34
  },
- "rendered_at": "2026-09-30T12:48:49Z"
+ "rendered_at": "2026-09-30T13:16:09Z"
 }
