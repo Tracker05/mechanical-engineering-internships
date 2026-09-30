@@ -130,6 +130,21 @@
     }
    }
   },
+  "allison transmission": {
+   "name": "Allison Transmission",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-1_R008267",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277"
+     ],
+     "count": 4
+    }
+   }
+  },
   "alloy enterprises": {
    "name": "Alloy Enterprises",
    "cycles": {
@@ -1221,9 +1236,10 @@
      "first_posted": "2026-09-08",
      "role_ids": [
       "workday:marvell:/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1",
-      "workday:marvell:/job/Santa-Clara-CA/Process-Engineer-Intern--MS---Summer-2027_2603856-1"
+      "workday:marvell:/job/Santa-Clara-CA/Process-Engineer-Intern--MS---Summer-2027_2603856-1",
+      "workday:marvell:/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2299,5 +2315,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T18:05:10Z"
+ "updated_at": "2026-09-30T18:44:40Z"
 }
