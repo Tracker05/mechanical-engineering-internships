@@ -431,6 +431,18 @@
     }
    }
   },
+  "caci": {
+   "name": "CACI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:caci:/job/Melbourne-FL-US/Manufacturing-Engineering-Intern---Summer-2027_332898"
+     ],
+     "count": 1
+    }
+   }
+  },
   "campbellsoup": {
    "name": "Campbellsoup",
    "cycles": {
@@ -2096,9 +2108,10 @@
       "greenhouse:vardaspace:8010166003",
       "greenhouse:vardaspace:8010169003",
       "greenhouse:vardaspace:8010170003",
-      "greenhouse:vardaspace:8010172003"
+      "greenhouse:vardaspace:8010172003",
+      "greenhouse:vardaspace:8010632003"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2358,5 +2371,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T16:08:06Z"
+ "updated_at": "2026-10-01T16:41:50Z"
 }
