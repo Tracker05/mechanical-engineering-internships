@@ -8,7 +8,7 @@
 
 ### 937 open roles (539 listed below) · 169 new this week
 
-4,665 employers tracked · data as of Oct 01, 2026 at 15:41 UTC
+4,665 employers tracked · data as of Oct 01, 2026 at 16:08 UTC
 
 _570 have a cycle the employer stated · 367 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -118,7 +118,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Northrop Grumman | 2027 Operations Industrial Engineering Intern 🇺🇸 🆕 | Manufacturing & Process | United States-California-Palmdale | No skills listed | Sep 29, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538) |
 | IMEG ✓ | Mechanical Engineering Intern / Freeport, ME 🛂 🆕 | Design & CAD | Freeport, ME | AutoCAD, Excel | Sep 29, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Freeport-ME/Mechanical-Engineering-Intern---Freeport--ME_R-16818) |
 | The Toro Company | Manufacturing Engineer Intern - Ditch Witch 🛂 🆕 | Manufacturing & Process | Perry, OK | SolidWorks, AutoCAD, Solid Edge, ANSYS | Sep 29, 2026 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Manufacturing-Engineer-Intern---Ditch-Witch_JR17449) |
-| Stantec | Structural Engineering Intern/Co-op – Infrastructure (Summer 2027) 🆕 | Structures & Materials | New Haven +5 more | AutoCAD, Excel | Sep 29, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008077) |
+| Stantec | Structural Engineering Intern/Co-op – Infrastructure (Summer 2027) | Structures & Materials | New Haven +5 more | AutoCAD, Excel | Sep 29, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008077) |
 | Stantec | Process Engineering Intern/Co-op - Buildings (Summer 2027) | Manufacturing & Process | Burlington +5 more | AutoCAD | Sep 29, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008045) |
 | Howmet Aerospace | Interns - Manufacturing Engineer - Whitehall, MI (Summer 2027) 🛂 | Manufacturing & Process | Whitehall, MI, United States | SolidWorks, AutoCAD | Sep 29, 2026 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119686) |
 | Howmet Aerospace | Interns - Quality Engineer - Whitehall, MI (Summer 2027) 🛂 | Test & Quality | Whitehall, MI, United States | No skills listed | Sep 29, 2026 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119687) |
@@ -707,7 +707,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,381 of 4,929 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 88% of the full registry) · completed in 916.0s · 566 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,374 of 4,929 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 88% of the full registry) · completed in 906.6s · 550 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
