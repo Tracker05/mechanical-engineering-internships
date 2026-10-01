@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 922 open roles (535 listed below) · 159 new this week
+### 927 open roles (538 listed below) · 164 new this week
 
-4,657 employers tracked · data as of Oct 01, 2026 at 05:40 UTC
+4,657 employers tracked · data as of Oct 01, 2026 at 06:09 UTC
 
-_561 have a cycle the employer stated · 361 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_566 have a cycle the employer stated · 361 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -85,10 +85,13 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (279 employer-stated)
+## Summer 2027  (282 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Varda Space | Avionics Engineering Internship - Summer 2027 🇺🇸 🆕 | Aerospace & Defense | El Segundo, California, United States | Python | Oct 01, 2026 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |
+| Varda Space | Manufacturing Engineering Internship - Summer 2027 🇺🇸 🆕 | Manufacturing & Process | El Segundo, California, United States | MATLAB, LabVIEW, Lean | Oct 01, 2026 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010166003) |
+| Varda Space | Propulsion Engineering Internship - Summer 2027 🇺🇸 🆕 | Aerospace & Defense | El Segundo, California, United States | GD&T, MATLAB, Python, Teamcenter | Oct 01, 2026 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010169003) |
 | Generac | 2027 Summer Intern Digital Manufacturing Engineering 🆕 | Manufacturing & Process | Waukesha, WI - USA | Python, Excel | Oct 01, 2026 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/XMLNAME-2027-Summer-Intern-Digital-Manufacturing-Engineering_JR16255) |
 | Allison Transmission ✓ | Quality Engineering Intern - Summer 2027 🇺🇸 🆕 | Test & Quality | Indianapolis, IN | No skills listed | Oct 01, 2026 | [Apply](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Quality-Engineering-Intern---Summer-2027_R008206) |
 | WSP | Structural Engineering Intern - Summer 2027 🆕 | Structures & Materials | North Providence +5 more | Revit | Sep 30, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96611) |
@@ -635,7 +638,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Axon | Aug 26 | dropped Aug 26 · closed | 🗓️ dropped |
 | 🎯 Chamberlain Group | Aug 26 | dropped Aug 26 · closed | 🗓️ dropped |
 
-_142 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **142** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_143 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **143** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles that left the list in the last 14 days</summary>
@@ -702,7 +705,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,428 of 4,921 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 983.6s · 537 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,444 of 4,921 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1051.5s · 556 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
