@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T15:10:59Z",
- "data_as_of": "2026-10-02T15:10:59Z",
- "rendered_at": "2026-10-02T15:10:59Z",
+ "generated_at": "2026-10-02T15:42:41Z",
+ "data_as_of": "2026-10-02T15:42:41Z",
+ "rendered_at": "2026-10-02T15:42:41Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -1659,6 +1659,25 @@
    }
   },
   {
+   "company": "Eversource Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -18,
+   "status": "open",
+   "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Transmission-System-Planning-Intern_R-029918",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "Johnson & Johnson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2438,6 +2457,25 @@
    }
   },
   {
+   "company": "KLA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-02"
+   }
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2700,25 +2738,6 @@
    }
   },
   {
-   "company": "Eversource Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -18,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-14"
-   }
-  },
-  {
    "company": "Merck",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2795,5 +2814,5 @@
    }
   }
  ],
- "count": 147
+ "count": 148
 }
