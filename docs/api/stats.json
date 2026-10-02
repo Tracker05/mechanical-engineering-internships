@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T04:39:37Z",
- "fetched_at": "2026-10-02T04:39:37Z",
- "duration_seconds": 883.6,
+ "generated_at": "2026-10-02T05:09:12Z",
+ "fetched_at": "2026-10-02T05:09:12Z",
+ "duration_seconds": 1050.0,
  "companies_total": 4929,
  "companies_by_source": {
   "greenhouse": 1099,
@@ -17,25 +17,25 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 410,
- "fetched_ok": 4378,
- "fetch_errors": 141,
+ "quarantined": 400,
+ "fetched_ok": 4457,
+ "fetch_errors": 72,
  "errors_by_source": {
-  "workday": 141
+  "workday": 72
  },
- "fetch_success_rate": 0.969,
- "fetch_success_rate_registry": 0.888,
- "snapshots_complete": 3846,
- "snapshots_partial": 532,
+ "fetch_success_rate": 0.984,
+ "fetch_success_rate_registry": 0.904,
+ "snapshots_complete": 3896,
+ "snapshots_partial": 561,
  "partial_by_reason": {
-  "result-cap": 525,
-  "malformed-response": 7
+  "result-cap": 551,
+  "malformed-response": 10
  },
- "degraded_fetches": 7,
- "roles_matched": 738,
- "dropped_no_year_in_title": 164,
- "dropped_offcycle_by_text": 199,
- "roles_cycle_inferred": 374,
+ "degraded_fetches": 10,
+ "roles_matched": 782,
+ "dropped_no_year_in_title": 185,
+ "dropped_offcycle_by_text": 244,
+ "roles_cycle_inferred": 370,
  "roles_by_source": {
   "amazon": 3,
   "ashby": 22,
@@ -49,17 +49,17 @@
   "workday": 594
  },
  "roles_by_cycle": {
-  "Summer 2027": 559,
+  "Summer 2027": 563,
   "Fall 2026": 20,
-  "Not stated": 374
+  "Not stated": 370
  },
  "roles_by_region": {
   "US": 953
  },
  "sponsorship_counts": {
-  "unknown": 662,
-  "no-sponsorship": 150,
-  "citizens-only": 139,
+  "unknown": 658,
+  "no-sponsorship": 151,
+  "citizens-only": 142,
   "offers": 2
  },
  "posted_date_coverage": 0.994,
@@ -76,8 +76,8 @@
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 14,
-  "sample_size": 43
+  "median_days": 13,
+  "sample_size": 45
  },
- "rendered_at": "2026-10-02T04:39:37Z"
+ "rendered_at": "2026-10-02T05:09:12Z"
 }
