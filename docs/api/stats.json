@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-03T00:05:02Z",
- "fetched_at": "2026-10-03T00:05:02Z",
- "duration_seconds": 1021.2,
+ "generated_at": "2026-10-03T00:46:54Z",
+ "fetched_at": "2026-10-03T00:46:54Z",
+ "duration_seconds": 1028.1,
  "companies_total": 4935,
  "companies_by_source": {
   "greenhouse": 1100,
@@ -17,34 +17,34 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 433,
- "fetched_ok": 4393,
- "fetch_errors": 109,
+ "quarantined": 450,
+ "fetched_ok": 4424,
+ "fetch_errors": 61,
  "errors_by_source": {
-  "workday": 109
+  "workday": 61
  },
- "fetch_success_rate": 0.976,
- "fetch_success_rate_registry": 0.89,
- "snapshots_complete": 3854,
- "snapshots_partial": 539,
+ "fetch_success_rate": 0.986,
+ "fetch_success_rate_registry": 0.896,
+ "snapshots_complete": 3888,
+ "snapshots_partial": 536,
  "partial_by_reason": {
-  "result-cap": 532,
-  "malformed-response": 7
+  "result-cap": 531,
+  "malformed-response": 5
  },
- "degraded_fetches": 7,
- "roles_matched": 731,
- "dropped_no_year_in_title": 207,
- "dropped_offcycle_by_text": 206,
+ "degraded_fetches": 5,
+ "roles_matched": 740,
+ "dropped_no_year_in_title": 202,
+ "dropped_offcycle_by_text": 210,
  "roles_cycle_inferred": 344,
  "roles_by_source": {
   "amazon": 3,
   "ashby": 21,
-  "greenhouse": 107,
+  "greenhouse": 109,
   "lever": 26,
   "oracle": 145,
   "rippling": 6,
   "smartrecruiters": 53,
-  "workday": 573
+  "workday": 571
  },
  "roles_by_cycle": {
   "Summer 2027": 570,
@@ -55,8 +55,8 @@
   "US": 934
  },
  "sponsorship_counts": {
-  "unknown": 639,
-  "no-sponsorship": 150,
+  "unknown": 640,
+  "no-sponsorship": 149,
   "citizens-only": 143,
   "offers": 2
  },
@@ -67,9 +67,9 @@
  "new_this_run": 2,
  "open_total": 934,
  "detection_latency": {
-  "median_minutes": 23.7,
+  "median_minutes": 24.0,
   "p95_minutes": 3137.3,
-  "sample_size": 23,
+  "sample_size": 25,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
@@ -77,5 +77,5 @@
   "median_days": 13.5,
   "sample_size": 48
  },
- "rendered_at": "2026-10-03T00:05:02Z"
+ "rendered_at": "2026-10-03T00:46:54Z"
 }
