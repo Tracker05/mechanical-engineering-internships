@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 929 open roles (541 listed below) · 168 new this week
+### 930 open roles (540 listed below) · 169 new this week
 
-4,702 employers tracked · data as of Oct 05, 2026 at 00:06 UTC
+4,702 employers tracked · data as of Oct 05, 2026 at 00:50 UTC
 
-_594 have a cycle the employer stated · 335 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_594 have a cycle the employer stated · 336 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -89,8 +89,8 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Muon Space | Industrial Engineering Intern (Summer 2027) 🆕 | Manufacturing & Process | San Jose, CA | Python, Excel, Six Sigma, Lean | Oct 02, 2026 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256284007) |
-| Muon Space | Environmental Test Engineering Intern (Summer 2027) 🆕 | Test & Quality | San Jose, CA | MATLAB, Simulink, Python, C++ | Oct 02, 2026 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256286007) |
+| Muon Space | Industrial Engineering Intern (Summer 2027) | Manufacturing & Process | San Jose, CA | Python, Excel, Six Sigma, Lean | Oct 02, 2026 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256284007) |
+| Muon Space | Environmental Test Engineering Intern (Summer 2027) | Test & Quality | San Jose, CA | MATLAB, Simulink, Python, C++ | Oct 02, 2026 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256286007) |
 | The Aerospace Corporation | 2027 Flight Loads Structural Dynamics Graduate Intern 🇺🇸 | Structures & Materials | El Segundo, CA | FEA, MATLAB, Python | Oct 02, 2026 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755) |
 | Charter Manufacturing | Controls Engineer Intern (Summer 2027) | Robotics & Controls | Charter Aarrowcast - Shawano, WI | AutoCAD, Excel, PLC, Casting | Oct 02, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Aarrowcast---Shawano-WI/Controls-Engineer-Intern--Summer-2027-_R08167) |
 | Charter Manufacturing | Smart Manufacturing Engineer Intern (Summer 2027) | Manufacturing & Process | Charter Steel - Saukville, WI | Excel, Casting | Oct 02, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133) |
@@ -411,6 +411,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Micron Technology ✓ | Intern - Memory Design Engineer, HBM 🆕 | Design & CAD | Richardson, TX | Python, C++ | Oct 04, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528) |
 | RTX | Avionics Test Engineering -Systems Engineer Intern (Onsite) 🇺🇸 🆕 | Aerospace & Defense | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd… | MATLAB | Oct 03, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518) |
 | Magna International ✓ | Humanoid Robotics Intern 🆕 | Robotics & Controls | Troy, Michigan, US | Python, C++, ROS | Oct 02, 2026 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/Humanoid-Robotics-Intern_R00264476) |
 | Airbus | Long-term Internship - Quality Engineering | Test & Quality | Grand Prairie, TX | AutoCAD, Six Sigma, Lean | Oct 02, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Quality-Engineering_JR10446781) |
@@ -477,7 +478,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Keenfinity | Electrical Test Engineering Co-Op | Test & Quality | Fairport, NY, United States (Hybrid) | LabVIEW | Sep 23, 2026 | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000151397415) |
 | Micron Technology ✓ | Intern - ID1 Manufacturing Engineer | Manufacturing & Process | Boise, ID - ID1 | MATLAB, Python, Excel, SPC | Sep 23, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
 | ZOLL Medical Corporation | Sustaining Mechanical Engineer Intern | Design & CAD | Chelmsford, MA | SolidWorks | Sep 23, 2026 | [Apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313) |
-| Micron Technology ✓ | Intern - Design Engineer, HIG HBM _(2 openings)_ | Design & CAD | Richardson, TX | Python, C++ | Sep 22, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512) [#2](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516) |
 | Allegion | Summer Intern - Digital Manufacturing | Manufacturing & Process | Colorado Springs, CO | C++, PLC | Sep 22, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1) |
 | Axis Automation | Welding Engineer Intern | Manufacturing & Process | Walker, Michigan, United States | Welding, Hydraulics | Sep 22, 2026 | [Apply](https://job-boards.greenhouse.io/axiscompany/jobs/8832086002) |
 | Keenfinity | Engineering Co-Op, Electro-Acoustics | Structures & Materials | Burnsville, MN, United States | MATLAB, Simulink, Python, LabVIEW | Sep 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000151117294) |
@@ -711,7 +711,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,579 of 4,966 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1009.9s · 607 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,474 of 4,966 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1016.5s · 562 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
