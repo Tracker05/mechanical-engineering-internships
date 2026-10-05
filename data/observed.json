@@ -274,6 +274,18 @@
     }
    }
   },
+  "atoms": {
+   "name": "Atoms",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "greenhouse:cssmerge:8868918002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "avav": {
    "name": "Avav",
    "cycles": {
@@ -1129,6 +1141,18 @@
      "first_posted": "2026-09-22",
      "role_ids": [
       "workday:ingredion:/job/North-Kansas-City-MO/Process-Engineer-Co-op-2026--January---August-_Req-36164"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "ispace": {
+   "name": "ispace",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "lever:ispace-inc:fa34bd91-bd23-460b-af53-4a7f2066d9f3"
      ],
      "count": 1
     }
@@ -2031,10 +2055,12 @@
     "Summer 2027": {
      "first_posted": "2026-07-23",
      "role_ids": [
+      "workday:cat:/job/Channelview-Texas/XMLNAME-2027-Manufacturing-Engineer-Intern_R0000398054",
+      "workday:cat:/job/Channelview-Texas/XMLNAME-2027-Welding-Engineer-Intern_R0000379964",
       "workday:cat:/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293",
       "workday:cat:/job/San-Diego-California/XMLNAME-2027-Internship-Turbomachinery-Operations_R0000382942"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -2386,6 +2412,7 @@
       "oracle:emit.fa.ca3.oraclecloud.com:95528",
       "oracle:emit.fa.ca3.oraclecloud.com:95670",
       "oracle:emit.fa.ca3.oraclecloud.com:95693",
+      "oracle:emit.fa.ca3.oraclecloud.com:95758",
       "oracle:emit.fa.ca3.oraclecloud.com:95761",
       "oracle:emit.fa.ca3.oraclecloud.com:95871",
       "oracle:emit.fa.ca3.oraclecloud.com:96292",
@@ -2395,7 +2422,7 @@
       "oracle:emit.fa.ca3.oraclecloud.com:96920",
       "oracle:emit.fa.ca3.oraclecloud.com:96925"
      ],
-     "count": 49
+     "count": 50
     },
     "Fall 2026": {
      "first_posted": "2026-09-08",
@@ -2502,5 +2529,5 @@
    }
   }
  },
- "updated_at": "2026-10-05T19:11:13Z"
+ "updated_at": "2026-10-05T21:49:25Z"
 }
