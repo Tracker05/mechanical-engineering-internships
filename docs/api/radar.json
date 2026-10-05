@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-05T11:10:19Z",
- "data_as_of": "2026-10-05T11:10:19Z",
- "rendered_at": "2026-10-05T11:10:19Z",
+ "generated_at": "2026-10-05T11:42:31Z",
+ "data_as_of": "2026-10-05T11:42:31Z",
+ "rendered_at": "2026-10-05T11:42:31Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -155,6 +155,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-14"
+   }
+  },
+  {
+   "company": "Caterpillar Inc.",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -49,
+   "status": "open",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
    }
   },
   {
@@ -1697,7 +1716,7 @@
    }
   },
   {
-   "company": "Ensign-Bickford Aerospace & Defense Company",
+   "company": "Ensign-Bickford Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
    "precision": "day",
@@ -1707,26 +1726,7 @@
    "expected": "2026-09-15",
    "days_until": -20,
    "status": "open",
-   "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-15"
-   }
-  },
-  {
-   "company": "Everest",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -20,
-   "status": "open",
-   "url": "https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401",
+   "url": "https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2567,25 +2567,6 @@
    }
   },
   {
-   "company": "Caterpillar Inc.",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -49,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-17"
-   }
-  },
-  {
    "company": "Campbellsoup",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -2833,7 +2814,26 @@
    }
   },
   {
-   "company": "Ensign-Bickford Industries",
+   "company": "Ensign-Bickford Aerospace & Defense Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -20,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-15"
+   }
+  },
+  {
+   "company": "Everest",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
    "precision": "day",

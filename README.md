@@ -8,7 +8,7 @@
 
 ### 927 open roles (538 listed below) · 170 new this week
 
-4,703 employers tracked · data as of Oct 05, 2026 at 11:10 UTC
+4,703 employers tracked · data as of Oct 05, 2026 at 11:42 UTC
 
 _592 have a cycle the employer stated · 335 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -215,8 +215,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Brunswick ✓ | Mercury Marine: Industrial Engineer Intern | Manufacturing & Process | Brownsburg, IN | No skills listed | Sep 15, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Brownsburg-IN/Mercury-Marine--Industrial-Engineer-Intern_JR-051584) |
 | Philips | Intern – R&D Engineer – Plymouth, MN – Summer 2027 | General Engineering | Plymouth, Minnesota, United States | SolidWorks, Excel | Sep 15, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---R-D-Engineer---Plymouth--MN---Summer-2027_591610) |
 | Johnson & Johnson | Clinical Engineering & Human Factors Intern - Robotics R&D 🛂 | Robotics & Controls | Santa Clara +2 more | No skills listed | Sep 15, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Clinical-Engineering---Human-Factors-Intern---Robotics-R-D_R-099931) |
-| Everest | 2027 Everest Design Engineering Internship Program | Design & CAD | Warren, NJ | Excel | Sep 15, 2026 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401) |
-| Ensign-Bickford Aerospace & Defense Company | Electronics Manufacturing Engineer Intern | Manufacturing & Process | Simsbury, CT | SPC | Sep 15, 2026 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696-1) |
+| Ensign-Bickford Industries | Electronics Manufacturing Engineer Intern | Manufacturing & Process | Simsbury, CT | SPC | Sep 15, 2026 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696) |
 | Granite Construction | Plant Engineer Intern - Summer 2027 | Manufacturing & Process | Pleasanton, California | No skills listed | Sep 15, 2026 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Pleasanton-California/Plant-Engineer-Intern---Summer-2027_R0000008111) |
 | Granite Construction | Plant Engineer Intern - Summer 2027 | Manufacturing & Process | Ukiah, California | No skills listed | Sep 15, 2026 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Ukiah-California/Plant-Engineer-Intern---Summer-2027_R0000008112) |
 | Granite Construction | Plant Engineer Intern - Summer 2027 | Manufacturing & Process | Watsonville, California | No skills listed | Sep 15, 2026 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Watsonville-California/Plant-Engineer-Intern---Summer-2027_R0000008110) |
@@ -358,6 +357,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | H3X Technologies | Advanced Manufacturing Engineering Intern (Spring) | Manufacturing & Process | Louisville, Colorado | SolidWorks, GD&T, Machining, Composites | Aug 18, 2026 | [Apply](https://jobs.ashbyhq.com/h3x-technologies/6af49576-a61d-480c-b155-3e034e2ed5be) |
 | H3X Technologies | Test Engineering Intern (Spring) | Test & Quality | Louisville, Colorado | SolidWorks | Aug 18, 2026 | [Apply](https://jobs.ashbyhq.com/h3x-technologies/be8855c5-f8c7-4f09-bd3f-04ecbcf4b42d) |
 | Wabtec | Summer 2027 Manufacturing Operations/Supply Chain Internship | Manufacturing & Process | Erie, PA, United States | No skills listed | Aug 18, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990014653896) |
+| Caterpillar Inc. ✓ | 2027 Engineering Corporate Internship Program Welding 🛂 | Manufacturing & Process | Mossville, Illinois | Welding | Aug 17, 2026 | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506) |
 | American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Phoenix, AZ | Manufacturing & Process | Phoenix, AZ, United States | Excel, Six Sigma, SPC, Design of Experiments | Aug 13, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319) |
 | American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Sunrise, FL | Manufacturing & Process | Sunrise, FL, United States | Excel, Six Sigma, SPC, Design of Experiments | Aug 13, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012325) |
 | Nexus Engineering Group | Chemical Process Engineering Internship or Co-Op (Summer 2027) | Manufacturing & Process | Cleveland, OH | Excel, Hydraulics | Aug 12, 2026 | [Apply](https://jobs.lever.co/nexuse-group/803bdf77-0351-44ac-a61c-febd0c15f44b) |
@@ -637,9 +637,9 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 American Express | Aug 13 | dropped Aug 13 | ✅ [open now](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319) |
 | 🎯 GlobalFoundries | Aug 14 | dropped Aug 14 | ✅ [open now](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604601) |
 | 🎯 Kraft Heinz | Jul 31 | dropped Jul 31 · closed | 🗓️ dropped |
-| 🎯 Caterpillar Inc. | Aug 17 | dropped Aug 17 · closed | 🗓️ dropped |
 | 🎯 Campbellsoup | Aug 20 | dropped Aug 20 · closed | 🗓️ dropped |
 | 🎯 Verdantas | Aug 25 | dropped Aug 25 · closed | 🗓️ dropped |
+| 🎯 Axon | Aug 26 | dropped Aug 26 · closed | 🗓️ dropped |
 
 _150 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **150** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
@@ -650,7 +650,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
-| Caterpillar Inc. | 2027 Engineering Corporate Internship Program Welding | Summer 2027 | 2026-10-05 | out of scope |
+| Everest | 2027 Everest Design Engineering Internship Program | Summer 2027 | 2026-10-05 | out of scope |
 | Eversource Energy | 2027: Transmission System Planning Co-op | Summer 2027 | 2026-10-05 | out of scope |
 | Eversource Energy | 2027 Co-op: Substation Design Engineering | Summer 2027 | 2026-10-05 | out of scope |
 | Saab | Quality Engineer, Summer 2027 Intern | Summer 2027 | 2026-10-05 | gone from feed |
@@ -708,7 +708,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,425 of 4,967 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 89% of the full registry) · completed in 1039.1s · 549 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,471 of 4,967 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1036.0s · 554 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
