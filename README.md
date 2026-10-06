@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 945 open roles (545 listed below) · 152 new this week
+### 944 open roles (544 listed below) · 151 new this week
 
-4,703 employers tracked · data as of Oct 06, 2026 at 04:42 UTC
+4,703 employers tracked · data as of Oct 06, 2026 at 05:08 UTC
 
-_607 have a cycle the employer stated · 338 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_606 have a cycle the employer stated · 338 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -85,7 +85,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (290 employer-stated)
+## Summer 2027  (289 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -185,7 +185,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | AECOM | Structural Engineering Intern - Networking Event with AECOM – Boston, MA 🛂 | Structures & Materials | Boston, MA, United States (Hybrid) | AutoCAD, Excel | Sep 23, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151381599) |
 | Life Fitness ✓ | Manufacturing Engineering Intern - Ramsey, MN | Manufacturing & Process | Ramsey, MN | Excel | Sep 22, 2026 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Ramsey-MN/Manufacturing-Engineering-Intern---Ramsey--MN_JR-025239) |
 | Charter Manufacturing | Process Engineer Intern (Summer 2027) | Manufacturing & Process | Charter Steel - Cleveland, OH | AutoCAD, Excel | Sep 22, 2026 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Cleveland-OH/Process-Engineer-Intern--Summer-2027-_R08123) |
-| AES | Transmission Engineering Intern - (Summer 2027) | Automotive & Mobility | US, Indianapolis, IN | SolidWorks, Excel | Sep 22, 2026 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Transmission-Engineering-Intern----Summer-2027-_R1064839) |
 | Formlabsinternships | Mechanical Engineering Intern (Summer 2027) | Design & CAD | Somerville, MA | Additive Manufacturing | Sep 21, 2026 | [Apply](https://job-boards.greenhouse.io/formlabsinternships/jobs/8199928) |
 | Avav | Summer 2027 Autonomy & Robotics Engineering Intern | Robotics & Controls | Moorpark, CA | MATLAB, Python, C++, ROS | Sep 21, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551) |
 | Shield AI | Summer 2027 - Mechanical Engineering Intern | Design & CAD | Seattle, Washington | SolidWorks, CATIA | Sep 21, 2026 | [Apply](https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc) |
@@ -657,6 +656,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| AES | Transmission Engineering Intern - (Summer 2027) | Summer 2027 | 2026-10-06 | gone from feed |
 | Eversource Energy | 2027: Transmission System Planning Co-op | Summer 2027 | 2026-10-06 | out of scope |
 | Eversource Energy | 2027 Co-op: Substation Design Engineering | Summer 2027 | 2026-10-06 | out of scope |
 | Northrop Grumman | 2027 Manufacturing Operations and Planning Intern - Huntsville AL | Summer 2027 | 2026-10-05 | out of scope |
@@ -696,7 +696,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Northrop Grumman | 2027 Mechanical Engineer Intern – Woodland Hills CA | Summer 2027 | 2026-09-26 | out of scope |
 | Northrop Grumman | 2027 Mechanical Engineer Intern - Baltimore MD | Summer 2027 | 2026-09-25 | out of scope |
 | SharkNinja | Fall 2026: Product Design Engineering Co-op, Advanced Development (July/August to December) | Fall 2026 | 2026-09-24 | gone from feed |
-| Northrop Grumman | 2027 Mechanical Engineer Intern - San Diego CA | Summer 2027 | 2026-09-24 | out of scope |
 
 </details>
 
@@ -715,7 +714,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,433 of 4,967 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 989.6s · 529 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,444 of 4,967 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 974.7s · 531 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
