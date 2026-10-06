@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-06T17:40:15Z",
- "data_as_of": "2026-10-06T17:40:15Z",
- "rendered_at": "2026-10-06T17:40:16Z",
+ "generated_at": "2026-10-06T18:06:48Z",
+ "data_as_of": "2026-10-06T18:06:48Z",
+ "rendered_at": "2026-10-06T18:06:49Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -1450,25 +1450,6 @@
    }
   },
   {
-   "company": "nVent",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-10",
-   "days_until": -26,
-   "status": "open",
-   "url": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Automaton-Intern--June---August-2027-_R23865",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-10"
-   }
-  },
-  {
    "company": "The Aerospace Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -2552,6 +2533,25 @@
    }
   },
   {
+   "company": "Vantor",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Herndon-VA/Summer-Internship--Aerospace-Modeling---Simulation_R24758",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-06"
+   }
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2833,6 +2833,25 @@
    }
   },
   {
+   "company": "nVent",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": -26,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-10"
+   }
+  },
+  {
    "company": "Merck",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2947,5 +2966,5 @@
    }
   }
  ],
- "count": 155
+ "count": 156
 }
