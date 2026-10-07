@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 979 open roles (560 listed below) · 153 new this week
+### 980 open roles (561 listed below) · 154 new this week
 
-4,717 employers tracked · data as of Oct 07, 2026 at 13:15 UTC
+4,717 employers tracked · data as of Oct 07, 2026 at 13:46 UTC
 
-_622 have a cycle the employer stated · 357 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_623 have a cycle the employer stated · 357 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -85,10 +85,11 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (295 employer-stated)
+## Summer 2027  (296 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| CACI | Manufacturing Engineering Intern - Summer 2027 🆕 | Manufacturing & Process | Danbury, CT, US | No skills listed | Oct 07, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Manufacturing-Engineering-Intern---Summer-2027_333189-1) |
 | ABB ✓ | Manufacturing Continuous Improvement Intern - Summer 2027 🛂 🆕 | Manufacturing & Process | USA, NM, Albuquerque | No skills listed | Oct 06, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Continuous-Improvement-Intern---Summer-2027_JR00048449) |
 | WSP | Transmission Engineering Co-op - Spring/Summer 2027 🆕 | Automotive & Mobility | Mount Laurel, NJ, United States | No skills listed | Oct 06, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95920) |
 | ABB ✓ | Manufacturing Quality Intern - Summer 2027 🛂 🆕 | Manufacturing & Process | USA, NM, Albuquerque | No skills listed | Oct 06, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446) |
@@ -731,7 +732,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,590 of 4,991 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 92% of the full registry) · completed in 941.2s · 618 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,590 of 4,991 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 92% of the full registry) · completed in 1089.0s · 619 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
