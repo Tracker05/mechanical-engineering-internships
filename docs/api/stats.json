@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-07T02:43:03Z",
- "fetched_at": "2026-10-07T02:43:03Z",
- "duration_seconds": 1101.0,
+ "generated_at": "2026-10-07T03:09:58Z",
+ "fetched_at": "2026-10-07T03:09:58Z",
+ "duration_seconds": 1059.2,
  "companies_total": 4987,
  "companies_by_source": {
   "greenhouse": 1114,
@@ -17,24 +17,27 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 402,
- "fetched_ok": 4527,
- "fetch_errors": 58,
+ "quarantined": 391,
+ "fetched_ok": 4522,
+ "fetch_errors": 74,
  "errors_by_source": {
-  "workday": 47,
-  "workable": 11
+  "workday": 70,
+  "rippling": 1,
+  "lever": 1,
+  "greenhouse": 1,
+  "ashby": 1
  },
- "fetch_success_rate": 0.987,
- "fetch_success_rate_registry": 0.908,
- "snapshots_complete": 3961,
+ "fetch_success_rate": 0.984,
+ "fetch_success_rate_registry": 0.907,
+ "snapshots_complete": 3956,
  "snapshots_partial": 566,
  "partial_by_reason": {
-  "result-cap": 558,
-  "malformed-response": 8
+  "result-cap": 559,
+  "malformed-response": 7
  },
- "degraded_fetches": 8,
- "roles_matched": 765,
- "dropped_no_year_in_title": 195,
+ "degraded_fetches": 7,
+ "roles_matched": 740,
+ "dropped_no_year_in_title": 193,
  "dropped_offcycle_by_text": 219,
  "roles_cycle_inferred": 359,
  "roles_by_source": {
@@ -45,19 +48,19 @@
   "oracle": 154,
   "rippling": 5,
   "smartrecruiters": 51,
-  "workday": 591
+  "workday": 590
  },
  "roles_by_cycle": {
-  "Summer 2027": 600,
+  "Summer 2027": 599,
   "Fall 2026": 23,
   "Not stated": 359
  },
  "roles_by_region": {
-  "US": 982
+  "US": 981
  },
  "sponsorship_counts": {
   "unknown": 673,
-  "no-sponsorship": 161,
+  "no-sponsorship": 160,
   "citizens-only": 146,
   "offers": 2
  },
@@ -66,7 +69,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 982,
+ "open_total": 981,
  "detection_latency": {
   "median_minutes": 27.2,
   "p95_minutes": 4497.6,
@@ -78,5 +81,5 @@
   "median_days": 14.0,
   "sample_size": 60
  },
- "rendered_at": "2026-10-07T02:43:03Z"
+ "rendered_at": "2026-10-07T03:09:58Z"
 }
