@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 1007 open roles (570 listed below) · 159 new this week
+### 1008 open roles (570 listed below) · 159 new this week
 
-4,717 employers tracked · data as of Oct 08, 2026 at 04:41 UTC
+4,717 employers tracked · data as of Oct 08, 2026 at 05:10 UTC
 
-_641 have a cycle the employer stated · 366 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_642 have a cycle the employer stated · 366 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -89,13 +89,13 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Northrop Grumman | 2027 Mechanical/Aerospace Engineer Intern - Baltimore MD 🇺🇸 🆕 | Aerospace & Defense | United States-Maryland-Baltimore | No skills listed | Oct 08, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003) |
 | Northrop Grumman | 2027 Manufacturing Engineer Intern - Commerce CA 🇺🇸 🆕 | Manufacturing & Process | United States-California-Commerce | Additive Manufacturing | Oct 07, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136) |
 | Northrop Grumman | 2027 Manufacturing Engineer Intern - San Diego CA 🇺🇸 🆕 | Manufacturing & Process | United States-California-San Diego | Additive Manufacturing | Oct 07, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134) |
 | onsemi | Summer 2027 - Manufacturing Engineering Intern 🆕 | Manufacturing & Process | Hopewell Junction, NY, United States | Python, Excel | Oct 07, 2026 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506639) |
 | RTX | Manufacturing Project Specialist Intern (Summer 2027) 🇺🇸 🆕 | Manufacturing & Process | US-IA-CEDAR RAPIDS-119 ~ 400 Collins Rd… | Excel | Oct 07, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288) |
 | RTX | Military Engines Repair Design Engineer Intern (Summer 2027) (Onsite) 🇺🇸 🆕 | Design & CAD | US-OK-OKLAHOMA CITY-8120SC ~ 8120 S Air Depot Blvd ~ SUSTAINMENT CTR +1 more | No skills listed | Oct 07, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133) |
 | Arc | Mechanical Engineering Intern - Recreational 🆕 | Design & CAD | Torrance, CA | SolidWorks, CATIA, FEA, Machining | Oct 07, 2026 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5445312008) |
-| Northrop Grumman | 2027 Materials Engineer Intern - Sunnyvale CA 🇺🇸 🆕 | Structures & Materials | United States-California-Sunnyvale | No skills listed | Oct 07, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084) |
 | Nissan | Process Engineering Intern - Summer 2027 - Decherd, TN 🛂 🆕 | Manufacturing & Process | Decherd +1 more | No skills listed | Oct 07, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Decherd--TN_R00214742) |
 | Nissan | Raw Materials Engineering Intern - Summer 2027 - Decherd, TN 🛂 🆕 | Structures & Materials | Decherd +1 more | Excel | Oct 07, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290) |
 | Nissan | Process Engineering Intern - Summer 2027 - Smyrna, TN 🛂 🆕 | Manufacturing & Process | Smyrna +1 more | No skills listed | Oct 07, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Smyrna--TN_R00214285) |
@@ -742,7 +742,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,576 of 4,991 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 920.1s · 596 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,503 of 4,991 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1042.3s · 559 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
