@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T13:13:47Z",
-  "fetched_at": "2026-10-08T13:13:47Z",
-  "duration_seconds": 820.2,
+  "generated_at": "2026-10-08T13:47:44Z",
+  "fetched_at": "2026-10-08T13:47:44Z",
+  "duration_seconds": 1105.0,
   "companies_total": 5000,
   "companies_by_source": {
     "greenhouse": 1117,
@@ -17,23 +17,27 @@
     "breezy": 13,
     "eightfold": 1
   },
-  "quarantined": 424,
-  "fetched_ok": 4576,
-  "fetch_errors": 0,
-  "errors_by_source": {},
-  "fetch_success_rate": 1.0,
-  "fetch_success_rate_registry": 0.915,
-  "snapshots_complete": 3975,
-  "snapshots_partial": 601,
-  "partial_by_reason": {
-    "result-cap": 538,
-    "malformed-response": 63
+  "quarantined": 425,
+  "fetched_ok": 4560,
+  "fetch_errors": 15,
+  "errors_by_source": {
+    "workday": 12,
+    "ashby": 1,
+    "workable": 2
   },
-  "degraded_fetches": 63,
-  "roles_matched": 769,
-  "dropped_no_year_in_title": 222,
-  "dropped_offcycle_by_text": 230,
-  "roles_cycle_inferred": 357,
+  "fetch_success_rate": 0.997,
+  "fetch_success_rate_registry": 0.912,
+  "snapshots_complete": 3961,
+  "snapshots_partial": 599,
+  "partial_by_reason": {
+    "result-cap": 529,
+    "malformed-response": 70
+  },
+  "degraded_fetches": 70,
+  "roles_matched": 765,
+  "dropped_no_year_in_title": 215,
+  "dropped_offcycle_by_text": 227,
+  "roles_cycle_inferred": 358,
   "roles_by_source": {
     "amazon": 3,
     "ashby": 23,
@@ -42,28 +46,28 @@
     "oracle": 162,
     "rippling": 5,
     "smartrecruiters": 50,
-    "workday": 602
+    "workday": 603
   },
   "roles_by_cycle": {
     "Summer 2027": 620,
     "Fall 2026": 22,
-    "Not stated": 357
+    "Not stated": 358
   },
   "roles_by_region": {
-    "US": 999
+    "US": 1000
   },
   "sponsorship_counts": {
-    "unknown": 678,
+    "unknown": 679,
     "no-sponsorship": 165,
     "citizens-only": 154,
     "offers": 2
   },
   "posted_date_coverage": 0.995,
-  "enriched_this_run": 52,
-  "enrichment_detail_fetches": 0,
+  "enriched_this_run": 53,
+  "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
-  "new_this_run": 0,
-  "open_total": 999,
+  "new_this_run": 1,
+  "open_total": 1000,
   "detection_latency": {
     "median_minutes": 33.5,
     "p95_minutes": 4497.6,
@@ -75,5 +79,5 @@
     "median_days": 13.0,
     "sample_size": 70
   },
-  "rendered_at": "2026-10-08T13:13:47Z"
+  "rendered_at": "2026-10-08T13:47:44Z"
 }
