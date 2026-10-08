@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 1011 open roles (566 listed below) · 145 new this week
+### 1010 open roles (566 listed below) · 144 new this week
 
-4,725 employers tracked · data as of Oct 08, 2026 at 23:07 UTC
+4,725 employers tracked · data as of Oct 08, 2026 at 23:40 UTC
 
-_652 have a cycle the employer stated · 359 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_652 have a cycle the employer stated · 358 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -619,7 +619,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Brunswick ✓ | Industrial Engineering-Continuous Improvement Intern 🛂 | Manufacturing & Process | Menomonee Falls, WI | Excel, Six Sigma, Lean | Sep 08, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Industrial-Engineering-Intern_JR-051429) |
 | Matic | Robotics Customer Success Intern | Robotics & Controls | Menlo Park, CA | No skills listed | Sep 08, 2026 | [Apply](https://jobs.ashbyhq.com/maticrobots/a0d77cc5-555f-46d8-89b1-e1df201a77dc) |
 | Syska Hennessy Group | Mechanical Engineering Summer Intern | Design & CAD | Los Angeles, CA | AutoCAD, Revit | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8175600) |
-| Syska Hennessy Group | Mechanical Engineering Summer Intern | Design & CAD | San Diego, CA | AutoCAD, Revit | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8177222) |
+| Syska Hennessy Group | Mechanical Engineer Summer Intern | Design & CAD | San Francisco, CA | AutoCAD, Revit | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8177276) |
 | Bosch ✓ | Design Engineer Intern _(2 openings)_ | Design & CAD | Vernon Hills, IL, United States | Creo, CFD | Sep 08, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148250710) [#2](https://jobs.smartrecruiters.com/BoschGroup/744000148252267) |
 | Bosch ✓ | Test Engineer Intern | Test & Quality | Vernon Hills, IL, United States | PLC, Hydraulics, Metrology | Sep 08, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148253129) |
 | The Boeing Company ✓ | Boeing Engineering & Technology Innovation, Graduate Researcher Program –  Computational Fluid Dynamics Intern 🇺🇸 | Thermal & Fluids | USA - Huntington Beach, CA | CFD, C++ | Sep 08, 2026 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774) |
@@ -738,7 +738,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,518 of 5,000 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 890.0s · 557 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,438 of 5,000 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 88% of the full registry) · completed in 995.1s · 531 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
