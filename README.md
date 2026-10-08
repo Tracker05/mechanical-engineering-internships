@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 1006 open roles (565 listed below) · 139 new this week
+### 1008 open roles (567 listed below) · 141 new this week
 
-4,725 employers tracked · data as of Oct 08, 2026 at 19:43 UTC
+4,725 employers tracked · data as of Oct 08, 2026 at 20:08 UTC
 
-_648 have a cycle the employer stated · 358 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_648 have a cycle the employer stated · 360 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -114,8 +114,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | S&C Electric Company ✓ | Manufacturing Engineer Intern 🆕 | Manufacturing & Process | Chicago, IL, United States | SolidWorks, AutoCAD, Excel, Lean | Oct 07, 2026 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107366) |
 | CACI | Manufacturing Engineering Intern - Summer 2027 🆕 | Manufacturing & Process | Danbury, CT, US | No skills listed | Oct 07, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Manufacturing-Engineering-Intern---Summer-2027_333189-1) |
 | ABB ✓ | Manufacturing Continuous Improvement Intern - Summer 2027 🛂 🆕 | Manufacturing & Process | USA, NM, Albuquerque | No skills listed | Oct 06, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Continuous-Improvement-Intern---Summer-2027_JR00048449) |
-| WSP | Transmission Engineering Co-op - Spring/Summer 2027 🆕 | Automotive & Mobility | Mount Laurel, NJ, United States | No skills listed | Oct 06, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95920) |
-| ABB ✓ | Manufacturing Quality Intern - Summer 2027 🛂 🆕 | Manufacturing & Process | USA, NM, Albuquerque | No skills listed | Oct 06, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446) |
+| WSP | Transmission Engineering Co-op - Spring/Summer 2027 | Automotive & Mobility | Mount Laurel, NJ, United States | No skills listed | Oct 06, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95920) |
+| ABB ✓ | Manufacturing Quality Intern - Summer 2027 🛂 | Manufacturing & Process | USA, NM, Albuquerque | No skills listed | Oct 06, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446) |
 | Clean Harbors | Mechanical Engineer Intern - Summer 2027 | Design & CAD | La Porte, TX, United States | No skills listed | Oct 06, 2026 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166786) |
 | Vantor | Summer Internship: Aerospace Modeling & Simulation 🇺🇸 | Aerospace & Defense | Herndon, VA | CFD, MATLAB, Python, Excel | Oct 06, 2026 | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Herndon-VA/Summer-Internship--Aerospace-Modeling---Simulation_R24758) |
 | Oshkosh | Engineer Intern - Mechanical (Summer 2027) | Design & CAD | Appleton, Wisconsin, United States | CATIA, PLM/PDM | Oct 06, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49741) |
@@ -473,8 +473,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | KLA ✓ | Mechatronics Engineering Internship | Robotics & Controls | Milpitas, CA | MATLAB, Metrology | Sep 30, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1) |
 | Monolithic Power Systems ✓ | CAD intern | Design & CAD | San Jose, CA | No skills listed | Sep 30, 2026 | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/CAD-intern_R-2029) |
 | Bose ✓ | Associate Customer Quality Engineer Co-op | Test & Quality | US, MI - Bloomfield Hills | No skills listed | Sep 30, 2026 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Associate-Customer-Quality-Engineer-Co-op_R29223) |
-| Wabtec | Mechanical Engineer Intern - New Product Development | Design & CAD | Oak Creek, WI, United States | Creo | Sep 30, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015802516) |
-| Wabtec | Mechanical Engineer Intern - Production Operations | Design & CAD | Oak Creek, WI, United States | Creo | Sep 30, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015802856) |
+| Wabtec | Mechanical Engineer Intern - New Product Development 🆕 _(2 openings)_ | Design & CAD | Oak Creek, WI, United States | Creo | Sep 30, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015802516) [#2](https://jobs.smartrecruiters.com/Wabtec/3743990016001927) |
+| Wabtec | Mechanical Engineer Intern - Production Operations 🆕 _(2 openings)_ | Design & CAD | Oak Creek, WI, United States | Creo | Sep 30, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015802856) [#2](https://jobs.smartrecruiters.com/Wabtec/3743990016001786) |
 | RTX | Manufacturing Engineer Intern - 1st shift - On site - Aeroestructuras | Manufacturing & Process | MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238 +1 more | CATIA, Additive Manufacturing | Sep 30, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Manufacturing-Engineer-Intern---1st-shift---On-site---Aeroestructuras_01872645) |
 | Gilead Sciences ✓ | Intern - Research - Medicinal Chemistry/ Structural Biology & Chemistry - AI 🛂 _(3 openings)_ | Structures & Materials | United States - California - Foster City | Python, Excel | Sep 29, 2026 | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055565) [#2](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055566) [#3](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055567) |
 | Avav | Production Engineering Intern 🇺🇸 | Manufacturing & Process | Simi Valley, CA | SolidWorks, Creo, Six Sigma, FMEA | Sep 29, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Production-Engineering-Intern_8887) |
@@ -737,7 +737,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,485 of 5,000 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 1027.2s · 543 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,469 of 5,000 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 943.3s · 540 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
