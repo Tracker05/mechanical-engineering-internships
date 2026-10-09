@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 997 open roles (564 listed below) · 142 new this week
+### 996 open roles (564 listed below) · 141 new this week
 
-4,730 employers tracked · data as of Oct 09, 2026 at 13:12 UTC
+4,730 employers tracked · data as of Oct 09, 2026 at 13:45 UTC
 
-_652 have a cycle the employer stated · 345 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_651 have a cycle the employer stated · 345 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -330,7 +330,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Barr | Internship – Mechanical Engineer (Hybrid) 🛂 | Design & CAD | Minneapolis, MN | SolidWorks, AutoCAD, Excel | Sep 04, 2026 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Mechanical-Engineer--Hybrid-_R-102306) |
 | Applied Materials ✓ | Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX) | Design & CAD | Austin,TX | GD&T, Python, DFM, Teamcenter | Sep 04, 2026 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093) |
 | Applied Materials ✓ | Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA) | Manufacturing & Process | Santa Clara,CA | Python, Excel | Sep 04, 2026 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710) |
-| Duke Energy | Vehicle Maintenance Technician Internship - 2027 | Automotive & Mobility | Florence, SC | Hydraulics | Sep 04, 2026 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Florence-SC/Vehicle-Maintenance-Technician-Internship---2027_R41190) |
 | Elanco | Manufacturing Scientist/Quality Control Chemist Intern – Fort Dodge, Iowa (Summer 2027) | Manufacturing & Process | Fort Dodge, IA | No skills listed | Sep 04, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027070) |
 | Elanco | Manufacturing Scientist/Technical Services Intern – Fort Dodge, Iowa (Summer 2027) | Manufacturing & Process | Fort Dodge, IA | No skills listed | Sep 04, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Manufacturing-Scientist-Technical-Services-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027069-1) |
 | HNTB ✓ | Intern Electrical and Mechanical/Fire Protection Engineering (Summer 2027) 🛂 | Design & CAD | Bellevue, WA (Seattle) | AutoCAD, Revit | Sep 04, 2026 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Bellevue-WA-Seattle/Intern-Electrical-and-Mechanical-Fire-Protection-Engineering--Summer-2027-_R-31482-1) |
@@ -389,6 +388,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Sunrise, FL | Manufacturing & Process | Sunrise, FL, United States | Excel, Six Sigma, SPC, Design of Experiments | Aug 13, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012325) |
 | Nexus Engineering Group | Chemical Process Engineering Internship or Co-Op (Summer 2027) | Manufacturing & Process | Cleveland, OH | Excel, Hydraulics | Aug 12, 2026 | [Apply](https://jobs.lever.co/nexuse-group/803bdf77-0351-44ac-a61c-febd0c15f44b) |
 | Nexus Engineering Group | Piping Internship or Co-Op (Summer 2027) | Thermal & Fluids | Maumee, OH | Inventor, AutoCAD, Excel | Aug 05, 2026 | [Apply](https://jobs.lever.co/nexuse-group/1c99ce4b-dfc4-423d-af93-ef73557baf4d) |
+| Nexus Engineering Group | Civil/Structural Engineer Internship or Co-Op (Summer 2027) | Structures & Materials | Maumee, OH | AutoCAD, Revit, FEA, Excel | Aug 05, 2026 | [Apply](https://jobs.lever.co/nexuse-group/a284c926-1072-4dff-9e62-c07365503224) |
 
 ## Fall 2026  (23 employer-stated)
 
@@ -678,6 +678,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Duke Energy | Vehicle Maintenance Technician Internship - 2027 | Summer 2027 | 2026-10-09 | out of scope |
 | Philips | Co-op-Manufacturing Engineering-Reedsville, PA, July - December 2027 | Summer 2027 | 2026-10-09 | out of scope |
 | The Aerospace Corporation | 2027 Flight Loads Structural Dynamics Undergraduate Intern | Summer 2027 | 2026-10-09 | out of scope |
 | Olsson | Mechanical Engineering Internship - Industrial Facilities | Summer 2027 | 2026-10-08 | gone from feed |
@@ -717,7 +718,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Northrop Grumman | 2027 Test Engineering Intern - VSFB CA | Summer 2027 | 2026-10-01 | out of scope |
 | Northrop Grumman | 2027 Mechanical Engineering Intern - Clearfield UT | Summer 2027 | 2026-10-01 | out of scope |
 | Chamberlain Group | Manufacturing Process Documentation Intern (Summer 2027) | Summer 2027 | 2026-09-30 | gone from feed |
-| MetOx International | Process Engineering Co-Op/Intern (Spring/Summer 2027) | Summer 2027 | 2026-09-30 | gone from feed |
 
 </details>
 
@@ -736,7 +736,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,572 of 5,005 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 854.5s · 593 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,537 of 5,005 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1015.9s · 575 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
