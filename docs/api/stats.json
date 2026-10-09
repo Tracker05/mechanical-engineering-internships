@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-09T23:08:36Z",
- "fetched_at": "2026-10-09T23:08:36Z",
- "duration_seconds": 977.1,
+ "generated_at": "2026-10-09T23:40:12Z",
+ "fetched_at": "2026-10-09T23:40:12Z",
+ "duration_seconds": 1018.0,
  "companies_total": 5005,
  "companies_by_source": {
   "greenhouse": 1118,
@@ -17,26 +17,27 @@
   "breezy": 14,
   "eightfold": 1
  },
- "quarantined": 449,
- "fetched_ok": 4491,
- "fetch_errors": 65,
+ "quarantined": 434,
+ "fetched_ok": 4484,
+ "fetch_errors": 87,
  "errors_by_source": {
-  "workday": 64,
-  "rippling": 1
+  "workday": 84,
+  "rippling": 1,
+  "workable": 2
  },
- "fetch_success_rate": 0.986,
- "fetch_success_rate_registry": 0.897,
- "snapshots_complete": 3939,
- "snapshots_partial": 552,
+ "fetch_success_rate": 0.981,
+ "fetch_success_rate_registry": 0.896,
+ "snapshots_complete": 3931,
+ "snapshots_partial": 553,
  "partial_by_reason": {
-  "result-cap": 539,
+  "result-cap": 540,
   "malformed-response": 13
  },
  "degraded_fetches": 13,
- "roles_matched": 715,
+ "roles_matched": 712,
  "dropped_no_year_in_title": 228,
- "dropped_offcycle_by_text": 220,
- "roles_cycle_inferred": 351,
+ "dropped_offcycle_by_text": 221,
+ "roles_cycle_inferred": 350,
  "roles_by_source": {
   "amazon": 3,
   "ashby": 23,
@@ -45,18 +46,18 @@
   "oracle": 163,
   "rippling": 4,
   "smartrecruiters": 50,
-  "workday": 607
+  "workday": 606
  },
  "roles_by_cycle": {
   "Summer 2027": 633,
   "Fall 2026": 22,
-  "Not stated": 351
+  "Not stated": 350
  },
  "roles_by_region": {
-  "US": 1006
+  "US": 1005
  },
  "sponsorship_counts": {
-  "unknown": 685,
+  "unknown": 684,
   "no-sponsorship": 164,
   "citizens-only": 155,
   "offers": 2
@@ -66,7 +67,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 1006,
+ "open_total": 1005,
  "detection_latency": {
   "median_minutes": 33.4,
   "p95_minutes": 60.2,
@@ -78,5 +79,5 @@
   "median_days": 13,
   "sample_size": 79
  },
- "rendered_at": "2026-10-09T23:08:36Z"
+ "rendered_at": "2026-10-09T23:40:12Z"
 }
