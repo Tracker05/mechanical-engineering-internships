@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 1002 open roles (566 listed below) · 142 new this week
+### 1003 open roles (566 listed below) · 144 new this week
 
-4,730 employers tracked · data as of Oct 09, 2026 at 18:08 UTC
+4,730 employers tracked · data as of Oct 09, 2026 at 18:44 UTC
 
-_653 have a cycle the employer stated · 349 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_655 have a cycle the employer stated · 348 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -89,8 +89,9 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Applied Materials ✓ | 2027 Summer Intern - Process Engineer - BS/MS Degree (Santa Clara, CA) 🆕 | Manufacturing & Process | Santa Clara,CA | No skills listed | Oct 09, 2026 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---BS-MS-Degree--Santa-Clara--CA-_R2629424) |
+| Applied Materials ✓ | 2027 Summer Intern - Mechanical Engineer - BS/MS Degree, (Santa Clara) 🆕 | Design & CAD | Santa Clara,CA | No skills listed | Oct 09, 2026 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---BS-MS-Degree---Santa-Clara-_R2629426) |
 | Applied Materials ✓ | Summer 2027 Industrial Engineer Intern- Master's (Santa Clara, CA) 🆕 | Manufacturing & Process | Santa Clara,CA | Python, Excel, Six Sigma | Oct 09, 2026 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineer-Intern--Master-s--Santa-Clara--CA-_R2630072) |
-| Applied Materials ✓ | 2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA) 🆕 | Design & CAD | Gloucester,MA | Creo, ANSYS | Oct 09, 2026 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657) |
 | Stantec | Acoustics Intern (Summer 2027) 🆕 | Structures & Materials | Chicago, IL, United States | MATLAB, Python | Oct 09, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008256) |
 | SharkNinja | Summer 2027: Mechanical Engineering Intern, Shark (May to August) 🆕 | Design & CAD | Needham, MA, United States | SolidWorks, Creo, Python, Additive Manufacturing | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006) |
 | Ingredion | Process Engineering Intern (Summer 2027) - Cedar Rapids, IA 🆕 | Manufacturing & Process | Cedar Rapids, IA | Excel, Machining | Oct 08, 2026 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Cedar-Rapids-IA/Process-Engineering-Intern--Summer-2027----Cedar-Rapids--IA_Req-40429-1) |
@@ -318,7 +319,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Sensata | Mechanical Engineer Intern (Dynapower) - Summer 2027 | Design & CAD | Dynapower South Burlington, VT | No skills listed | Sep 08, 2026 | [Apply](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334) |
 | Stryker ✓ | Summer 2027 Internship R&D engineer - Columbia City, IN | General Engineering | Columbia City, Indiana | FEA, Excel | Sep 08, 2026 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Columbia-City-Indiana/Summer-2027-Internship-R-D-engineer---Columbia-City--IN_R572950) |
 | Watts Water | Production Engineer Intern, Summer 2027 | Manufacturing & Process | Blauvelt, NY | Excel | Sep 08, 2026 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Blauvelt-NY/Production-Engineer-Intern--Summer-2027_10017356) |
-| Applied Materials ✓ | 2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX) | Manufacturing & Process | Austin,TX | No skills listed | Sep 07, 2026 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242) |
 | Allegion | Summer Intern - Robotics Technician | Robotics & Controls | Indianapolis, IN - Tobey Dr | PLC, SPC | Sep 07, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Robotics-Technician_JR37367-1) |
 | Xcel Energy | Transmission Line Engineering Intern - TX | Automotive & Mobility | Amarillo, TX, 79101 | No skills listed | Sep 07, 2026 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Transmission-Line-Engineering-Intern---TX_JR115637-1) |
 | Xcel Energy | Transmission Engineering Services Intern- CO | Automotive & Mobility | Denver, CO, 80205 | Excel | Sep 07, 2026 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Transmission-Engineering-Services-Intern--CO_JR115576-1) |
@@ -639,9 +639,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Intuitive Surgical ✓ | Mechanical Engineering Intern | Design & CAD | Sunnyvale, CA, United States | SolidWorks, MATLAB, Python, Machining | Sep 02, 2026 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000147091674) |
 | Niagara Bottling ✓ | Manufacturing Intern - Stockton 3 | Manufacturing & Process | Stockton - Stockton, CA | No skills listed | Sep 02, 2026 | [Apply](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Stockton---Stockton-CA/Manufacturing-Intern---Stockton-3_R56070) |
 | IEX | Systems Reliability Engineer Intern | Test & Quality | New York | Python, Git | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/iex-interns/jobs/8171333) |
-| Olsson | Structural Engineering Internship - Facilities | Structures & Materials | Omaha, NE | Revit, Excel | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5394118008) |
 | Olsson | Mechanical Engineering Internship - Healthcare Facilities | Design & CAD | Dallas, TX; Fort Worth, TX | AutoCAD, Revit, Excel | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5394239008) |
 | Olsson | Mechanical Engineering Internship - Healthcare Facilities | Design & CAD | Omaha, NE | AutoCAD, Revit, Excel | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5394243008) |
+| Olsson | Mechanical Engineering Internship - Facilities | Design & CAD | Oklahoma City, OK | AutoCAD, Revit, Excel | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5394246008) |
 | Emerson Electric | Design Engineering Co-Op | Design & CAD | Marshalltown, IA, United States | No skills listed | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008754) |
 | Emerson Electric | Materials Engineer Co-Op | Structures & Materials | Marshalltown, IA, United States | Welding | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008778) |
 | Katalyst Space Technologies | Engineering Intern (Electrical / Mechanical / GNC / Software) | Design & CAD | Broomfield, Colorado, United States | GD&T, MATLAB, Simulink, Python | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
@@ -738,7 +738,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,555 of 5,005 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 924.8s · 593 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,522 of 5,005 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 1052.0s · 572 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
