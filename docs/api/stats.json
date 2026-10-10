@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-10T09:40:07Z",
- "fetched_at": "2026-10-10T09:40:07Z",
- "duration_seconds": 982.5,
+ "generated_at": "2026-10-10T10:07:17Z",
+ "fetched_at": "2026-10-10T10:07:17Z",
+ "duration_seconds": 961.4,
  "companies_total": 5016,
  "companies_by_source": {
   "greenhouse": 1120,
@@ -17,25 +17,24 @@
   "breezy": 14,
   "eightfold": 1
  },
- "quarantined": 415,
- "fetched_ok": 4544,
- "fetch_errors": 57,
+ "quarantined": 419,
+ "fetched_ok": 4596,
+ "fetch_errors": 1,
  "errors_by_source": {
-  "workday": 56,
   "workable": 1
  },
- "fetch_success_rate": 0.988,
- "fetch_success_rate_registry": 0.906,
- "snapshots_complete": 3968,
- "snapshots_partial": 576,
+ "fetch_success_rate": 1.0,
+ "fetch_success_rate_registry": 0.916,
+ "snapshots_complete": 4000,
+ "snapshots_partial": 596,
  "partial_by_reason": {
-  "result-cap": 573,
-  "malformed-response": 3
+  "result-cap": 592,
+  "malformed-response": 4
  },
- "degraded_fetches": 3,
- "roles_matched": 706,
- "dropped_no_year_in_title": 290,
- "dropped_offcycle_by_text": 228,
+ "degraded_fetches": 4,
+ "roles_matched": 714,
+ "dropped_no_year_in_title": 298,
+ "dropped_offcycle_by_text": 232,
  "roles_cycle_inferred": 334,
  "roles_by_source": {
   "amazon": 3,
@@ -45,18 +44,18 @@
   "oracle": 163,
   "rippling": 4,
   "smartrecruiters": 50,
-  "workday": 585
+  "workday": 586
  },
  "roles_by_cycle": {
-  "Summer 2027": 628,
+  "Summer 2027": 629,
   "Fall 2026": 22,
   "Not stated": 334
  },
  "roles_by_region": {
-  "US": 984
+  "US": 985
  },
  "sponsorship_counts": {
-  "unknown": 666,
+  "unknown": 667,
   "no-sponsorship": 165,
   "citizens-only": 151,
   "offers": 2
@@ -66,7 +65,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 984,
+ "open_total": 985,
  "detection_latency": {
   "median_minutes": 31.5,
   "p95_minutes": 151.6,
@@ -78,5 +77,5 @@
   "median_days": 14,
   "sample_size": 81
  },
- "rendered_at": "2026-10-10T09:40:08Z"
+ "rendered_at": "2026-10-10T10:07:17Z"
 }
