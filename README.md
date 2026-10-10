@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 986 open roles (558 listed below) · 132 new this week
+### 983 open roles (555 listed below) · 130 new this week
 
-4,730 employers tracked · data as of Oct 10, 2026 at 08:08 UTC
+4,730 employers tracked · data as of Oct 10, 2026 at 08:42 UTC
 
-_651 have a cycle the employer stated · 335 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_649 have a cycle the employer stated · 334 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -390,13 +390,11 @@ If it helps you, a star means a lot and tells me to keep going.
 | Nexus Engineering Group | Piping Internship or Co-Op (Summer 2027) | Thermal & Fluids | Maumee, OH | Inventor, AutoCAD, Excel | Aug 05, 2026 | [Apply](https://jobs.lever.co/nexuse-group/1c99ce4b-dfc4-423d-af93-ef73557baf4d) |
 | Nexus Engineering Group | Civil/Structural Engineer Internship or Co-Op (Summer 2027) | Structures & Materials | Maumee, OH | AutoCAD, Revit, FEA, Excel | Aug 05, 2026 | [Apply](https://jobs.lever.co/nexuse-group/a284c926-1072-4dff-9e62-c07365503224) |
 
-## Fall 2026  (22 employer-stated)
+## Fall 2026  (20 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Sierra Nevada Corporation | Aerospace Engineer I (For 2026 Interns Only) 🇺🇸 | Aerospace & Defense | Lone Tree, CO | STAR-CCM+, FEA, CFD | Oct 06, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Aerospace-Engineer-I--For-2026-Interns-Only-_R0030592) |
 | Amgen ✓ | Undergrad Co-op – Interactive Developer / Immersive Course Programmer for Manufacturing | Manufacturing & Process | US - Puerto Rico - Juncos | C++ | Oct 06, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886) |
-| Sierra Nevada Corporation | Mechanical Engineer I (For 2026 Interns Only) 🇺🇸 | Design & CAD | Colorado Springs, CO | GD&T, ASME Y14.5 | Oct 05, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590) |
 | RoboForce | Robotics Mechanical Engineering Intern (Fall/Winter 2026) | Robotics & Controls | Milpitas, CA | SolidWorks, Fusion 360, GD&T, Tolerance Analysis | Oct 01, 2026 | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5441463008) |
 | S&C Electric Company ✓ | Test Equipment & Maintenance Engineer Intern- Franklin, WI | Manufacturing & Process | Franklin, WI, United States | Excel | Sep 29, 2026 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107296) |
 | S&C Electric Company ✓ | Manufacturing Engineer Intern- Palatine | Manufacturing & Process | Palatine, IL, United States | No skills listed | Sep 29, 2026 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107298) |
@@ -417,7 +415,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Mill | Product Design Engineering Intern, Fall/Winter 2026 🛂 | Design & CAD | San Bruno, California | FEA, DFM | Mar 17, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4674154005) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Robotics & Controls | Westboro, Massachusetts, USA | No skills listed | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
-## Recently posted — cycle not stated  (216 roles)
+## Recently posted — cycle not stated  (215 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -609,7 +607,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | AECOM | Structural Engineering Intern 🇺🇸 | Structures & Materials | Pittsburgh, PA, United States (Hybrid) | AutoCAD | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148614879) |
 | Smiths Detection Group | Mechanical Engineering Co-Op | Design & CAD | Morton Grove, IL, United States | SolidWorks, Creo, Solid Edge, GD&T | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000148498329) |
 | Teledyne | Mechanical Engineering Intern 🇺🇸 | Design & CAD | US - Miamisburg, OH | SolidWorks, Machining | Sep 09, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) |
-| Hypertherm | Mechanical Engineering Winter/Spring Co-Op - Central Engineering (WA) | Design & CAD | Kent, WA | SolidWorks, Excel, PLM/PDM | Sep 09, 2026 | [Apply](https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Kent-WA/Mechanical-Engineering-Winter-Spring-Internship-or-Co-Op---Central-Engineering--WA-_R4061) |
 | Astera Labs ✓ | Digital Design Engineering Intern | Design & CAD | San Jose, CA | Python, C++, Git | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731407005) |
 | Astera Labs ✓ | Platform Solutions Engineer Intern (MechE) | General Engineering | Cary, NC | GD&T, Tolerance Analysis, FEA, CFD | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731588005) |
 | Brunswick ✓ | Industrial Engineering-Continuous Improvement Intern 🛂 | Manufacturing & Process | Menomonee Falls, WI | Excel, Six Sigma, Lean | Sep 08, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Industrial-Engineering-Intern_JR-051429) |
@@ -672,6 +669,8 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Sierra Nevada Corporation | Mechanical Engineer I (For 2026 Interns Only) | Fall 2026 | 2026-10-10 | out of scope |
+| Sierra Nevada Corporation | Aerospace Engineer I (For 2026 Interns Only) | Fall 2026 | 2026-10-10 | out of scope |
 | Ingredion | Mechanical Engineer Co-op 2027 (January - August) | Summer 2027 | 2026-10-10 | out of scope |
 | Ingredion | Process Engineer Co-op 2027 (May-Dec) | Summer 2027 | 2026-10-10 | out of scope |
 | Northrop Grumman | 2027 Materials Engineer Intern - Sunnyvale CA | Summer 2027 | 2026-10-10 | out of scope |
@@ -710,8 +709,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Kraft Heinz | 2027 US Manufacturing Internship Program – Manufacturing Facility Winchester, Virginia | Summer 2027 | 2026-10-02 | out of scope |
 | Northrop Grumman | 2027 Hardware Mechanical Engineer Intern - Rolling Meadows IL | Summer 2027 | 2026-10-02 | out of scope |
 | Saab | Manufacturing Engineer (Summer Intern 2027) | Summer 2027 | 2026-10-02 | gone from feed |
-| AES | Intern- Transmission Engineering Services - (Summer 2027) | Summer 2027 | 2026-10-01 | gone from feed |
-| Saab | Mechanical Engineering Co-Op (Summer 2027) | Summer 2027 | 2026-10-01 | gone from feed |
 
 </details>
 
@@ -730,7 +727,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,539 of 5,005 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1047.7s · 574 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,514 of 5,005 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1064.3s · 570 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
