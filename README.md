@@ -8,7 +8,7 @@
 
 ### 985 open roles (557 listed below) · 134 new this week
 
-4,739 employers tracked · data as of Oct 10, 2026 at 15:39 UTC
+4,739 employers tracked · data as of Oct 10, 2026 at 16:06 UTC
 
 _650 have a cycle the employer stated · 335 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -103,7 +103,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Sierra Space | Summer 2027 Mechanical Engineer Intern 🇺🇸 🆕 | Design & CAD | Madison, WI | MATLAB | Oct 08, 2026 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Mechanical-Engineer-Intern_R26410) |
 | The Toro Company | Manufacturing Engineer Intern - The Toro Company 🛂 🆕 | Manufacturing & Process | Windom, MN | Excel | Oct 08, 2026 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578) |
 | General Motors ✓ | 2027 Summer Intern, Fleet Reliability & Test Engineering, ASD 🆕 | Test & Quality | Milford +2 more | MATLAB, Simulink, Python | Oct 08, 2026 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071) |
-| Northrop Grumman | 2027 - Mechanical Engineer Intern -McClellan CA 🇺🇸 🆕 | Design & CAD | United States-California-McClellan | SolidWorks, ANSYS, FEA, MATLAB | Oct 08, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111) |
+| Northrop Grumman | 2027 - Mechanical Engineer Intern -McClellan CA 🇺🇸 | Design & CAD | United States-California-McClellan | SolidWorks, ANSYS, FEA, MATLAB | Oct 08, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111) |
 | Nissan | Manufacturing Digital Data Intern - Summer 2027 - Decherd, TN 🛂 | Manufacturing & Process | Decherd +1 more | No skills listed | Oct 08, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881) |
 | Nissan | Trim & Chassis Manufacturing Engineering Intern - Summer 2027 - Canton, MS 🛂 | Automotive & Mobility | Canton +1 more | No skills listed | Oct 08, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Trim---Chassis-Manufacturing-Engineering-Intern---Summer-2027---Canton--MS_R00214255) |
 | Rugged Robotics | Mechanical Engineering Intern/Co-op (Spring or Summer 2027) | Design & CAD | Houston, TX | SolidWorks, GD&T, CNC, Machining | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005) |
@@ -429,7 +429,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Bosch ✓ | Manufacturing Engineering Intern 🆕 | Manufacturing & Process | Grand Rapids, MI, United States | No skills listed | Oct 09, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154762134) |
 | Syska Hennessy Group | Mechanical Engineer Summer Intern 🆕 | Design & CAD | Tampa, FL | AutoCAD, Revit | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8267628) |
 | Jabil ✓ | Metrology & Quality Technician - Internship / Co-op 🆕 | Test & Quality | Clinton, MA | Metrology, CMM | Oct 09, 2026 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577) |
-| KLA ✓ | Mechanical Engineering Intern 🆕 | Design & CAD | Ann Arbor, MI | Creo, ANSYS, Metrology | Oct 09, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-2) |
+| KLA ✓ | Mechanical Engineering Intern 🆕 | Design & CAD | Ann Arbor, MI | Creo, ANSYS, Metrology | Oct 09, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-1) |
 | Gorbel | Manufacturing Engineer Co-Op 🆕 | Manufacturing & Process | USA, New York, Victor | SolidWorks, AutoCAD, Excel, Lean | Oct 09, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2326-1) |
 | Aptiv ✓ | Manufacturing Engineering Intern – Metal Technology 🆕 | Manufacturing & Process | Warren, OH - USA | SolidWorks, Siemens NX, AutoCAD | Oct 09, 2026 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863) |
 | Avav | Quality Engineer Intern 🆕 | Test & Quality | Petaluma, CA | SolidWorks, Excel | Oct 08, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Petaluma-CA/Quality-Engineer-Intern_9073) |
@@ -483,7 +483,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Base Power | Mechanical Engineering Intern | Design & CAD | Austin, TX | SolidWorks, Fusion 360 | Sep 30, 2026 | [Apply](https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f) |
 | Jones Lang LaSalle (JLL) | HVAC Technician Intern 🛂 | Thermal & Fluids | Berkeley, MO | No skills listed | Sep 30, 2026 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Berkeley-MO/HVAC-Technician-Intern_REQ524659) |
 | Jones Lang LaSalle (JLL) | HVAC Technician Intern 🛂 | Thermal & Fluids | North Charleston, SC | No skills listed | Sep 30, 2026 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/North-Charleston-SC/HVAC-Technician-Intern_REQ524635) |
-| KLA ✓ | Mechatronics/Systems Engineering Internship | Robotics & Controls | Milpitas, CA | Metrology | Sep 30, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1) |
+| KLA ✓ | Mechatronics/Systems Engineering Internship | Robotics & Controls | Milpitas, CA | Metrology | Sep 30, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532) |
 | Monolithic Power Systems ✓ | CAD intern | Design & CAD | San Jose, CA | No skills listed | Sep 30, 2026 | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/CAD-intern_R-2029) |
 | Bose ✓ | Associate Customer Quality Engineer Co-op | Test & Quality | US, MI - Bloomfield Hills | No skills listed | Sep 30, 2026 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Associate-Customer-Quality-Engineer-Co-op_R29223) |
 | RTX | Manufacturing Engineer Intern - 1st shift - On site - Aeroestructuras | Manufacturing & Process | MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238 +1 more | CATIA, Additive Manufacturing | Sep 30, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Manufacturing-Engineer-Intern---1st-shift---On-site---Aeroestructuras_01872645) |
@@ -729,7 +729,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,543 of 5,016 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 974.2s · 577 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,533 of 5,016 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 939.3s · 573 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
