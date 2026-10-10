@@ -8,7 +8,7 @@
 
 ### 985 open roles (557 listed below) · 134 new this week
 
-4,739 employers tracked · data as of Oct 10, 2026 at 16:06 UTC
+4,739 employers tracked · data as of Oct 10, 2026 at 16:39 UTC
 
 _650 have a cycle the employer stated · 335 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -429,7 +429,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Bosch ✓ | Manufacturing Engineering Intern 🆕 | Manufacturing & Process | Grand Rapids, MI, United States | No skills listed | Oct 09, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154762134) |
 | Syska Hennessy Group | Mechanical Engineer Summer Intern 🆕 | Design & CAD | Tampa, FL | AutoCAD, Revit | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8267628) |
 | Jabil ✓ | Metrology & Quality Technician - Internship / Co-op 🆕 | Test & Quality | Clinton, MA | Metrology, CMM | Oct 09, 2026 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577) |
-| KLA ✓ | Mechanical Engineering Intern 🆕 | Design & CAD | Ann Arbor, MI | Creo, ANSYS, Metrology | Oct 09, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-1) |
+| KLA ✓ | Mechanical Engineering Intern 🆕 | Design & CAD | Ann Arbor, MI | Creo, ANSYS, Metrology | Oct 09, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-2) |
 | Gorbel | Manufacturing Engineer Co-Op 🆕 | Manufacturing & Process | USA, New York, Victor | SolidWorks, AutoCAD, Excel, Lean | Oct 09, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2326-1) |
 | Aptiv ✓ | Manufacturing Engineering Intern – Metal Technology 🆕 | Manufacturing & Process | Warren, OH - USA | SolidWorks, Siemens NX, AutoCAD | Oct 09, 2026 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863) |
 | Avav | Quality Engineer Intern 🆕 | Test & Quality | Petaluma, CA | SolidWorks, Excel | Oct 08, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Petaluma-CA/Quality-Engineer-Intern_9073) |
@@ -437,7 +437,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Hewlett Packard Enterprise ✓ | Thermal Engineering Intern 🆕 | Thermal & Fluids | Sunnyvale +2 more | LabVIEW | Oct 08, 2026 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190) |
 | Wabtec | Mechanical Engineer Intern - Production Operations 🆕 | Design & CAD | Oak Creek, WI, United States | Creo | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016001786) |
 | Wabtec | Mechanical Engineer Intern - New Product Development 🆕 | Design & CAD | Oak Creek, WI, United States | Creo | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016001927) |
-| Syska Hennessy Group | Mechanical Engineering Summer Intern 🆕 | Design & CAD | Hamilton, NJ | AutoCAD, Revit | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8177728) |
+| Syska Hennessy Group | Mechanical Engineering Summer Intern | Design & CAD | Hamilton, NJ | AutoCAD, Revit | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8177728) |
 | Marmon Holdings | PROCESS ENGINEER INTERN | Manufacturing & Process | Goldsboro, NC | Excel, Lean | Oct 08, 2026 | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Goldsboro-NC/PROCESS-ENGINEER-INTERN_JR0000046275-1) |
 | Aptiv ✓ | Mechanical Engineering Intern - Tooling | Manufacturing & Process | Warren, OH - USA | Siemens NX, Injection Molding | Oct 08, 2026 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864) |
 | Avav | Mechanical Engineering Intern 🆕 | Design & CAD | Petaluma, CA | SolidWorks, GD&T, ANSYS, Additive Manufacturing | Oct 07, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Petaluma-CA/Mechanical-Engineering-Intern_9038) |
@@ -483,7 +483,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Base Power | Mechanical Engineering Intern | Design & CAD | Austin, TX | SolidWorks, Fusion 360 | Sep 30, 2026 | [Apply](https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f) |
 | Jones Lang LaSalle (JLL) | HVAC Technician Intern 🛂 | Thermal & Fluids | Berkeley, MO | No skills listed | Sep 30, 2026 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Berkeley-MO/HVAC-Technician-Intern_REQ524659) |
 | Jones Lang LaSalle (JLL) | HVAC Technician Intern 🛂 | Thermal & Fluids | North Charleston, SC | No skills listed | Sep 30, 2026 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/North-Charleston-SC/HVAC-Technician-Intern_REQ524635) |
-| KLA ✓ | Mechatronics/Systems Engineering Internship | Robotics & Controls | Milpitas, CA | Metrology | Sep 30, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532) |
+| KLA ✓ | Mechatronics/Systems Engineering Internship | Robotics & Controls | Milpitas, CA | Metrology | Sep 30, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1) |
 | Monolithic Power Systems ✓ | CAD intern | Design & CAD | San Jose, CA | No skills listed | Sep 30, 2026 | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/CAD-intern_R-2029) |
 | Bose ✓ | Associate Customer Quality Engineer Co-op | Test & Quality | US, MI - Bloomfield Hills | No skills listed | Sep 30, 2026 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Associate-Customer-Quality-Engineer-Co-op_R29223) |
 | RTX | Manufacturing Engineer Intern - 1st shift - On site - Aeroestructuras | Manufacturing & Process | MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238 +1 more | CATIA, Additive Manufacturing | Sep 30, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Manufacturing-Engineer-Intern---1st-shift---On-site---Aeroestructuras_01872645) |
@@ -729,7 +729,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,533 of 5,016 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 939.3s · 573 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,511 of 5,016 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 984.7s · 565 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
