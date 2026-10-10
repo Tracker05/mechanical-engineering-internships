@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 1006 open roles (566 listed below) · 137 new this week
+### 1004 open roles (565 listed below) · 136 new this week
 
-4,730 employers tracked · data as of Oct 10, 2026 at 04:41 UTC
+4,730 employers tracked · data as of Oct 10, 2026 at 05:08 UTC
 
-_655 have a cycle the employer stated · 351 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_654 have a cycle the employer stated · 350 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -417,7 +417,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Mill | Product Design Engineering Intern, Fall/Winter 2026 🛂 | Design & CAD | San Bruno, California | FEA, DFM | Mar 17, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4674154005) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Robotics & Controls | Westboro, Massachusetts, USA | No skills listed | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
-## Recently posted — cycle not stated  (224 roles)
+## Recently posted — cycle not stated  (223 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -617,7 +617,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | AECOM | Structural Engineering Intern 🇺🇸 | Structures & Materials | Pittsburgh, PA, United States (Hybrid) | AutoCAD | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148614879) |
 | Smiths Detection Group | Mechanical Engineering Co-Op | Design & CAD | Morton Grove, IL, United States | SolidWorks, Creo, Solid Edge, GD&T | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000148498329) |
 | Teledyne | Mechanical Engineering Intern 🇺🇸 | Design & CAD | US - Miamisburg, OH | SolidWorks, Machining | Sep 09, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) |
-| Hypertherm | Mechanical Engineering Winter/Spring Co-Op - Central Engineering (NH) | Design & CAD | Hanover, NH | SolidWorks, Excel, PLM/PDM | Sep 09, 2026 | [Apply](https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Mechanical-Engineering-Winter-Spring-Internship-or-Co-Op---Central-Engineering--NH-_R4060) |
 | Hypertherm | Mechanical Engineering Winter/Spring Co-Op - Central Engineering (WA) | Design & CAD | Kent, WA | SolidWorks, Excel, PLM/PDM | Sep 09, 2026 | [Apply](https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Kent-WA/Mechanical-Engineering-Winter-Spring-Internship-or-Co-Op---Central-Engineering--WA-_R4061) |
 | Astera Labs ✓ | Digital Design Engineering Intern | Design & CAD | San Jose, CA | Python, C++, Git | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731407005) |
 | Astera Labs ✓ | Platform Solutions Engineer Intern (MechE) | General Engineering | Cary, NC | GD&T, Tolerance Analysis, FEA, CFD | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731588005) |
@@ -680,6 +679,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Northrop Grumman | 2027 Mechanical Engineer Intern - Ocean Springs MS | Summer 2027 | 2026-10-10 | out of scope |
 | Northrop Grumman | 2027 Mechanical Engineer Intern - Annapolis MD | Summer 2027 | 2026-10-10 | out of scope |
 | Caterpillar Inc. | 2027 Engineering Corporate Internship Program Welding | Summer 2027 | 2026-10-09 | out of scope |
 | Graco | Manufacturing Engineering Intern - Summer 2027 | Summer 2027 | 2026-10-09 | gone from feed |
@@ -719,7 +719,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | POET | Process Engineering Intern - Summer 2027 | Summer 2027 | 2026-10-01 | gone from feed |
 | Northrop Grumman | 2027 Operations Industrial Engineering Intern | Summer 2027 | 2026-10-01 | out of scope |
 | RTX | Manufacturing Electrical Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-01 | gone from feed |
-| Northrop Grumman | 2027 Test Engineering Intern - VSFB CA | Summer 2027 | 2026-10-01 | out of scope |
 
 </details>
 
@@ -738,7 +737,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,519 of 5,005 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 998.5s · 554 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,574 of 5,005 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 899.7s · 587 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
