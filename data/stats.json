@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T11:44:10Z",
-  "fetched_at": "2026-10-12T11:44:10Z",
-  "duration_seconds": 962.4,
+  "generated_at": "2026-10-12T12:12:52Z",
+  "fetched_at": "2026-10-12T12:12:52Z",
+  "duration_seconds": 984.8,
   "companies_total": 5019,
   "companies_by_source": {
     "greenhouse": 1120,
@@ -17,26 +17,25 @@
     "breezy": 14,
     "eightfold": 1
   },
-  "quarantined": 440,
-  "fetched_ok": 4482,
-  "fetch_errors": 97,
+  "quarantined": 442,
+  "fetched_ok": 4531,
+  "fetch_errors": 46,
   "errors_by_source": {
-    "workday": 91,
-    "workable": 6
+    "workday": 46
   },
-  "fetch_success_rate": 0.979,
-  "fetch_success_rate_registry": 0.893,
-  "snapshots_complete": 3930,
-  "snapshots_partial": 552,
+  "fetch_success_rate": 0.99,
+  "fetch_success_rate_registry": 0.903,
+  "snapshots_complete": 3970,
+  "snapshots_partial": 561,
   "partial_by_reason": {
-    "result-cap": 531,
-    "malformed-response": 21
+    "result-cap": 536,
+    "malformed-response": 25
   },
-  "degraded_fetches": 21,
-  "roles_matched": 672,
-  "dropped_no_year_in_title": 290,
-  "dropped_offcycle_by_text": 230,
-  "roles_cycle_inferred": 326,
+  "degraded_fetches": 25,
+  "roles_matched": 670,
+  "dropped_no_year_in_title": 285,
+  "dropped_offcycle_by_text": 270,
+  "roles_cycle_inferred": 325,
   "roles_by_source": {
     "amazon": 3,
     "ashby": 23,
@@ -48,16 +47,16 @@
     "workday": 577
   },
   "roles_by_cycle": {
-    "Summer 2027": 626,
+    "Summer 2027": 627,
     "Fall 2026": 22,
-    "Not stated": 326
+    "Not stated": 325
   },
   "roles_by_region": {
     "US": 974
   },
   "sponsorship_counts": {
-    "unknown": 661,
-    "no-sponsorship": 164,
+    "unknown": 660,
+    "no-sponsorship": 165,
     "citizens-only": 147,
     "offers": 2
   },
@@ -75,8 +74,8 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 14,
-    "sample_size": 81
+    "median_days": 14.0,
+    "sample_size": 82
   },
-  "rendered_at": "2026-10-12T11:44:10Z"
+  "rendered_at": "2026-10-12T12:12:52Z"
 }
