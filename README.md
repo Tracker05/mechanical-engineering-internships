@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 979 open roles (552 listed below) · 130 new this week
+### 979 open roles (552 listed below) · 131 new this week
 
-4,742 employers tracked · data as of Oct 12, 2026 at 20:41 UTC
+4,742 employers tracked · data as of Oct 12, 2026 at 21:11 UTC
 
 _652 have a cycle the employer stated · 327 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -89,6 +89,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Plastipak | Process Engineer (Engineering) Intern – Summer 2027 🆕 | Manufacturing & Process | Clean Tech - Dundee, MI | No skills listed | Oct 12, 2026 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Clean-Tech---Dundee-MI/Process-Engineer--Engineering--Intern---Summer-2027_REQ24690) |
 | Allison Transmission ✓ | Internship - Manufacturing Engineer 🇺🇸 🆕 | Manufacturing & Process | Indianapolis, IN | No skills listed | Oct 12, 2026 | [Apply](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Internship---Manufacturing-Engineer_R008319) |
 | Nissan | Maintenance Engineer Intern - Summer 2027 - Smyrna, TN 🛂 🆕 | Manufacturing & Process | Smyrna +1 more | Lean | Oct 12, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Maintenance-Engineer-Intern---Summer-2027---Smyrna--TN_R00214274) |
 | WSP | Structural Engineering Intern- Summer 2027 🆕 | Structures & Materials | Glastonbury, CT, United States | AutoCAD, Revit | Oct 12, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97413) |
@@ -312,7 +313,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Graco | Manufacturing Engineering Co-Op (May - December 2027) 🛂 | Manufacturing & Process | Dayton, Minnesota, USA | AutoCAD, Machining | Sep 08, 2026 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506) |
 | Graco | Manufacturing Engineering Co-Op (May - December 2027) 🛂 | Manufacturing & Process | Rogers +2 more | AutoCAD, Machining | Sep 08, 2026 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504) |
 | Marvell | Process Engineer Intern, MS - Summer 2027 | Manufacturing & Process | Santa Clara, CA | Python, Excel, Casting | Sep 08, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Process-Engineer-Intern--MS---Summer-2027_2603856-1) |
-| Meijer | Labor Industrial Engineering Intern- Summer 2027 | Manufacturing & Process | Grand Rapids, MI | Excel | Sep 08, 2026 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Labor-Industrial-Engineering-Intern--Summer-2027_R000698645) |
 | Meijer | Supply Chain Manufacturing Intern - Summer 2027 | Manufacturing & Process | Grand Rapids, MI | Excel | Sep 08, 2026 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Supply-Chain-Manufacturing-Intern---Summer-2027_R000699607) |
 | Sensata | Mechanical Engineer Intern (Dynapower) - Summer 2027 | Design & CAD | Dynapower South Burlington, VT | No skills listed | Sep 08, 2026 | [Apply](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334) |
 | Stryker ✓ | Summer 2027 Internship R&D engineer - Columbia City, IN | General Engineering | Columbia City, Indiana | FEA, Excel | Sep 08, 2026 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Columbia-City-Indiana/Summer-2027-Internship-R-D-engineer---Columbia-City--IN_R572950) |
@@ -666,6 +666,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Meijer | Labor Industrial Engineering Intern- Summer 2027 | Summer 2027 | 2026-10-12 | gone from feed |
 | Echo Global Logistics | Process Engineer Intern- Greenfield, IN | Summer 2027 | 2026-10-12 | gone from feed |
 | Vermeer | Test Engineering Internship Summer 2027 | Summer 2027 | 2026-10-12 | gone from feed |
 | nVent | Manufacturing Automaton Intern (June - August 2027) | Summer 2027 | 2026-10-12 | out of scope |
@@ -705,7 +706,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | AES | Transmission Engineering Intern - (Summer 2027) | Summer 2027 | 2026-10-06 | gone from feed |
 | Northrop Grumman | 2027 Manufacturing Operations and Planning Intern - Huntsville AL | Summer 2027 | 2026-10-05 | out of scope |
 | Northrop Grumman | 2027 Vehicle Engineer Intern | Summer 2027 | 2026-10-05 | out of scope |
-| Northrop Grumman | 2027 Structural Engineering Intern Dulles Va | Summer 2027 | 2026-10-05 | out of scope |
 
 </details>
 
@@ -724,7 +724,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,501 of 5,019 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 876.1s · 552 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,461 of 5,019 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 88% of the full registry) · completed in 915.7s · 529 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
