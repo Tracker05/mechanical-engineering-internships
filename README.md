@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 976 open roles (551 listed below) · 127 new this week
+### 978 open roles (552 listed below) · 129 new this week
 
-4,742 employers tracked · data as of Oct 12, 2026 at 19:38 UTC
+4,742 employers tracked · data as of Oct 12, 2026 at 20:11 UTC
 
-_649 have a cycle the employer stated · 327 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_651 have a cycle the employer stated · 327 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -89,6 +89,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Nissan | Maintenance Engineer Intern - Summer 2027 - Smyrna, TN 🛂 🆕 | Manufacturing & Process | Smyrna +1 more | Lean | Oct 12, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Maintenance-Engineer-Intern---Summer-2027---Smyrna--TN_R00214274) |
 | WSP | Structural Engineering Intern- Summer 2027 🆕 | Structures & Materials | Glastonbury, CT, United States | AutoCAD, Revit | Oct 12, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97413) |
 | Watts Water | Quality Engineer Intern, Summer 2027 🆕 | Test & Quality | Fort Worth, TX | Excel, Six Sigma, Lean | Oct 12, 2026 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Quality-Engineer-Intern--Summer-2027_10017593) |
 | ABB ✓ | Manufacturing Engineering Intern - Summer 2027 🛂 🆕 | Manufacturing & Process | USA, NC, Hickory | No skills listed | Oct 12, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568) |
@@ -111,7 +112,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Sierra Space | Summer 2027 Mechanical Engineer Intern 🇺🇸 | Design & CAD | Madison, WI | MATLAB | Oct 08, 2026 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Mechanical-Engineer-Intern_R26410) |
 | The Toro Company | Manufacturing Engineer Intern - The Toro Company 🛂 | Manufacturing & Process | Windom, MN | Excel | Oct 08, 2026 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578) |
 | General Motors ✓ | 2027 Summer Intern, Fleet Reliability & Test Engineering, ASD | Test & Quality | Milford +2 more | MATLAB, Simulink, Python | Oct 08, 2026 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071) |
-| Nissan | Manufacturing Digital Data Intern - Summer 2027 - Decherd, TN 🛂 | Manufacturing & Process | Decherd +1 more | No skills listed | Oct 08, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881) |
 | Rugged Robotics | Mechanical Engineering Intern/Co-op (Spring or Summer 2027) | Design & CAD | Houston, TX | SolidWorks, GD&T, CNC, Machining | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005) |
 | Northrop Grumman | 2027 Manufacturing Engineer Intern - Commerce CA 🇺🇸 | Manufacturing & Process | United States-California-Commerce | Additive Manufacturing | Oct 07, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136) |
 | Northrop Grumman | 2027 Manufacturing Engineer Intern - San Diego CA 🇺🇸 | Manufacturing & Process | United States-California-San Diego | Additive Manufacturing | Oct 07, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134) |
@@ -290,7 +290,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Pacific Fusion | Summer 2027 Internship-Manufacturing Engineering | Manufacturing & Process | San Leandro +3 more | MATLAB, Python, Excel, Machining | Sep 09, 2026 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009) |
 | Emerson Electric | Mechanical Engineering Internship - Summer 2027 🛂 | Design & CAD | Austin, TX, United States | Creo, Tolerance Analysis, Design of Experiments | Sep 09, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009934) |
 | AECOM | Structural Engineering Intern | Structures & Materials | Virginia Beach +2 more | AutoCAD, Excel | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148586189) |
-| Bosch ✓ | Manufacturing Engineer Intern - Summer 2027 _(2 openings)_ | Manufacturing & Process | Lincolnshire, IL, United States | Creo, Lean, FMEA | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148518808) [#2](https://jobs.smartrecruiters.com/BoschGroup/744000148542054) |
+| Bosch ✓ | Manufacturing Engineer Intern - Summer 2027 🆕 _(3 openings)_ | Manufacturing & Process | Lincolnshire, IL, United States | Creo, Lean, FMEA | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148518808) [#2](https://jobs.smartrecruiters.com/BoschGroup/744000148542054) [#3](https://jobs.smartrecruiters.com/BoschGroup/744000155100809) |
 | Lawrence Livermore National Laboratory (LLNL) | Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 | Structures & Materials | Livermore, CA, United States | Excel, Design of Experiments | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990015127766) |
 | Lawrence Livermore National Laboratory (LLNL) | Materials Engineering Division (MED): Graduate Intern - Summer 2027 | Structures & Materials | Livermore, CA, United States | Excel, Design of Experiments | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990015127776) |
 | Clarios ✓ | Advanced Manufacturing Intern (Summer 2027) 🛂 | Manufacturing & Process | United States, Michigan, Holland | PLC | Sep 09, 2026 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Michigan-Holland/Advanced-Manufacturing-Intern--Summer-2027-_WD49914) |
@@ -724,7 +724,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,541 of 5,019 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 776.7s · 571 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,504 of 5,019 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1100.6s · 558 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
