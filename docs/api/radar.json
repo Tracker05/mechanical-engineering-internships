@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-12T18:10:39Z",
- "data_as_of": "2026-10-12T18:10:39Z",
- "rendered_at": "2026-10-12T18:10:39Z",
+ "generated_at": "2026-10-12T18:45:33Z",
+ "data_as_of": "2026-10-12T18:45:33Z",
+ "rendered_at": "2026-10-12T18:45:33Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -1906,25 +1906,6 @@
    }
   },
   {
-   "company": "Echo Global Logistics",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -25,
-   "status": "open",
-   "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Roadtex---Greenfield-IN/Process-Engineer-Intern--Greenfield--IN_R4650-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-17"
-   }
-  },
-  {
    "company": "Lowe's",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -3060,6 +3041,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-15"
+   }
+  },
+  {
+   "company": "Echo Global Logistics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -25,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-17"
    }
   },
   {
