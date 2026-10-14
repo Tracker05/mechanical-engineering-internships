@@ -563,14 +563,17 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Controls-Engineer-Intern--Summer-2027-_R08167",
+      "workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Process-Engineer-Intern--Summer-2027-_R08181",
       "workday:chartermfg:/job/Charter-Steel---Cleveland-OH/Process-Engineer-Intern--Summer-2027-_R08123",
       "workday:chartermfg:/job/Charter-Steel---Cleveland-OH/Quality-Engineer-Intern--Summer-2027-_R08068",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Process-Engineer-Intern--Year-Round-_R08051",
-      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133"
+      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133",
+      "workday:chartermfg:/job/Charter-Wire---81st-Street---Milwaukee-WI/Electrical-Controls-Engineer-Intern_R08114",
+      "workday:chartermfg:/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Mechanical-Engineer-Intern--Summer-2027-_R08115"
      ],
-     "count": 7
+     "count": 10
     }
    }
   },
@@ -1053,6 +1056,18 @@
       "ashby:h3x-technologies:be8855c5-f8c7-4f09-bd3f-04ecbcf4b42d"
      ],
      "count": 2
+    }
+   }
+  },
+  "haleon": {
+   "name": "Haleon",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "workday:gsknch:/job/USA---New-York---Oak-Hill/XMLNAME-2027-Co-Op--Oak-Hill-Manufacturing-Program--6-months--Jan-start-_548918"
+     ],
+     "count": 1
     }
    }
   },
@@ -2298,9 +2313,10 @@
      "first_posted": "2026-09-04",
      "role_ids": [
       "ashby:skydio:3eb06d6e-b6f0-4814-a80a-f1c43075873b",
+      "ashby:skydio:6e76d5fa-981e-4986-955b-602aa6ddcb1b",
       "ashby:skydio:e541e878-567c-4c03-add8-baf19c63418f"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2371,11 +2387,15 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008122",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008131",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008256",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008287",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008288",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008289",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008290",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008292",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008293"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008293",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008296"
      ],
-     "count": 17
+     "count": 21
     }
    }
   },
@@ -2722,6 +2742,7 @@
       "oracle:emit.fa.ca3.oraclecloud.com:96332",
       "oracle:emit.fa.ca3.oraclecloud.com:96451",
       "oracle:emit.fa.ca3.oraclecloud.com:96611",
+      "oracle:emit.fa.ca3.oraclecloud.com:96802",
       "oracle:emit.fa.ca3.oraclecloud.com:96920",
       "oracle:emit.fa.ca3.oraclecloud.com:96925",
       "oracle:emit.fa.ca3.oraclecloud.com:97020",
@@ -2730,7 +2751,7 @@
       "oracle:emit.fa.ca3.oraclecloud.com:97413",
       "oracle:emit.fa.ca3.oraclecloud.com:97462"
      ],
-     "count": 56
+     "count": 57
     },
     "Fall 2026": {
      "first_posted": "2026-09-08",
@@ -2837,5 +2858,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T19:38:26Z"
+ "updated_at": "2026-10-14T22:54:43Z"
 }

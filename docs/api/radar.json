@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T19:38:26Z",
- "data_as_of": "2026-10-14T19:38:26Z",
- "rendered_at": "2026-10-14T19:38:26Z",
+ "generated_at": "2026-10-14T22:54:44Z",
+ "data_as_of": "2026-10-14T22:54:44Z",
+ "rendered_at": "2026-10-14T22:54:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -155,6 +155,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-14"
+   }
+  },
+  {
+   "company": "Caterpillar Inc.",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -58,
+   "status": "open",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
    }
   },
   {
@@ -2742,6 +2761,25 @@
    }
   },
   {
+   "company": "Haleon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-York---Oak-Hill/XMLNAME-2027-Co-Op--Oak-Hill-Manufacturing-Program--6-months--Jan-start-_548918",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-14"
+   }
+  },
+  {
    "company": "Inversion Space",
    "last_cycle_posted": "",
    "posted_on": "2026-10-14",
@@ -2752,7 +2790,7 @@
    "expected": "2026-10-14",
    "days_until": 0,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4743748005",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4743740005",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2814,25 +2852,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-07-31"
-   }
-  },
-  {
-   "company": "Caterpillar Inc.",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -58,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-17"
    }
   },
   {
@@ -3159,5 +3178,5 @@
    }
   }
  ],
- "count": 166
+ "count": 167
 }
