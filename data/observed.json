@@ -36,9 +36,12 @@
       "smartrecruiters:AECOM2:744000151381599",
       "smartrecruiters:AECOM2:744000152172269",
       "smartrecruiters:AECOM2:744000152952229",
-      "smartrecruiters:AECOM2:744000154178117"
+      "smartrecruiters:AECOM2:744000154178117",
+      "smartrecruiters:AECOM2:744000155592720",
+      "smartrecruiters:AECOM2:744000155595277",
+      "smartrecruiters:AECOM2:744000155595329"
      ],
-     "count": 12
+     "count": 15
     }
    }
   },
@@ -239,9 +242,10 @@
       "greenhouse:andurilindustries:5236893007",
       "greenhouse:andurilindustries:5255593007",
       "greenhouse:andurilindustries:5257674007",
-      "greenhouse:andurilindustries:5257682007"
+      "greenhouse:andurilindustries:5257682007",
+      "greenhouse:andurilindustries:5257709007"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -942,6 +946,7 @@
       "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861",
       "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Systems-Calibration-Engineer--ADAS-Drive_JR-202621623",
       "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657",
@@ -954,7 +959,7 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Connected-Vehicle-Systems_JR-202621747"
      ],
-     "count": 18
+     "count": 19
     }
    }
   },
@@ -1216,11 +1221,12 @@
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495",
+      "workday:imeg:/job/San-Francisco-CA/Structural-Engineering-Intern---San-Francisco--CA_R-16875",
       "workday:imeg:/job/St-Louis-MO/Mechanical-Engineering-Intern_R-16487",
       "workday:imeg:/job/St-Louis-MO/Structural-Engineering-Intern---St-Louis--MO_R-16601",
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
-     "count": 32
+     "count": 33
     }
    }
   },
@@ -1243,6 +1249,19 @@
       "workday:ingredion:/job/North-Kansas-City-MO/Process-Engineer-Co-op-2026--January---August-_Req-36164"
      ],
      "count": 1
+    }
+   }
+  },
+  "inversion space": {
+   "name": "Inversion Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "greenhouse:inversionspace:4743740005",
+      "greenhouse:inversionspace:4743748005"
+     ],
+     "count": 2
     }
    }
   },
@@ -1820,11 +1839,12 @@
       "oracle:hctz.fa.us2.oraclecloud.com:2506613",
       "oracle:hctz.fa.us2.oraclecloud.com:2506637",
       "oracle:hctz.fa.us2.oraclecloud.com:2506639",
+      "oracle:hctz.fa.us2.oraclecloud.com:2506642",
       "oracle:hctz.fa.us2.oraclecloud.com:2506645",
       "oracle:hctz.fa.us2.oraclecloud.com:2506646",
       "oracle:hctz.fa.us2.oraclecloud.com:2506814"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -1905,9 +1925,10 @@
      "role_ids": [
       "workday:plastipak:/job/Clean-Tech---Dundee-MI/Process-Engineer--Engineering--Intern---Summer-2027_REQ24690",
       "workday:plastipak:/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670",
+      "workday:plastipak:/job/Plastipak---Pineville-LA/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24668",
       "workday:plastipak:/job/Plastipak---Plant-City-FL/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24669"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2085,6 +2106,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01871439",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01871448",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01871450",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-110--400-Collins-Rd-NE--BLDG-110/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01882360",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702",
@@ -2092,7 +2114,7 @@
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133"
      ],
-     "count": 40
+     "count": 41
     }
    }
   },
@@ -2349,10 +2371,11 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008122",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008131",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008256",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008288",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008292",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008293"
      ],
-     "count": 16
+     "count": 17
     }
    }
   },
@@ -2814,5 +2837,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T15:23:03Z"
+ "updated_at": "2026-10-14T19:38:26Z"
 }
