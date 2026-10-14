@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T09:53:38Z",
-  "fetched_at": "2026-10-14T09:53:38Z",
-  "duration_seconds": 952.3,
+  "generated_at": "2026-10-14T15:23:03Z",
+  "fetched_at": "2026-10-14T15:23:03Z",
+  "duration_seconds": 1164.1,
   "companies_total": 5044,
   "companies_by_source": {
     "greenhouse": 1122,
@@ -17,60 +17,63 @@
     "breezy": 15,
     "eightfold": 1
   },
-  "quarantined": 447,
-  "fetched_ok": 4517,
-  "fetch_errors": 80,
+  "quarantined": 357,
+  "fetched_ok": 4642,
+  "fetch_errors": 45,
   "errors_by_source": {
-    "workday": 80
+    "workday": 26,
+    "ashby": 2,
+    "greenhouse": 2,
+    "workable": 15
   },
-  "fetch_success_rate": 0.983,
-  "fetch_success_rate_registry": 0.896,
-  "snapshots_complete": 3957,
-  "snapshots_partial": 560,
+  "fetch_success_rate": 0.99,
+  "fetch_success_rate_registry": 0.92,
+  "snapshots_complete": 3994,
+  "snapshots_partial": 648,
   "partial_by_reason": {
-    "result-cap": 534,
-    "malformed-response": 26
+    "result-cap": 570,
+    "malformed-response": 78
   },
-  "degraded_fetches": 26,
-  "roles_matched": 700,
-  "dropped_no_year_in_title": 272,
-  "dropped_offcycle_by_text": 260,
+  "degraded_fetches": 78,
+  "roles_matched": 737,
+  "dropped_no_year_in_title": 331,
+  "dropped_offcycle_by_text": 275,
   "roles_cycle_inferred": 342,
   "roles_by_source": {
     "amazon": 3,
     "ashby": 22,
+    "breezy": 1,
     "greenhouse": 128,
     "lever": 27,
     "oracle": 170,
     "rippling": 1,
-    "smartrecruiters": 52,
-    "workday": 606,
-    "breezy": 1
+    "smartrecruiters": 53,
+    "workday": 608
   },
   "roles_by_cycle": {
-    "Summer 2027": 646,
+    "Summer 2027": 649,
     "Fall 2026": 22,
     "Not stated": 342
   },
   "roles_by_region": {
-    "US": 1010
+    "US": 1013
   },
   "sponsorship_counts": {
-    "unknown": 675,
-    "no-sponsorship": 181,
+    "unknown": 679,
+    "no-sponsorship": 180,
     "citizens-only": 152,
     "offers": 2
   },
   "posted_date_coverage": 0.999,
-  "enriched_this_run": 60,
-  "enrichment_detail_fetches": 9,
+  "enriched_this_run": 53,
+  "enrichment_detail_fetches": 3,
   "purged_this_run": 0,
-  "new_this_run": 10,
-  "open_total": 1010,
+  "new_this_run": 3,
+  "open_total": 1013,
   "detection_latency": {
-    "median_minutes": 27.5,
+    "median_minutes": 27.6,
     "p95_minutes": 45.3,
-    "sample_size": 18,
+    "sample_size": 19,
     "window_days": 7,
     "basis": "roles published in the window with an exact source timestamp"
   },
@@ -78,5 +81,5 @@
     "median_days": 15,
     "sample_size": 91
   },
-  "rendered_at": "2026-10-14T09:53:38Z"
+  "rendered_at": "2026-10-14T15:23:04Z"
 }
