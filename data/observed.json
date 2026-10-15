@@ -19,6 +19,18 @@
     }
    }
   },
+  "adient": {
+   "name": "Adient",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-15",
+     "role_ids": [
+      "workday:adient:/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531"
+     ],
+     "count": 1
+    }
+   }
+  },
   "aecom": {
    "name": "AECOM",
    "cycles": {
@@ -595,9 +607,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-06",
      "role_ids": [
-      "oracle:epyc.fa.us2.oraclecloud.com:166786"
+      "oracle:epyc.fa.us2.oraclecloud.com:166786",
+      "oracle:epyc.fa.us2.oraclecloud.com:167238"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1312,13 +1325,14 @@
       "workday:jj:/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371",
       "workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Production-Engineering-Co-op_R-101582",
       "workday:jj:/job/Jacksonville-Florida-United-States-of-America/Process-Engineer-Summer-Intern_R-099289",
+      "workday:jj:/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Intern-WCH_R-103053",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Clinical-Engineering---Human-Factors-Intern---Robotics-R-D_R-099931",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechatronics---Systems-Integration-Intern---R-D_R-099833",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Systems---Simulation-Engineering-Intern---Robotics-R-D_R-100027"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -1542,10 +1556,13 @@
      "first_posted": "2026-09-14",
      "role_ids": [
       "workday:msd:/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R422487",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vaccine-Manufacturing-Automation-Co-op_R422480",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vaccine-Manufacturing-Co-op_R422481",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---West-Point-Vaccine-Manufacturing-Intern_R416751",
       "workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Co-op_R412910"
      ],
-     "count": 3
+     "count": 6
     }
    }
   },
@@ -2046,9 +2063,10 @@
       "smartrecruiters:RESPECInc:744000149427190",
       "smartrecruiters:RESPECInc:744000149430049",
       "smartrecruiters:RESPECInc:744000149447560",
-      "smartrecruiters:RESPECInc:744000155538719"
+      "smartrecruiters:RESPECInc:744000155538719",
+      "smartrecruiters:RESPECInc:744000155841680"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -2488,6 +2506,7 @@
       "workday:ttc:/job/Bloomington-MN/Mechanical-Engineering-Intern---Value-Engineering--VAVE----The-Toro-Company_JR17204",
       "workday:ttc:/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
       "workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
+      "workday:ttc:/job/Lake-Mills-WI/Manufacturing-Engineering-Intern---HammerHead_JR17635",
       "workday:ttc:/job/Perry-OK/Manufacturing-Engineer-Intern---Ditch-Witch_JR17449",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101",
@@ -2496,7 +2515,7 @@
       "workday:ttc:/job/Shakopee-MN/Manufacturing-Engineering-Intern---The-Toro-Company_JR17581",
       "workday:ttc:/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578"
      ],
-     "count": 17
+     "count": 18
     }
    }
   },
@@ -2873,5 +2892,5 @@
    }
   }
  },
- "updated_at": "2026-10-15T16:00:45Z"
+ "updated_at": "2026-10-15T20:10:20Z"
 }
