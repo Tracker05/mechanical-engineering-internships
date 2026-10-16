@@ -614,6 +614,22 @@
     }
    }
   },
+  "commonwealth fusion systems": {
+   "name": "Commonwealth Fusion Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "lever:cfsenergy:01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f",
+      "lever:cfsenergy:1be023ee-0351-4d09-acca-f56180d06463",
+      "lever:cfsenergy:7ed4bf93-2b32-4096-9af3-2eb79e620039",
+      "lever:cfsenergy:9690a768-362f-4df8-86a1-554b896cbc76",
+      "lever:cfsenergy:e3408817-347e-45bc-8627-305b75b6b978"
+     ],
+     "count": 5
+    }
+   }
+  },
   "continental": {
    "name": "Continental",
    "cycles": {
@@ -1593,9 +1609,10 @@
       "oracle:ebxs.fa.us2.oraclecloud.com:309900",
       "oracle:ebxs.fa.us2.oraclecloud.com:309901",
       "oracle:ebxs.fa.us2.oraclecloud.com:309902",
-      "oracle:ebxs.fa.us2.oraclecloud.com:309903"
+      "oracle:ebxs.fa.us2.oraclecloud.com:309903",
+      "oracle:ebxs.fa.us2.oraclecloud.com:310073"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1763,13 +1780,15 @@
       "workday:alliance:/job/Canton-Mississippi---United-States-of-America/Trim---Chassis-Manufacturing-Engineering-Intern---Summer-2027---Canton--MS_R00214255",
       "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
       "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Decherd--TN_R00214742",
+      "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/QA-Dyno-Assembly-Engineer-Intern---Summer-2027---Decherd--TN_R00214292",
       "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Maintenance-Engineer-Intern---Summer-2027---Smyrna--TN_R00214274",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/New-Model-Tech-Quality-Validation-Engineer-Intern---Summer-2027---Smyrna--TN_R00214251",
-      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Smyrna--TN_R00214285"
+      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Smyrna--TN_R00214285",
+      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302"
      ],
-     "count": 8
+     "count": 10
     }
    }
   },
@@ -2778,6 +2797,7 @@
       "oracle:emit.fa.ca3.oraclecloud.com:96332",
       "oracle:emit.fa.ca3.oraclecloud.com:96451",
       "oracle:emit.fa.ca3.oraclecloud.com:96611",
+      "oracle:emit.fa.ca3.oraclecloud.com:96768",
       "oracle:emit.fa.ca3.oraclecloud.com:96802",
       "oracle:emit.fa.ca3.oraclecloud.com:96920",
       "oracle:emit.fa.ca3.oraclecloud.com:96925",
@@ -2788,7 +2808,7 @@
       "oracle:emit.fa.ca3.oraclecloud.com:97462",
       "oracle:emit.fa.ca3.oraclecloud.com:97606"
      ],
-     "count": 58
+     "count": 59
     },
     "Fall 2026": {
      "first_posted": "2026-09-08",
@@ -2895,5 +2915,5 @@
    }
   }
  },
- "updated_at": "2026-10-16T12:11:31Z"
+ "updated_at": "2026-10-16T16:51:22Z"
 }
