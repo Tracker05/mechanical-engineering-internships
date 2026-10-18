@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 1022 open roles (551 listed below) · 125 new this week
+### 1021 open roles (551 listed below) · 125 new this week
 
-4,788 employers tracked · data as of Oct 18, 2026 at 17:10 UTC
+4,788 employers tracked · data as of Oct 18, 2026 at 19:43 UTC
 
-_703 have a cycle the employer stated · 319 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_702 have a cycle the employer stated · 319 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -431,7 +431,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Entrust | Mechanical Engineering Co-Op 🆕 | Design & CAD | United States - Shakopee, MN (GHQ) | SolidWorks, MATLAB, Simulink, Machining | Oct 16, 2026 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Mechanical-Engineering-Co-Op_R004415) |
 | Coherent | Quality Assurance Metrology Co-Op | Test & Quality | Saxonburg, PA, United States | Metrology, Excel | Oct 16, 2026 | [Apply](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2015215) |
 | Graco | CNC Machine Mechanic Intern 🛂 | Manufacturing & Process | Anoka, Minnesota, USA | Hydraulics | Oct 16, 2026 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Anoka-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023183) |
-| KLA ✓ | Opto-Mechanical Intern | Design & CAD | Ann Arbor, MI | Creo, Metrology | Oct 16, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Opto-Mechanical-Intern_2641704-2) |
+| KLA ✓ | Opto-Mechanical Intern | Design & CAD | Ann Arbor, MI | Creo, Metrology | Oct 16, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Opto-Mechanical-Intern_2641704-3) |
 | Avav | Manufacturing Engineering Intern 🆕 | Manufacturing & Process | Pottstown, PA | SolidWorks, Excel, Six Sigma, Lean | Oct 15, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104) |
 | Ingredion | Process Engineer Intern | Manufacturing & Process | Salem, OR | No skills listed | Oct 15, 2026 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Salem-OR/Process-Engineer-Intern_Req-40362-1) |
 | Nordson | Manufacturing Engineer Intern | Manufacturing & Process | USA - South Carolina - Clinton | Excel, Lean | Oct 15, 2026 | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---South-Carolina---Clinton/Manufacturing-Engineer-Intern_REQ53354) |
@@ -647,11 +647,11 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Nexus Engineering Group | Jul 27 | dropped Jul 27 | ✅ [open now](https://jobs.lever.co/nexuse-group/1c99ce4b-dfc4-423d-af93-ef73557baf4d) |
 | 🎯 American Express | Aug 13 | dropped Aug 13 | ✅ [open now](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319) |
 | 🎯 GlobalFoundries | Aug 14 | dropped Aug 14 | ✅ [open now](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578) |
-| 🎯 Caterpillar Inc. | Aug 17 | dropped Aug 17 | ✅ [open now](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506) |
+| 🎯 IMEG | Aug 17 | dropped Aug 17 | ✅ [open now](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Anaheim-CA/Mechanical-Engineering-Intern---Anaheim--CA_R-16751) |
 | 🎯 Field AI | Feb 17 | dropped Feb 17 · closed | 🗓️ dropped |
 | 🎯 Mosaic | Jul 22 | dropped Jul 22 · closed | 🗓️ dropped |
 | 🎯 Kraft Heinz | Jul 31 | dropped Jul 31 · closed | 🗓️ dropped |
-| 🎯 Campbellsoup | Aug 20 | dropped Aug 20 · closed | 🗓️ dropped |
+| 🎯 Caterpillar Inc. | Aug 17 | dropped Aug 17 · closed | 🗓️ dropped |
 
 _170 companies on the [full radar](https://tracker05.github.io/mechanical-engineering-internships/#radar). **170** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
@@ -662,6 +662,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Caterpillar Inc. | 2027 Engineering Corporate Internship Program Welding | Summer 2027 | 2026-10-18 | out of scope |
 | Meijer | Supply Chain Manufacturing Intern - Summer 2027 | Summer 2027 | 2026-10-17 | gone from feed |
 | Xcel Energy | Transmission Engineering Services Intern- CO | Summer 2027 | 2026-10-17 | gone from feed |
 | Xcel Energy | Transmission Planning Intern- CO | Summer 2027 | 2026-10-17 | gone from feed |
@@ -701,7 +702,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Echo Global Logistics | Process Engineer Intern- Greenfield, IN | Summer 2027 | 2026-10-12 | gone from feed |
 | Vermeer | Test Engineering Internship Summer 2027 | Summer 2027 | 2026-10-12 | gone from feed |
 | Allen Control Systems | Manufacturing Engineering Co-op / Intern, 2027 | Summer 2027 | 2026-10-12 | out of scope |
-| Sierra Nevada Corporation | Test Engineer I (For 2026 Interns Only) | Fall 2026 | 2026-10-12 | out of scope |
 
 </details>
 
@@ -720,7 +720,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,646 of 5,069 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1077.3s · 625 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,598 of 5,069 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1131.6s · 608 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
