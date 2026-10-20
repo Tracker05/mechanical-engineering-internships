@@ -231,6 +231,18 @@
     }
    }
   },
+  "amcor": {
+   "name": "Amcor",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "workday:amcor:/job/RPSNA-Erie-ERPA-PA/Tooling-Design-Engineering-Intern--Summer-2027-_REQ_97446"
+     ],
+     "count": 1
+    }
+   }
+  },
   "american express": {
    "name": "American Express",
    "cycles": {
@@ -529,12 +541,13 @@
      "role_ids": [
       "workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570",
       "workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333648",
+      "workday:caci:/job/Danbury-CT-US/Electrical-Test-Engineering-Intern---Summer-2027_333809",
       "workday:caci:/job/Danbury-CT-US/Manufacturing-Engineering-Intern---Summer-2027_333189-1",
       "workday:caci:/job/Danbury-CT-US/Production-Engineering-Intern---Summer-2027_333767",
       "workday:caci:/job/Dulles-VA-US/Mechanical-Engineering-Intern---Summer-2027_333564",
       "workday:caci:/job/Melbourne-FL-US/Manufacturing-Engineering-Intern---Summer-2027_332898"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1018,10 +1031,11 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Connected-Vehicle-Systems_JR-202621747"
      ],
-     "count": 19
+     "count": 20
     }
    }
   },
@@ -1298,6 +1312,7 @@
       "workday:imeg:/job/Ontario-California/Mechanical-Engineering-Intern---Ontario--CA_R-16414",
       "workday:imeg:/job/Pasadena-CA/Structural-Engineering-Intern---Pasadena--CA_R-16756",
       "workday:imeg:/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600",
+      "workday:imeg:/job/Philadelphia-PA/Mechanical-Engineering-Co-op---Philadelphia--PA_R-16908",
       "workday:imeg:/job/Phoenix-AZ/Mechanical-Engineering-Intern---Scottsdale--AZ_R-16744",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
@@ -1307,7 +1322,7 @@
       "workday:imeg:/job/St-Louis-MO/Structural-Engineering-Intern---St-Louis--MO_R-16601",
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
-     "count": 33
+     "count": 34
     }
    }
   },
@@ -1601,6 +1616,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Protein-and-Structural-Chemistry---Co-op_R422300",
       "workday:msd:/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R422487",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vaccine-Manufacturing-Automation-Co-op_R422480",
@@ -1608,7 +1624,7 @@
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---West-Point-Vaccine-Manufacturing-Intern_R416751",
       "workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Co-op_R412910"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1870,13 +1886,14 @@
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
+      "workday:ngc:/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10256223",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 33
+     "count": 34
     }
    }
   },
@@ -2478,6 +2495,7 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008121",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008122",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008131",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008254",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008256",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008287",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008288",
@@ -2487,7 +2505,7 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008293",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008296"
      ],
-     "count": 21
+     "count": 22
     }
    }
   },
@@ -2907,6 +2925,18 @@
     }
    }
   },
+  "zebra technologies": {
+   "name": "Zebra Technologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627"
+     ],
+     "count": 1
+    }
+   }
+  },
   "zekelman industries": {
    "name": "Zekelman Industries",
    "cycles": {
@@ -2958,5 +2988,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T12:27:47Z"
+ "updated_at": "2026-10-20T17:49:20Z"
 }
