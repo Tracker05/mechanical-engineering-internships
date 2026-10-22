@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T01:45:35Z",
-  "fetched_at": "2026-10-22T01:45:35Z",
-  "duration_seconds": 1078.8,
+  "generated_at": "2026-10-22T06:52:24Z",
+  "fetched_at": "2026-10-22T06:52:24Z",
+  "duration_seconds": 1147.0,
   "companies_total": 5084,
   "companies_by_source": {
     "greenhouse": 1127,
@@ -17,53 +17,52 @@
     "breezy": 15,
     "eightfold": 1
   },
-  "quarantined": 338,
-  "fetched_ok": 4625,
-  "fetch_errors": 121,
+  "quarantined": 375,
+  "fetched_ok": 4587,
+  "fetch_errors": 122,
   "errors_by_source": {
-    "workday": 77,
-    "rippling": 1,
-    "ashby": 2,
-    "workable": 39,
+    "workday": 116,
+    "greenhouse": 2,
+    "workable": 2,
     "lever": 1,
-    "greenhouse": 1
+    "ashby": 1
   },
-  "fetch_success_rate": 0.975,
-  "fetch_success_rate_registry": 0.91,
-  "snapshots_complete": 4015,
-  "snapshots_partial": 610,
+  "fetch_success_rate": 0.974,
+  "fetch_success_rate_registry": 0.902,
+  "snapshots_complete": 3994,
+  "snapshots_partial": 593,
   "partial_by_reason": {
-    "result-cap": 601,
-    "malformed-response": 9
+    "result-cap": 585,
+    "malformed-response": 8
   },
-  "degraded_fetches": 9,
-  "roles_matched": 726,
-  "dropped_no_year_in_title": 336,
-  "dropped_offcycle_by_text": 255,
-  "roles_cycle_inferred": 334,
+  "degraded_fetches": 8,
+  "roles_matched": 708,
+  "dropped_no_year_in_title": 299,
+  "dropped_offcycle_by_text": 256,
+  "roles_cycle_inferred": 335,
   "roles_by_source": {
     "amazon": 3,
-    "ashby": 18,
+    "ashby": 17,
     "breezy": 1,
     "greenhouse": 114,
     "lever": 31,
     "oracle": 178,
     "rippling": 1,
     "smartrecruiters": 53,
-    "workday": 671
+    "workday": 672
   },
   "roles_by_cycle": {
-    "Summer 2027": 715,
+    "Summer 2027": 714,
     "Fall 2026": 21,
-    "Not stated": 334
+    "Not stated": 335
   },
   "roles_by_region": {
     "US": 1070
   },
   "sponsorship_counts": {
-    "unknown": 717,
+    "unknown": 718,
     "no-sponsorship": 193,
-    "citizens-only": 157,
+    "citizens-only": 156,
     "offers": 3
   },
   "posted_date_coverage": 0.999,
@@ -80,8 +79,8 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 20.5,
-    "sample_size": 130
+    "median_days": 21,
+    "sample_size": 131
   },
-  "rendered_at": "2026-10-22T01:45:36Z"
+  "rendered_at": "2026-10-22T06:52:24Z"
 }

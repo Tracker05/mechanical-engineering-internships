@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 1070 open roles (545 listed below) · 124 new this week
+### 1070 open roles (546 listed below) · 123 new this week
 
-4,802 employers tracked · data as of Oct 22, 2026 at 01:45 UTC
+4,802 employers tracked · data as of Oct 22, 2026 at 06:52 UTC
 
-_736 have a cycle the employer stated · 334 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_735 have a cycle the employer stated · 335 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -380,7 +380,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Vermeer | Quality Engineer Intern - Summer 2027 | Test & Quality | Pella, Iowa, USA - Plant 3 | GD&T, Six Sigma, Lean, FMEA | Aug 31, 2026 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-3/Quality-Engineer-Intern---Summer-2027_REQ-22137) |
 | Vermeer | Advanced Manufacturing Intern - Summer 2027 | Manufacturing & Process | Pella, Iowa, USA - The Center | Welding | Aug 31, 2026 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140) |
 | Vermeer | Design Engineer Intern - Summer 2027 | Design & CAD | Pella, Iowa, USA - The Center | SolidWorks, FEA, Machining, Hydraulics | Aug 31, 2026 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139) |
-| Northwood Space | Mechanical Engineering Intern (2027 Summer Internship) 🇺🇸 | Design & CAD | Torrance, CA | SolidWorks, Siemens NX, ANSYS | Aug 29, 2026 | [Apply](https://jobs.ashbyhq.com/northwoodspace/6081eebf-7021-4a3f-a34f-78c91c94fcd3) |
 | HNTB ✓ | Returning Structural Engineer I - Winter/Summer 2027 - Central States Office (For Current/Former HNTB Interns Only) 🛂 | Structures & Materials | Kansas City, MO | Revit | Aug 28, 2026 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Returning-Structural-Engineer-I---Winter-Summer-2027---Central-States-Office--For-Current-Former-HNTB-Interns-Only-_R-31333-2) |
 | Shield AI | Summer 2027 - Advanced Manufacturing Engineering Intern | Manufacturing & Process | Dallas, Texas | SolidWorks, CATIA, Siemens NX, Creo | Aug 27, 2026 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) |
 | Air Products | Summer Intern/Co-op-Mechanical Engineering (2027) | Design & CAD | Allentown, Pennsylvania | No skills listed | Aug 27, 2026 | [Apply](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956) |
@@ -389,6 +388,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Honeywell | Materials Engineering/Materials Science - Summer 2027 Intern (US Person Required) 🇺🇸 | Structures & Materials | United States | No skills listed | Aug 25, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155543) |
 | Honeywell | Mechanical Engineering - Summer 2027 Intern (US Person Required) 🇺🇸 | Design & CAD | United States | No skills listed | Aug 25, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155574) |
 | General Matter | Summer 2027 Internship - Manufacturing Engineering | Manufacturing & Process | Los Angeles, CA | GD&T | Aug 20, 2026 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376060008) |
+| Freeform | Manufacturing Engineering Intern (Summer 2027) | Manufacturing & Process | Los Angeles, CA (On-site) | CNC, Machining, Additive Manufacturing, DFM | Aug 19, 2026 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) |
 
 ## Fall 2026  (21 employer-stated)
 
@@ -416,7 +416,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Mill | Product Design Engineering Intern, Fall/Winter 2026 🛂 | Design & CAD | San Bruno, California | FEA, DFM | Mar 17, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4674154005) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Robotics & Controls | Westboro, Massachusetts, USA | No skills listed | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
-## Recently posted — cycle not stated  (209 roles)
+## Recently posted — cycle not stated  (210 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -628,9 +628,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Heidelberg Materials | Process Engineer Intern | Manufacturing & Process | Lexington, SC | No skills listed | Sep 08, 2026 | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Lexington-SC/Process-Engineer-Intern_JR10018539) |
 | TRUMPF | Smart Factory Robotics & Operations Intern | Robotics & Controls | Chicago, IL | No skills listed | Sep 08, 2026 | [Apply](https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Chicago-IL/Smart-Factory-Robotics---Operations-Intern_R00042570) |
 | Solidigm ✓ | Memory Core Design Engineering Intern | Design & CAD | Rancho Cordova, CA, United States | No skills listed | Sep 07, 2026 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147954459) |
+| Axcelis Technologies, Inc. ✓ | Manufacturing Test Development Engineer Co-op | Manufacturing & Process | Beverly, MA | SolidWorks, Creo, AutoCAD, Additive Manufacturing | Sep 04, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Engineer-Co-op_12010) |
 | Reflect Orbital | Mechanical Engineering Intern | Design & CAD | Hawthorne, CA | No skills listed | Sep 02, 2026 | [Apply](https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6) |
 | Emerson Electric | Additive Manufacturing Co-op | Manufacturing & Process | Marshalltown, IA, United States | Additive Manufacturing, SolidWorks, Siemens NX, GD&T | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009196) |
-| Intel ✓ | New Mexico WPM Manufacturing Technician Internship | Manufacturing & Process | US, New Mexico, Albuquerque | Excel, Welding | Aug 24, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454) |
+| Brunswick ✓ | Mercury Marine - Foundry Engineering Co-op | Manufacturing & Process | Fond du Lac, WI | Casting, SolidWorks, Creo, AutoCAD | Aug 26, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Foundry-Engineering-Co-op_JR-050979) |
 
 <a id="drop-radar"></a>
 
@@ -664,6 +665,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Northwood Space | Mechanical Engineering Intern (2027 Summer Internship) | Summer 2027 | 2026-10-22 | gone from feed |
 | Olsson | Engineering Internship - Transmission and Distribution | Summer 2027 | 2026-10-22 | gone from feed |
 | Olsson | Structural Drafting Internship - Industrial Facilities | Summer 2027 | 2026-10-22 | gone from feed |
 | ispace | 2027 Summer Internship - Mechanical Test Engineer | Summer 2027 | 2026-10-22 | gone from feed |
@@ -703,7 +705,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Xcel Energy | Prairie Island Nuclear Engineering Intern - MN | Summer 2027 | 2026-10-16 | gone from feed |
 | Ingredion | Mechanical Engineer Co-op 2027 (January - August) | Summer 2027 | 2026-10-16 | out of scope |
 | Texas Instruments | Plant Process Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-16 | gone from feed |
-| HMH | Manufacturing Shop Operations Intern | Summer 2027 | 2026-10-16 | gone from feed |
 
 </details>
 
@@ -722,7 +723,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,625 of 5,084 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1078.8s · 610 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,587 of 5,084 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1147.0s · 593 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
