@@ -20,6 +20,20 @@
     }
    }
   },
+  "abbvie": {
+   "name": "AbbVie",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-22",
+     "role_ids": [
+      "smartrecruiters:AbbVie:3743990016342366",
+      "smartrecruiters:AbbVie:3743990016343376",
+      "smartrecruiters:AbbVie:3743990016346156"
+     ],
+     "count": 3
+    }
+   }
+  },
   "adient": {
    "name": "Adient",
    "cycles": {
@@ -721,6 +735,18 @@
      "first_posted": "2026-09-08",
      "role_ids": [
       "workday:danaher:/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "doordash": {
+   "name": "DoorDash",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-22",
+     "role_ids": [
+      "greenhouse:doordashusa:8313401"
      ],
      "count": 1
     }
@@ -2149,9 +2175,10 @@
       "smartrecruiters:RESPECInc:744000155538719",
       "smartrecruiters:RESPECInc:744000155841680",
       "smartrecruiters:RESPECInc:744000156379056",
-      "smartrecruiters:RESPECInc:744000156644855"
+      "smartrecruiters:RESPECInc:744000156644855",
+      "smartrecruiters:RESPECInc:744000157189739"
      ],
-     "count": 13
+     "count": 14
     }
    }
   },
@@ -2889,9 +2916,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:97413",
       "oracle:emit.fa.ca3.oraclecloud.com:97462",
       "oracle:emit.fa.ca3.oraclecloud.com:97606",
-      "oracle:emit.fa.ca3.oraclecloud.com:97807"
+      "oracle:emit.fa.ca3.oraclecloud.com:97807",
+      "oracle:emit.fa.ca3.oraclecloud.com:98073"
      ],
-     "count": 61
+     "count": 62
     },
     "Fall 2026": {
      "first_posted": "2026-09-08",
@@ -3010,5 +3038,5 @@
    }
   }
  },
- "updated_at": "2026-10-22T12:43:23Z"
+ "updated_at": "2026-10-22T17:56:04Z"
 }
