@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 1053 open roles (530 listed below) · 136 new this week
+### 1053 open roles (531 listed below) · 136 new this week
 
-4,837 employers tracked · data as of Oct 25, 2026 at 18:10 UTC
+4,837 employers tracked · data as of Oct 25, 2026 at 21:02 UTC
 
-_754 have a cycle the employer stated · 299 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_753 have a cycle the employer stated · 300 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -92,9 +92,9 @@ If it helps you, a star means a lot and tells me to keep going.
 | AECOM | Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA 🆕 | Structures & Materials | Hunt Valley, MD, United States (Hybrid) | AutoCAD, Excel | Oct 24, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157611879) |
 | AECOM | Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA 🆕 | Structures & Materials | Virginia Beach +2 more | AutoCAD, Excel | Oct 24, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157611929) |
 | WSP | Mechanical Engineering Intern - Summer 2027 🆕 | Design & CAD | Minneapolis, MN, United States | No skills listed | Oct 23, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98140) |
-| GlobalFoundries | Systems/Process Engineering, Tapeout Operations Intern (Summer 2027) 🆕 | Manufacturing & Process | USA - Vermont - Essex Junction | Python, Excel, Casting, Six Sigma | Oct 23, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924) |
-| STV ✓ | Mechanical Engineering Intern - Summer 2027 🛂 🆕 | Design & CAD | Philadelphia, Pennsylvania | No skills listed | Oct 23, 2026 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Philadelphia-Pennsylvania/Mechanical-Engineering-Intern---Summer-2027_JR6097-1) |
-| TREK | Mechanical Engineering Intern 🆕 | Design & CAD | Waterloo, Wisconsin | Onshape | Oct 23, 2026 | [Apply](https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843) |
+| GlobalFoundries | Systems/Process Engineering, Tapeout Operations Intern (Summer 2027) | Manufacturing & Process | USA - Vermont - Essex Junction | Python, Excel, Casting, Six Sigma | Oct 23, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924) |
+| STV ✓ | Mechanical Engineering Intern - Summer 2027 🛂 | Design & CAD | Philadelphia, Pennsylvania | No skills listed | Oct 23, 2026 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Philadelphia-Pennsylvania/Mechanical-Engineering-Intern---Summer-2027_JR6097-1) |
+| TREK | Mechanical Engineering Intern | Design & CAD | Waterloo, Wisconsin | Onshape | Oct 23, 2026 | [Apply](https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843) |
 | GE Vernova | GE Vernova Manufacturing Process Engineer Intern - Summer 2027 🛂 | Manufacturing & Process | Charleroi USA | SolidWorks, AutoCAD, Excel, Six Sigma | Oct 23, 2026 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285-1) |
 | GlobalFoundries | New Product Development Test Engineer Intern (Summer 2027) | Test & Quality | USA - Texas - Richardson | Python, C++, Casting | Oct 23, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957) |
 | Verdantas | Mechanical Engineer Summer Intern | Design & CAD | Holden MA | SolidWorks, AutoCAD, Revit, Excel | Oct 23, 2026 | [Apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230) |
@@ -355,7 +355,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Barr | Internship – Structural Engineer (Hybrid) 🛂 | Structures & Materials | Ann Arbor, MI | No skills listed | Sep 04, 2026 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Ann-Arbor-MI/Internship---Structural-Engineer--Hybrid-_R-102315) |
 | Barr | Internship – Structural Engineer (Hybrid) 🛂 | Structures & Materials | Hibbing, MN | No skills listed | Sep 04, 2026 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Hibbing-MN/Internship---Structural-Engineer--Hybrid-_R-102316) |
 | Barr | Internship – Mechanical Engineer (Hybrid) 🛂 | Design & CAD | Minneapolis, MN | SolidWorks, AutoCAD, Excel | Sep 04, 2026 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Mechanical-Engineer--Hybrid-_R-102306) |
-| Duke Energy | Vehicle Maintenance Technician Internship - 2027 | Automotive & Mobility | Florence, SC | Hydraulics | Sep 04, 2026 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Florence-SC/Vehicle-Maintenance-Technician-Internship---2027_R41190) |
 | Elanco | Manufacturing Scientist/Quality Control Chemist Intern – Fort Dodge, Iowa (Summer 2027) | Manufacturing & Process | Fort Dodge, IA | No skills listed | Sep 04, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027070) |
 | Elanco | Manufacturing Scientist/Technical Services Intern – Fort Dodge, Iowa (Summer 2027) | Manufacturing & Process | Fort Dodge, IA | No skills listed | Sep 04, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Manufacturing-Scientist-Technical-Services-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027069-1) |
 | HNTB ✓ | Intern Electrical and Mechanical/Fire Protection Engineering (Summer 2027) 🛂 | Design & CAD | Bellevue, WA (Seattle) | AutoCAD, Revit | Sep 04, 2026 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Bellevue-WA-Seattle/Intern-Electrical-and-Mechanical-Fire-Protection-Engineering--Summer-2027-_R-31482-1) |
@@ -389,6 +388,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Vermeer | Design Engineer Intern - Summer 2027 | Design & CAD | Pella, Iowa, USA - The Center | SolidWorks, FEA, Machining, Hydraulics | Aug 31, 2026 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139) |
 | HNTB ✓ | Returning Structural Engineer I - Winter/Summer 2027 - Central States Office (For Current/Former HNTB Interns Only) 🛂 | Structures & Materials | Kansas City, MO | Revit | Aug 28, 2026 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Returning-Structural-Engineer-I---Winter-Summer-2027---Central-States-Office--For-Current-Former-HNTB-Interns-Only-_R-31333-2) |
 | Shield AI | Summer 2027 - Advanced Manufacturing Engineering Intern | Manufacturing & Process | Dallas, Texas | SolidWorks, CATIA, Siemens NX, Creo | Aug 27, 2026 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) |
+| Air Products | Summer Intern/Co-op-Mechanical Engineering (2027) | Design & CAD | Allentown, Pennsylvania | No skills listed | Aug 27, 2026 | [Apply](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956) |
 
 ## Fall 2026  (17 employer-stated)
 
@@ -412,7 +412,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Mill | Product Design Engineering Intern, Fall/Winter 2026 🛂 | Design & CAD | San Bruno, California | FEA, DFM | Mar 17, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4674154005) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Robotics & Controls | Westboro, Massachusetts, USA | No skills listed | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
-## Recently posted — cycle not stated  (194 roles)
+## Recently posted — cycle not stated  (195 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -420,16 +420,16 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|---|
 | Flextronics International | Process Engineering Intern 🆕 | Manufacturing & Process | USA, MI, Coopersville | No skills listed | Oct 23, 2026 | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-MI-Coopersville/Process-Engineering-Intern_WD232511) |
 | Micron Technology ✓ | Intern - ATE Process Engineer, PCVD ID1 🆕 | Manufacturing & Process | Boise, ID - Main Site | MATLAB, Python, Excel, SPC | Oct 23, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer--PCVD-ID1_JR115032) |
-| Path Robotics ✓ | Manufacturing Design Engineering Internship 🆕 | Manufacturing & Process | Columbus, Ohio | CNC, Machining, Welding | Oct 23, 2026 | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8911570002?gh_jid=8911570002) |
-| Zachry Group | Civil/Structural Engineering -Intern 🆕 | Structures & Materials | Charlotte +5 more | No skills listed | Oct 23, 2026 | [Apply](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16176) |
-| Gorbel | Manufacturing Engineer Co-Op 🆕 | Manufacturing & Process | USA, New York, Victor | SolidWorks, AutoCAD, Excel, Lean | Oct 23, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2330-1) |
+| Path Robotics ✓ | Manufacturing Design Engineering Internship | Manufacturing & Process | Columbus, Ohio | CNC, Machining, Welding | Oct 23, 2026 | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8911570002?gh_jid=8911570002) |
+| Zachry Group | Civil/Structural Engineering -Intern | Structures & Materials | Charlotte +5 more | No skills listed | Oct 23, 2026 | [Apply](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16176) |
+| Gorbel | Manufacturing Engineer Co-Op | Manufacturing & Process | USA, New York, Victor | SolidWorks, AutoCAD, Excel, Lean | Oct 23, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2330-1) |
 | Astera Labs ✓ | Mechanical Solutions Architect Intern | Design & CAD | San Jose, CA | SolidWorks, Creo, ANSYS, Sheet Metal | Oct 22, 2026 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4746898005) |
 | Granite Construction | Plant Engineer Intern | Manufacturing & Process | Anchorage, Alaska | No skills listed | Oct 22, 2026 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Anchorage-Alaska/Plant-Engineer-Intern_R0000008368) |
 | Ambarella ✓ | Physical Design Engineer Intern | Design & CAD | US Headquarters | DFM | Oct 22, 2026 | [Apply](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393) |
 | Hitachi Energy | Test Engineering Intern | Test & Quality | Norman, Oklahoma, United States | Excel | Oct 22, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731) |
 | Cummins ✓ | Manufacturing Co-Op Positions | Manufacturing & Process | Columbus, IN, United States | No skills listed | Oct 22, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439835) |
 | Cummins ✓ | Manufacturing Summer Internship Positions | Manufacturing & Process | Columbus, IN, United States | No skills listed | Oct 22, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439927) |
-| ZOLL Medical Corporation | Manufacturing Engineering Intern 🆕 _(2 openings)_ | Manufacturing & Process | US CA San Jose | SolidWorks, Excel, Additive Manufacturing | Oct 22, 2026 | [Apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618) [#2](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20619) |
+| ZOLL Medical Corporation | Manufacturing Engineering Intern _(2 openings)_ | Manufacturing & Process | US CA San Jose | SolidWorks, Excel, Additive Manufacturing | Oct 22, 2026 | [Apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618) [#2](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20619) |
 | Teledyne | Mechanical Engineering Intern - CW | Design & CAD | US - Wilsonville, OR | SolidWorks, Excel, Additive Manufacturing | Oct 22, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Wilsonville-OR/Mechanical-Engineering-Intern---CW_REQ37514) |
 | Oshkosh | Digital Manufacturing Intern | Manufacturing & Process | Spartanburg +2 more | Python, Git | Oct 22, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065) |
 | Oshkosh | Manufacturing Engineering Intern | Manufacturing & Process | Spartanburg +2 more | Machining, Additive Manufacturing, Welding, Lean | Oct 22, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Manufacturing-Engineering-Intern_R51334) |
@@ -515,7 +515,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Leidos ✓ | Controls Engineer Intern | Robotics & Controls | Walled Lake, MI | PLC | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Walled-Lake-MI/Controls-Engineer-Intern_R-00193953) |
 | Axis Automation | GVSU Mechanical Engineering Intern Co-op | Design & CAD | Walker, Michigan, United States | SolidWorks, AutoCAD, Excel, Machining | Oct 06, 2026 | [Apply](https://job-boards.greenhouse.io/axiscompany/jobs/8871027002) |
 | Lumentum | Internship - MOCVD Process Engineer | Manufacturing & Process | USA - NC- Greensboro | Metrology | Oct 06, 2026 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---MOCVD-Process-Engineer_20261460) |
-| Arcadis | Structural Engineer Intern 🆕 _(2 openings)_ | Structures & Materials | Toledo, OH, United States | AutoCAD, Revit | Oct 06, 2026 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44969) [#2](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45422) |
+| Arcadis | Structural Engineer Intern _(2 openings)_ | Structures & Materials | Toledo, OH, United States | AutoCAD, Revit | Oct 06, 2026 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44969) [#2](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45422) |
 | Kenco Management Services ✓ | Industrial Engineering Intern | Manufacturing & Process | Wilmer, TX | Excel | Oct 06, 2026 | [Apply](https://kencogroup.wd12.myworkdayjobs.com/kenco/job/Wilmer-TX/SCS-Intern_JR106615) |
 | Field AI | Mechanical Engineer, Robotics Hardware Intern | Robotics & Controls | Boston, MA | SolidWorks, GD&T, FEA, CNC | Oct 06, 2026 | [Apply](https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79) |
 | Community Health Systems | Nurse Intern Robotic Med/Surg PRN | Robotics & Controls | Naples, FL, United States | No skills listed | Oct 05, 2026 | [Apply](https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/166858) |
@@ -608,6 +608,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Niagara Bottling ✓ | Manufacturing Internship - Plainfield | Manufacturing & Process | Plainfield - Plainfield, IN | No skills listed | Sep 10, 2026 | [Apply](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Plainfield---Plainfield-IN/Manufacturing-Internship---Plainfield_R56553) |
 | nVent | Mechanical Engineering Co-Op | Design & CAD | Blue Ash, OH, US | Abaqus, FEA, MATLAB, CNC | Sep 10, 2026 | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Blue-Ash-OH-US/Mechanical-Engineering-Co-Op_R23566) |
 | TRUMPF | Smart Factory Robotics & Operations Intern | Robotics & Controls | Chicago, IL | No skills listed | Sep 08, 2026 | [Apply](https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Chicago-IL/Smart-Factory-Robotics---Operations-Intern_R00042570) |
+| Axcelis Technologies, Inc. ✓ | Manufacturing Test Development Engineer Co-op | Manufacturing & Process | Beverly, MA | SolidWorks, Creo, AutoCAD, Additive Manufacturing | Sep 04, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Engineer-Co-op_12010) |
 | Reflect Orbital | Mechanical Engineering Intern | Design & CAD | Hawthorne, CA | No skills listed | Sep 02, 2026 | [Apply](https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6) |
 | Emerson Electric | Manufacturing Engineering Co-Op | Manufacturing & Process | Marshalltown, IA, United States | SolidWorks | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009034) |
 | Brunswick ✓ | Mercury Marine - Foundry Engineering Co-op | Manufacturing & Process | Fond du Lac, WI | Casting, SolidWorks, Creo, AutoCAD | Aug 26, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Foundry-Engineering-Co-op_JR-050979) |
@@ -645,6 +646,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Duke Energy | Vehicle Maintenance Technician Internship - 2027 | Summer 2027 | 2026-10-25 | out of scope |
 | Applied Materials | 2026 Process Engineer Co-op - Adv Degree (Gloucester, MA) | Fall 2026 | 2026-10-25 | out of scope |
 | Northrop Grumman | 2027 Stress Analysis and Tooling Design Engineer Intern - Commerce CA | Summer 2027 | 2026-10-24 | out of scope |
 | Northrop Grumman | 2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA | Summer 2027 | 2026-10-24 | out of scope |
@@ -684,7 +686,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Solar Turbines | 2027 Welding Engineer Intern | Summer 2027 | 2026-10-20 | out of scope |
 | Northrop Grumman | 2027 Mechanical Analysis Intern - Dulles VA | Summer 2027 | 2026-10-20 | out of scope |
 | Helion Energy | Mechanical Engineering Summer 2027 Intern | Summer 2027 | 2026-10-20 | gone from feed |
-| POET | Mechanical Engineering Intern - Summer 2027 | Summer 2027 | 2026-10-20 | gone from feed |
 
 </details>
 
@@ -703,7 +704,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,646 of 5,124 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1222.5s · 602 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,702 of 5,124 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1000.4s · 628 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
