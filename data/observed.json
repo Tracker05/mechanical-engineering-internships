@@ -1446,7 +1446,20 @@
     "Summer 2027": {
      "first_posted": "2026-10-26",
      "role_ids": [
+      "workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
       "workday:jabil:/job/Austin-TX/Validation-Engineer-Intern_J2469310"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "jm family": {
+   "name": "JM Family",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079"
      ],
      "count": 1
     }
@@ -1970,6 +1983,7 @@
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Tooling-Engineer_R10251728",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
+      "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10257639-1",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
       "workday:ngc:/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
@@ -1978,7 +1992,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 38
+     "count": 39
     }
    }
   },
@@ -2531,9 +2545,11 @@
      "role_ids": [
       "ashby:skydio:3eb06d6e-b6f0-4814-a80a-f1c43075873b",
       "ashby:skydio:6e76d5fa-981e-4986-955b-602aa6ddcb1b",
+      "ashby:skydio:6f5caf41-fa1d-4208-9bdc-82c72e5d3f17",
+      "ashby:skydio:8f4f62b0-a2ea-498d-b78f-6f661b724a3c",
       "ashby:skydio:e541e878-567c-4c03-add8-baf19c63418f"
      ],
-     "count": 3
+     "count": 5
     }
    }
   },
@@ -2934,6 +2950,18 @@
     }
    }
   },
+  "wsfs bank": {
+   "name": "WSFS Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:wsfsbank:/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---DT-Process-Engineering---Automation_R-104140"
+     ],
+     "count": 1
+    }
+   }
+  },
   "wsp": {
    "name": "WSP",
    "cycles": {
@@ -3002,9 +3030,11 @@
       "oracle:emit.fa.ca3.oraclecloud.com:97606",
       "oracle:emit.fa.ca3.oraclecloud.com:97807",
       "oracle:emit.fa.ca3.oraclecloud.com:98073",
-      "oracle:emit.fa.ca3.oraclecloud.com:98140"
+      "oracle:emit.fa.ca3.oraclecloud.com:98140",
+      "oracle:emit.fa.ca3.oraclecloud.com:98213",
+      "oracle:emit.fa.ca3.oraclecloud.com:98294"
      ],
-     "count": 63
+     "count": 65
     },
     "Fall 2026": {
      "first_posted": "2026-09-08",
@@ -3123,5 +3153,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T15:26:18Z"
+ "updated_at": "2026-10-26T21:03:43Z"
 }
