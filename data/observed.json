@@ -670,9 +670,10 @@
      "role_ids": [
       "oracle:epyc.fa.us2.oraclecloud.com:166786",
       "oracle:epyc.fa.us2.oraclecloud.com:167236",
-      "oracle:epyc.fa.us2.oraclecloud.com:167238"
+      "oracle:epyc.fa.us2.oraclecloud.com:167238",
+      "oracle:epyc.fa.us2.oraclecloud.com:167555"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1114,9 +1115,12 @@
       "workday:gi:/job/CA--AB--Calgary---685-Centre-Street-Southwest/Intern--Mechanical-Designer_6605",
       "workday:gi:/job/CA--BC--Vancouver---200-Granville-Street/Intern--Mechanical-Designer_6607",
       "workday:gi:/job/CA--BC--Victoria---1515-Douglas-Street/Intern--Mechanical-Designer_6602",
-      "workday:gi:/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606"
+      "workday:gi:/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606",
+      "workday:gi:/job/US--CA--Los-Angeles---707-Wilshire-Boulevard/Intern--Mechanical-Designer_6633",
+      "workday:gi:/job/US--MO--St-Louis---6-South-Old-Orchard/Intern-Mechanical-Engineering-Designer_6611",
+      "workday:gi:/job/US--MO--St-Louis---6-South-Old-Orchard/Mechanical-Engineering-Intern--Fire-Protection_6630"
      ],
-     "count": 4
+     "count": 7
     }
    }
   },
@@ -1435,6 +1439,18 @@
      "first_posted": "2026-09-22",
      "role_ids": [
       "workday:ingredion:/job/North-Kansas-City-MO/Process-Engineer-Co-op-2026--January---August-_Req-36164"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "international flavors fragrances": {
+   "name": "International Flavors & Fragrances",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:iff:/job/Rochester-NY-Plant-USA/Process-Engineer---Co-Op_R22921"
      ],
      "count": 1
     }
@@ -1953,10 +1969,11 @@
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Maintenance-Engineer-Intern---Summer-2027---Smyrna--TN_R00214274",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/New-Model-Tech-Quality-Validation-Engineer-Intern---Summer-2027---Smyrna--TN_R00214251",
+      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Smyrna--TN_R00214285",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302"
      ],
-     "count": 13
+     "count": 14
     }
    }
   },
@@ -2228,6 +2245,18 @@
     }
    }
   },
+  "radiance technologies": {
+   "name": "Radiance Technologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "workday:radiancetech:/job/Huntsville-AL/Mechanical-Engineer-Intern_HR102534"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ralliant": {
    "name": "Ralliant",
    "cycles": {
@@ -2350,6 +2379,7 @@
       "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Mechanical-Design-Engineering-Intern--Summer-2027-_01873545",
       "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Mechanical-Design-Engineering-Intern--Summer-2027-_01872155",
       "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Mechanical-Design-Engineering-Intern--Summer-2027-_01873918",
+      "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01870633",
@@ -2390,7 +2420,7 @@
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133"
      ],
-     "count": 42
+     "count": 43
     }
    }
   },
@@ -3206,5 +3236,5 @@
    }
   }
  },
- "updated_at": "2026-10-27T11:14:57Z"
+ "updated_at": "2026-10-27T16:51:06Z"
 }
