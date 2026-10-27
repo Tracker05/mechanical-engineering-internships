@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T00:40:10Z",
- "data_as_of": "2026-10-27T00:40:10Z",
- "rendered_at": "2026-10-27T00:40:10Z",
+ "generated_at": "2026-10-27T05:53:22Z",
+ "data_as_of": "2026-10-27T05:53:22Z",
+ "rendered_at": "2026-10-27T05:53:23Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -937,6 +937,25 @@
    }
   },
   {
+   "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -53,
+   "status": "open",
+   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Florence-SC/Vehicle-Maintenance-Technician-Internship---2027_R41190",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-04"
+   }
+  },
+  {
    "company": "Skydio",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -972,25 +991,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-07"
-   }
-  },
-  {
-   "company": "Becton Dickinson",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -49,
-   "status": "open",
-   "url": "https://bdx.wd1.myworkdayjobs.com/US_EARLY_TALENT_SITE/job/USA-NJ---Franklin-Lakes/BD-2027-Summer-Internship---Quality-Engineering-Development-Program_R-554256",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-08"
    }
   },
   {
@@ -2818,6 +2818,25 @@
    }
   },
   {
+   "company": "HP IQ",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/hpiq/jobs/6141235004",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-26"
+   }
+  },
+  {
    "company": "Jabil",
    "last_cycle_posted": "",
    "posted_on": "2026-10-26",
@@ -2885,7 +2904,7 @@
    "expected": "2026-10-26",
    "days_until": -1,
    "status": "open",
-   "url": "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424",
+   "url": "https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3178,25 +3197,6 @@
    }
   },
   {
-   "company": "Duke Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -53,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-04"
-   }
-  },
-  {
    "company": "Mdtkangaroo",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -3255,6 +3255,25 @@
   },
   {
    "company": "Allen Control Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -49,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "Becton Dickinson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
    "precision": "day",
@@ -3520,5 +3539,5 @@
    }
   }
  ],
- "count": 185
+ "count": 186
 }
