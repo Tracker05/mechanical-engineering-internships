@@ -1105,6 +1105,21 @@
     }
    }
   },
+  "global infrastructure": {
+   "name": "Global Infrastructure",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:gi:/job/CA--AB--Calgary---685-Centre-Street-Southwest/Intern--Mechanical-Designer_6605",
+      "workday:gi:/job/CA--BC--Vancouver---200-Granville-Street/Intern--Mechanical-Designer_6607",
+      "workday:gi:/job/CA--BC--Victoria---1515-Douglas-Street/Intern--Mechanical-Designer_6602",
+      "workday:gi:/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606"
+     ],
+     "count": 4
+    }
+   }
+  },
   "globalfoundries": {
    "name": "GlobalFoundries",
    "cycles": {
@@ -2110,6 +2125,18 @@
     }
    }
   },
+  "parallel systems": {
+   "name": "Parallel Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "greenhouse:parallel:5275660007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "philips": {
    "name": "Philips",
    "cycles": {
@@ -2500,6 +2527,7 @@
       "workday:snc:/job/Hagerstown-MD/Test-Engineering-Intern--Summer-2027-_R0030772",
       "workday:snc:/job/Lone-Tree-CO/Aerodynamics-Engineer-Intern---Summer-2027_R0031131",
       "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735",
+      "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031083",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineering-Intern--Summer-2027-_R0030745",
@@ -2509,7 +2537,7 @@
       "workday:snc:/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736",
       "workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1"
      ],
-     "count": 18
+     "count": 19
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -2731,6 +2759,19 @@
       "workday:ttc:/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578"
      ],
      "count": 19
+    }
+   }
+  },
+  "toyota research institute": {
+   "name": "Toyota Research Institute",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "lever:tri:016bbb58-857a-4367-b1aa-0cdc9f818478",
+      "lever:tri:6f60ff79-c902-466a-912c-7ab849ce6424"
+     ],
+     "count": 2
     }
    }
   },
@@ -3153,5 +3194,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T21:03:43Z"
+ "updated_at": "2026-10-27T00:40:10Z"
 }
