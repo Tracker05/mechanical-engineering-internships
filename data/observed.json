@@ -360,6 +360,19 @@
     }
    }
   },
+  "astronics": {
+   "name": "Astronics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "greenhouse:astronicscorporation:4420383009",
+      "greenhouse:astronicscorporation:4430399009"
+     ],
+     "count": 2
+    }
+   }
+  },
   "atkinsréalis": {
    "name": "AtkinsRéalis",
    "cycles": {
@@ -607,6 +620,18 @@
       "workday:cartech:/job/Tanner-AL/Metallurgy-Intern_26967"
      ],
      "count": 2
+    }
+   }
+  },
+  "castelion": {
+   "name": "Castelion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "greenhouse:castelioncorporation:4468205009"
+     ],
+     "count": 1
     }
    }
   },
@@ -1284,6 +1309,18 @@
     }
    }
   },
+  "highmark health": {
+   "name": "Highmark Health",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-29",
+     "role_ids": [
+      "workday:highmarkhealth:/job/Camp-Hill-PA-17011-Center-Street-Building-2A/Summer-2027-Quality-Engineer-enGen-Undergraduate-Intern_J290402"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hitachi energy": {
    "name": "Hitachi Energy",
    "cycles": {
@@ -1427,9 +1464,10 @@
       "workday:imeg:/job/San-Francisco-CA/Structural-Engineering-Intern---San-Francisco--CA_R-16875",
       "workday:imeg:/job/St-Louis-MO/Mechanical-Engineering-Intern_R-16487",
       "workday:imeg:/job/St-Louis-MO/Structural-Engineering-Intern---St-Louis--MO_R-16601",
+      "workday:imeg:/job/Urbandale-IA/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
-     "count": 36
+     "count": 37
     }
    }
   },
@@ -2014,6 +2052,7 @@
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Design-Intern---Gilbert-AZ_R10258156",
+      "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258213-1",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184",
@@ -2050,11 +2089,14 @@
       "workday:ngc:/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10256223",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Parts-Materials-and-Process-Engineering-Intern--Roy-UT_R10258242-1",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Parts-Materials-and-Process-Engineering-Intern--Roy-UT_R10258248",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 42
+     "count": 46
     }
    }
   },
@@ -2193,12 +2235,13 @@
       "workday:philips:/job/Colorado-Springs-Colorado-United-States/Co-op---R-D-Engineer---Colorado-Springs--CO---Summer-2027_591611",
       "workday:philips:/job/Latham-New-York-United-States/Intern-Co-op---STET-Mechanical-Engineer---Latham--NY---Spring-Summer-2027_591053",
       "workday:philips:/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Test-Engineering---New-Kensington--PA---Summer-2027_591469",
+      "workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Advanced-Manufacturing-Engineer---Plymouth--MN---Summer-2027_594522",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern---R-D-Engineer---Plymouth--MN---Summer-2027_591610",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op---Mechanical-Process-Engineer---Reedsville--PA---2026_592206",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205"
      ],
-     "count": 7
+     "count": 8
     },
     "Fall 2026": {
      "first_posted": "2026-09-21",
@@ -2315,9 +2358,10 @@
      "first_posted": "2026-09-16",
      "role_ids": [
       "greenhouse:rendezvousrobotics:4408578009",
+      "greenhouse:rendezvousrobotics:4408588009",
       "greenhouse:rendezvousrobotics:4408601009"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3273,5 +3317,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T10:08:23Z"
+ "updated_at": "2026-10-29T17:12:20Z"
 }
