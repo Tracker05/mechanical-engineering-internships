@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T02:12:35Z",
- "data_as_of": "2026-10-30T02:12:35Z",
- "rendered_at": "2026-10-30T02:12:36Z",
+ "generated_at": "2026-10-30T08:52:23Z",
+ "data_as_of": "2026-10-30T08:52:23Z",
+ "rendered_at": "2026-10-30T08:52:23Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -929,25 +929,6 @@
    "days_until": -56,
    "status": "open",
    "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Ann-Arbor-MI/Internship---Structural-Engineer--Hybrid-_R-102315",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-04"
-   }
-  },
-  {
-   "company": "Duke Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -56,
-   "status": "open",
-   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Florence-SC/Vehicle-Maintenance-Technician-Internship---2027_R41190",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2258,7 +2239,7 @@
    "expected": "2026-09-30",
    "days_until": -30,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5253432007",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5253474007",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3008,6 +2989,25 @@
    }
   },
   {
+   "company": "Stratolaunch",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467832008",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-30"
+   }
+  },
+  {
    "company": "Torus",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3270,6 +3270,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-02"
+   }
+  },
+  {
+   "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -56,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-04"
    }
   },
   {
@@ -3653,5 +3672,5 @@
    }
   }
  ],
- "count": 192
+ "count": 193
 }

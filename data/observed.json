@@ -2802,6 +2802,20 @@
     }
    }
   },
+  "stratolaunch": {
+   "name": "Stratolaunch",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "greenhouse:stratolaunch:5467824008",
+      "greenhouse:stratolaunch:5467828008",
+      "greenhouse:stratolaunch:5467832008"
+     ],
+     "count": 3
+    }
+   }
+  },
   "stryker": {
    "name": "Stryker",
    "cycles": {
@@ -3327,5 +3341,5 @@
    }
   }
  },
- "updated_at": "2026-10-30T02:12:35Z"
+ "updated_at": "2026-10-30T08:52:23Z"
 }
