@@ -360,6 +360,18 @@
     }
    }
   },
+  "astrazeneca": {
+   "name": "AstraZeneca",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167"
+     ],
+     "count": 1
+    }
+   }
+  },
   "astronics": {
    "name": "Astronics",
    "cycles": {
@@ -1124,9 +1136,12 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950",
-      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Connected-Vehicle-Systems_JR-202621747"
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research---Development---Energy-and-Propulsion-Controls_JR-202622207",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Connected-Vehicle-Systems_JR-202621747",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258"
      ],
-     "count": 20
+     "count": 23
     }
    }
   },
@@ -2648,6 +2663,7 @@
      "role_ids": [
       "workday:snc:/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727",
       "workday:snc:/job/Dayton-OH/Mechanical-Engineer-Intern--Summer-2027-_R0030744",
+      "workday:snc:/job/Dayton-OH/Quality-Engineer-Intern--Summer-2027-_R0031194",
       "workday:snc:/job/Dayton-OH/Test-Engineering-Intern--Summer-2027-_R0030766",
       "workday:snc:/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737",
       "workday:snc:/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784",
@@ -2665,9 +2681,10 @@
       "workday:snc:/job/Lone-Tree-CO/Test-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031090",
       "workday:snc:/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771",
       "workday:snc:/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736",
-      "workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1"
+      "workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1",
+      "workday:snc:/job/Sparks-NV/Manufacturing-Engineer-Intern--Summer-2027-_R0031241"
      ],
-     "count": 20
+     "count": 22
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -2796,9 +2813,14 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008419",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008420",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008421",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008423"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008423",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008551",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008568",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008569",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008570",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008571"
      ],
-     "count": 31
+     "count": 36
     }
    }
   },
@@ -3341,5 +3363,5 @@
    }
   }
  },
- "updated_at": "2026-10-30T08:52:23Z"
+ "updated_at": "2026-10-30T15:38:39Z"
 }
