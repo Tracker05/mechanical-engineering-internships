@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T17:46:57Z",
- "data_as_of": "2026-11-06T17:46:57Z",
- "rendered_at": "2026-11-06T17:46:57Z",
+ "generated_at": "2026-11-06T22:39:58Z",
+ "data_as_of": "2026-11-06T22:39:58Z",
+ "rendered_at": "2026-11-06T22:39:59Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -701,6 +701,25 @@
    "days_until": -66,
    "status": "open",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Auburn-Hills-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0143857",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Hypertherm",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -66,
+   "status": "open",
+   "url": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/New-Brighton-MN/Mechanical-Engineering-Intern_R4135",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3122,6 +3141,25 @@
    }
   },
   {
+   "company": "L.L.Bean",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-06"
+   }
+  },
+  {
    "company": "Otto Engineering Inc",
    "last_cycle_posted": "",
    "posted_on": "2026-11-06",
@@ -3133,6 +3171,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://otto-engineering-inc.breezy.hr/p/79c359e540bd-quality-engineering-intern-summer-2027",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-06"
+   }
+  },
+  {
+   "company": "Ryder System",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3345,25 +3402,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-31"
-   }
-  },
-  {
-   "company": "Hypertherm",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -66,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-01"
    }
   },
   {
@@ -3842,5 +3880,5 @@
    }
   }
  ],
- "count": 202
+ "count": 204
 }

@@ -1462,9 +1462,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
-      "workday:hypertherm:/job/Hanover-NH/Intern---Manufacturing-Process-Engineer_R4063-1"
+      "workday:hypertherm:/job/Hanover-NH/Intern---Manufacturing-Process-Engineer_R4063-1",
+      "workday:hypertherm:/job/New-Brighton-MN/Mechanical-Engineering-Intern_R4135"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1681,6 +1682,18 @@
       "workday:heinz:/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276"
      ],
      "count": 4
+    }
+   }
+  },
+  "l l bean": {
+   "name": "L.L.Bean",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "workday:llbean:/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264"
+     ],
+     "count": 1
     }
    }
   },
@@ -2596,12 +2609,13 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-123--350-Collins-Rd-NE--BLDG-123/Metrology-Engineering-Intern--Summer-2027-_01882625",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133"
      ],
-     "count": 46
+     "count": 47
     }
    }
   },
@@ -2614,6 +2628,19 @@
       "greenhouse:ruggedrobotics:4730900005"
      ],
      "count": 1
+    }
+   }
+  },
+  "ryder system": {
+   "name": "Ryder System",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "workday:ryder:/job/USA---Chambersburg-PA-17202/Industrial-Engineer-Intern--summer-2027-_R188911",
+      "workday:ryder:/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897"
+     ],
+     "count": 2
     }
    }
   },
@@ -3490,5 +3517,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T17:46:57Z"
+ "updated_at": "2026-11-06T22:39:58Z"
 }
