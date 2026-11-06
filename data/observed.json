@@ -70,9 +70,10 @@
       "smartrecruiters:AECOM2:744000155595329",
       "smartrecruiters:AECOM2:744000157611879",
       "smartrecruiters:AECOM2:744000157611929",
-      "smartrecruiters:AECOM2:744000158171520"
+      "smartrecruiters:AECOM2:744000158171520",
+      "smartrecruiters:AECOM2:744000160245149"
      ],
-     "count": 18
+     "count": 19
     }
    }
   },
@@ -1790,6 +1791,18 @@
     }
    }
   },
+  "lumbermen s": {
+   "name": "Lumbermen's",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "greenhouse:lumbermens:5474347008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "mach industries": {
    "name": "Mach Industries",
    "cycles": {
@@ -2288,6 +2301,18 @@
       "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855"
      ],
      "count": 10
+    }
+   }
+  },
+  "otto engineering": {
+   "name": "Otto Engineering Inc",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "breezy:otto-engineering-inc:79c359e540bd"
+     ],
+     "count": 1
     }
    }
   },
@@ -3465,5 +3490,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T10:08:08Z"
+ "updated_at": "2026-11-06T17:46:57Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T10:08:08Z",
- "data_as_of": "2026-11-06T10:08:08Z",
- "rendered_at": "2026-11-06T10:08:08Z",
+ "generated_at": "2026-11-06T17:46:57Z",
+ "data_as_of": "2026-11-06T17:46:57Z",
+ "rendered_at": "2026-11-06T17:46:57Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -3084,6 +3084,25 @@
    }
   },
   {
+   "company": "Lumbermen's",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-05",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474347008",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-05"
+   }
+  },
+  {
    "company": "Metalenz",
    "last_cycle_posted": "",
    "posted_on": "2026-11-05",
@@ -3100,6 +3119,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-11-05"
+   }
+  },
+  {
+   "company": "Otto Engineering Inc",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://otto-engineering-inc.breezy.hr/p/79c359e540bd-quality-engineering-intern-summer-2027",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-06"
    }
   },
   {
@@ -3804,5 +3842,5 @@
    }
   }
  ],
- "count": 200
+ "count": 202
 }
