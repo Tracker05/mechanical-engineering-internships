@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Tracker05/mechanical-engineering-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/Tracker05/mechanical-engineering-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Ftracker05.github.io%2Fmechanical-engineering-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)
 
-### 1141 open roles (533 listed below) · 95 new this week
+### 1146 open roles (533 listed below) · 99 new this week
 
-5,031 employers tracked · data as of Nov 10, 2026 at 03:48 UTC
+5,031 employers tracked · data as of Nov 10, 2026 at 11:58 UTC
 
-_842 have a cycle the employer stated · 299 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_847 have a cycle the employer stated · 299 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://tracker05.github.io/mechanical-engineering-internships/)** · **[📡 RSS](https://tracker05.github.io/mechanical-engineering-internships/feed.xml)** · **[⚙️ JSON API](https://tracker05.github.io/mechanical-engineering-internships/api/jobs.json)** · **[✉️ Email alerts](https://tracker05.github.io/mechanical-engineering-internships/#subscribe)**
 
@@ -90,8 +90,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Pivotal Software ✓ | Internship, Flight Test Engineer (Summer 2027) 🇺🇸 🆕 | Aerospace & Defense | Palo Alto, CA | CNC, Additive Manufacturing | Nov 09, 2026 | [Apply](https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b) |
-| Pivotal Software ✓ | Internship, Mechanical Engineering (Summer 2027) 🇺🇸 🆕 | Design & CAD | Palo Alto, CA | SolidWorks, CATIA, Tolerance Analysis | Nov 09, 2026 | [Apply](https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506) |
 | Pivotal Software ✓ | Manufacturing Engineering Internship (Summer 2027) 🇺🇸 🆕 | Manufacturing & Process | Palo Alto, CA | CNC, Additive Manufacturing, Composites, Six Sigma | Nov 09, 2026 | [Apply](https://jobs.lever.co/pivotal/9aeda482-373d-4916-82a6-180748708ac2) |
+| Pivotal Software ✓ | Internship, Mechanical Engineering (Summer 2027) 🇺🇸 🆕 | Design & CAD | Palo Alto, CA | SolidWorks, CATIA, Tolerance Analysis | Nov 09, 2026 | [Apply](https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506) |
 | ABB ✓ | Mechanical Engineering Co-op- Summer 2027 🛂 🆕 | Design & CAD | USA, NC, Mebane | SolidWorks, Creo | Nov 09, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Mechanical-Engineering-Co-op--Summer-2027_JR00051089) |
 | RTX | Industrial Engineering Co-op (Summer/Fall 2027) 🇺🇸 🆕 | Manufacturing & Process | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd… | SolidWorks, Creo, Fusion 360 | Nov 09, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945) |
 | Sanofi | 2027 Summer Intern Automation and Manufacturing Sys Swiftwater PA 🆕 | Manufacturing & Process | Swiftwater, PA | No skills listed | Nov 09, 2026 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Automation-and-Manufacturing-Sys-Swiftwater-PA_R2865046) |
@@ -631,8 +631,8 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Solar Turbines | Jul 23 | dropped Jul 23 | ✅ [open now](https://cat.wd5.myworkdayjobs.com/solarturbines/job/Channelview-Texas/XMLNAME-2027-Welding-Engineer-Intern_R0000379964) |
 | 🎯 Nexus Engineering Group | Jul 27 | dropped Jul 27 | ✅ [open now](https://jobs.lever.co/nexuse-group/1c99ce4b-dfc4-423d-af93-ef73557baf4d) |
 | 🎯 GlobalFoundries | Aug 14 | dropped Aug 14 | ✅ [open now](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578) |
+| 🎯 Caterpillar Inc. | Aug 17 | dropped Aug 17 | ✅ [open now](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506) |
 | 🎯 IMEG | Aug 17 | dropped Aug 17 | ✅ [open now](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Anaheim-CA/Mechanical-Engineering-Intern---Anaheim--CA_R-16751) |
-| 🎯 WSP | Aug 17 | dropped Aug 17 | ✅ [open now](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88869) |
 | 🎯 Field AI | Feb 17 | dropped Feb 17 · closed | 🗓️ dropped |
 | 🎯 Mosaic | Jul 22 | dropped Jul 22 · closed | 🗓️ dropped |
 | 🎯 Kraft Heinz | Jul 31 | dropped Jul 31 · closed | 🗓️ dropped |
@@ -647,12 +647,12 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Commonwealth Fusion Systems | Intern - Materials Test Engineer - Summer 2027 | Summer 2027 | 2026-11-10 | gone from feed |
 | RESPEC | Student Engineering Intern (Mechanical or Electrical) | Summer 2027 | 2026-11-10 | gone from feed |
 | RESPEC | Student Engineering Intern (Structural) | Summer 2027 | 2026-11-10 | gone from feed |
 | RESPEC | Student Engineering Intern (Mechanical or Electrical) | Summer 2027 | 2026-11-10 | gone from feed |
 | Covestro | Process Engineering Intern | Summer 2027 | 2026-11-10 | gone from feed |
 | Vermeer | Quality Engineer Intern - Summer 2027 | Summer 2027 | 2026-11-10 | gone from feed |
-| Caterpillar Inc. | 2027 Engineering Corporate Internship Program Welding | Summer 2027 | 2026-11-10 | out of scope |
 | S&C Electric Company | Tool Design Engineer Intern | Summer 2027 | 2026-11-08 | gone from feed |
 | S&C Electric Company | Mechanical Engineer Intern - Franklin,WI | Summer 2027 | 2026-11-08 | gone from feed |
 | S&C Electric Company | Manufacturing Engineer Intern | Summer 2027 | 2026-11-08 | gone from feed |
@@ -705,7 +705,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,797 of 5,346 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 89% of the full registry) · completed in 1133.1s · 612 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,906 of 5,346 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 897.8s · 660 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
