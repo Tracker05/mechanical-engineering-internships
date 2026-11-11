@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T00:55:00Z",
- "data_as_of": "2026-11-11T00:55:00Z",
- "rendered_at": "2026-11-11T00:55:00Z",
+ "generated_at": "2026-11-11T07:27:30Z",
+ "data_as_of": "2026-11-11T07:27:30Z",
+ "rendered_at": "2026-11-11T07:27:30Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/Tracker05/mechanical-engineering-internships",
  "companies": [
@@ -2229,25 +2229,6 @@
    }
   },
   {
-   "company": "Astronics",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-30",
-   "days_until": -42,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-30"
-   }
-  },
-  {
    "company": "Muon Space",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -3763,6 +3744,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-17"
+   }
+  },
+  {
+   "company": "Astronics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -42,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-30"
    }
   },
   {
