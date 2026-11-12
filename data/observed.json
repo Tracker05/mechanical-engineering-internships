@@ -1794,6 +1794,19 @@
     }
    }
   },
+  "lightmatter": {
+   "name": "Lightmatter",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-11",
+     "role_ids": [
+      "greenhouse:lightmatter:5473871008",
+      "greenhouse:lightmatter:5479684008"
+     ],
+     "count": 2
+    }
+   }
+  },
   "loft orbital": {
    "name": "Loft Orbital",
    "cycles": {
@@ -2839,15 +2852,13 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
-      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:043c739e-ff80-4faa-b2be-5d1e96768dfa",
-      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:38ba128e-815b-4a14-b4d2-446ffc190a33",
       "ashby:shield:043c739e-ff80-4faa-b2be-5d1e96768dfa",
       "ashby:shield:38ba128e-815b-4a14-b4d2-446ffc190a33",
       "lever:shieldai:bc41648b-c201-4b01-8feb-d228cbfdd875",
       "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
       "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc"
      ],
-     "count": 7
+     "count": 5
     }
    }
   },
@@ -3604,5 +3615,5 @@
    }
   }
  },
- "updated_at": "2026-11-11T22:35:56Z"
+ "updated_at": "2026-11-12T03:40:00Z"
 }
