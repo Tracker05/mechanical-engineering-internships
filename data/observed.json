@@ -968,11 +968,15 @@
     "Summer 2027": {
      "first_posted": "2026-11-10",
      "role_ids": [
+      "workday:entegris:/job/Aurora-IL/Manufacturing-Engineering-Intern---Summer-2027_REQ-15835-1",
       "workday:entegris:/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1",
       "workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834",
+      "workday:entegris:/job/Chaska-MN/Quality-Engineering-Intern_REQ-15878",
+      "workday:entegris:/job/Colorado-Springs-CO/Manufacturing-Engineer-Intern_REQ-15871",
+      "workday:entegris:/job/Colorado-Springs-CO/Quality-Engineering-Intern_REQ-15867",
       "workday:entegris:/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850"
      ],
-     "count": 3
+     "count": 7
     }
    }
   },
@@ -1637,6 +1641,18 @@
     }
    }
   },
+  "johnson controls": {
+   "name": "Johnson Controls",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-12",
+     "role_ids": [
+      "workday:jci:/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046"
+     ],
+     "count": 1
+    }
+   }
+  },
   "johnson johnson": {
    "name": "Johnson & Johnson",
    "cycles": {
@@ -1887,6 +1903,18 @@
     }
    }
   },
+  "martin marietta": {
+   "name": "Martin Marietta",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-22",
+     "role_ids": [
+      "workday:martinmarietta:/job/Salisbury-NC/Intern--Continuous--Improvement-Industrial-Engineering--Summer-2027-_JR023610"
+     ],
+     "count": 1
+    }
+   }
+  },
   "marvell": {
    "name": "Marvell",
    "cycles": {
@@ -2001,6 +2029,18 @@
       "workday:michelinhr:/job/FOUNTAIN-INN-SC/Summer-2027-Internship--Process-Engineering-Intern--Fountain-Inn--SC-_R-2026030120"
      ],
      "count": 2
+    }
+   }
+  },
+  "micron technology": {
+   "name": "Micron Technology",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-12",
+     "role_ids": [
+      "workday:micron:/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535"
+     ],
+     "count": 1
     }
    }
   },
@@ -2229,6 +2269,7 @@
       "workday:ngc:/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668",
+      "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Manufacturing-Engineering-Intern---Annapolis-MD_R10260385",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10251185",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
@@ -2261,7 +2302,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 61
+     "count": 62
     },
     "Fall 2026": {
      "first_posted": "2026-10-29",
@@ -3155,6 +3196,7 @@
       "workday:ttc:/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
       "workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
       "workday:ttc:/job/Lake-Mills-WI/Manufacturing-Engineering-Intern---HammerHead_JR17635",
+      "workday:ttc:/job/Lake-Mills-WI/Mechanical-Engineering-Intern---HammerHead_JR17392",
       "workday:ttc:/job/Perry-OK/Manufacturing-Engineer-Intern---Ditch-Witch_JR17449",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101",
@@ -3164,7 +3206,7 @@
       "workday:ttc:/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636",
       "workday:ttc:/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578"
      ],
-     "count": 21
+     "count": 22
     }
    }
   },
@@ -3627,5 +3669,5 @@
    }
   }
  },
- "updated_at": "2026-11-12T12:06:38Z"
+ "updated_at": "2026-11-12T20:11:34Z"
 }
