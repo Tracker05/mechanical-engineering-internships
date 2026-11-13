@@ -234,9 +234,10 @@
       "amazon:amazon:10535282",
       "amazon:amazon:10536817",
       "amazon:amazon:10587087",
-      "amazon:amazon:10591833"
+      "amazon:amazon:10591833",
+      "amazon:amazon:10604778"
      ],
-     "count": 4
+     "count": 5
     },
     "Fall 2026": {
      "first_posted": "2025-09-19",
@@ -1832,10 +1833,11 @@
     "Summer 2027": {
      "first_posted": "2026-11-11",
      "role_ids": [
+      "greenhouse:lightmatter:5473869008",
       "greenhouse:lightmatter:5473871008",
       "greenhouse:lightmatter:5479684008"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2276,6 +2278,7 @@
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488",
+      "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1",
@@ -2320,7 +2323,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 64
+     "count": 65
     },
     "Fall 2026": {
      "first_posted": "2026-10-29",
@@ -2620,6 +2623,22 @@
     }
    }
   },
+  "reliable robotics": {
+   "name": "Reliable Robotics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-13",
+     "role_ids": [
+      "ashby:reliable-robotics:0af72d5a-87b7-49a1-b49e-424d28758c9e",
+      "ashby:reliable-robotics:1085bdf8-f023-4cf6-90ed-93a2f4f6ded8",
+      "ashby:reliable-robotics:1d020651-71bb-4e47-baa6-2286dc780d96",
+      "ashby:reliable-robotics:4aa17839-d94c-478f-9ce9-9974df00314b",
+      "ashby:reliable-robotics:f4073938-ccdb-46fb-aa65-6715981d27ee"
+     ],
+     "count": 5
+    }
+   }
+  },
   "rendezvous robotics": {
    "name": "Rendezvous Robotics",
    "cycles": {
@@ -2899,9 +2918,10 @@
      "role_ids": [
       "greenhouse:sharkninjaoperatingllc:4713810006",
       "greenhouse:sharkninjaoperatingllc:4713812006",
-      "greenhouse:sharkninjaoperatingllc:4718812006"
+      "greenhouse:sharkninjaoperatingllc:4718812006",
+      "greenhouse:sharkninjaoperatingllc:4719580006"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3687,5 +3707,5 @@
    }
   }
  },
- "updated_at": "2026-11-13T16:36:41Z"
+ "updated_at": "2026-11-13T22:26:39Z"
 }
